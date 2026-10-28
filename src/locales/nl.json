@@ -12,7 +12,11 @@
       "maisons": "Huizen",
       "personnages": "Personages",
       "series": "Series",
-      "livres": "Boeken"
+      "livres": "Boeken",
+      "lieux": "Plaatsen",
+      "batailles": "Veldslagen",
+      "croyances": "Geloven",
+      "creatures": "Wezens"
     },
     "titles": {
       "histoire": "De geschiedenis van Westeros",
@@ -20,7 +24,12 @@
       "personnages": "Personages",
       "series": "Series",
       "livres": "De boeken",
-      "sources": "Bronnen"
+      "sources": "Bronnen",
+      "lieux": "Plaatsen en kastelen",
+      "batailles": "De grote veldslagen",
+      "croyances": "Religies en tradities",
+      "creatures": "Wezens",
+      "saisons": "Seizoensgids"
     },
     "all": "Alle",
     "nightWatch": "Nachtwacht",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Pagina niet gevonden",
     "notFoundText": "Deze pagina bestaat niet of is verplaatst.",
     "backHome": "Terug naar home",
-    "ogAlt": "De Zeven Kronen – Game of Thrones-fansite"
+    "ogAlt": "De Zeven Kronen – Game of Thrones-fansite",
+    "noHouse": "Zonder huis"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Slimme koningin die het volk voor zich weet te winnen.",
     "oberyn-martell": "De Rode Adder van Dorne.",
     "viserys-targaryen": "Vredelievende koning, verscheurd tussen zijn familie en het rijk.",
-    "corlys-velaryon": "De Zeeslang, rijkste zeevaarder van Westeros."
+    "corlys-velaryon": "De Zeeslang, rijkste zeevaarder van Westeros.",
+    "bronn": "Gewetenloze maar grappige huurling die dient wie hem het best betaalt. In dienst van de Lannisters wordt hij uiteindelijk rijk.",
+    "varys": "De Spin, meester van de geruchten en de spionnen van het rijk. Hij beweert het rijk te dienen vóór zijn meesters.",
+    "jaqen-h-ghar": "Gezichtsloze Man uit Braavos, die van gezicht kan veranderen. Hij leert Arya de kunst van het doden.",
+    "hodor": "Goedhartige stalknecht van Winterfell die maar één woord zegt. Zijn lot onthult een aangrijpend geheim.",
+    "ygritte": "Roodharige wildlingenvrouw met een sterk karakter, die Jon Snow leert dat hij volgens haar \"niets weet\".",
+    "tormund-fleau-des-geants": "Wildlingenleider, even indrukwekkend als spraakzaam, wiens moed hem de achting van Jon Snow oplevert.",
+    "khal-drogo": "Machtige Dothraki-khal en echtgenoot van Daenerys, wiens dood haar dwingt haar eigen legende te smeden.",
+    "missandei": "Voormalige slavin, tolk en raadgeefster van Daenerys, wier wijsheid haar onmisbaar maakt.",
+    "ver-gris": "Bevelhebber van de Onbezoedelden, trouw aan Daenerys, die bij haar vrijheid en liefde vindt.",
+    "podrick-payne": "Discrete en toegewijde schildknaap van Tyrion, daarna van Brienne, wiens trouw verandert in echte moed.",
+    "gilly": "Wildlingenvrouw die met haar zoon een toevlucht vond in Castle Black en dicht bij Samwell komt te staan.",
+    "ramsay-bolton": "Wrede bastaard van huis Bolton, bekend om zijn brutaliteit jegens zijn gevangenen.",
+    "roose-bolton": "IJskoude heer van Dreadfort, die Robb Stark verraadt tijdens de Rode Bruiloft.",
+    "walder-frey": "Oude heer van de Twins, wraakzuchtig en met talloze kinderen, verantwoordelijk voor het bloedbad van de Rode Bruiloft.",
+    "lysa-arryn": "Weduwe van Jon Arryn en zus van Catelyn, wier paranoia haar met haar zoon opsluit in het Adelaarsnest.",
+    "olenna-tyrell": "De Koningin der Dorens, grootmoeder van Margaery, met een scherpe tong en een vreeswekkend verstand.",
+    "tommen-baratheon": "Jongere broer van Joffrey, zachtaardige en beïnvloedbare koning, verscheurd tussen zijn moeder en het Militante Geloof.",
+    "euron-greyjoy": "Oom van Theon, uitbundige piraat van de IJzeren Eilanden die beweert de grootste vloot ter wereld te bezitten.",
+    "yara-greyjoy": "Dochter van Balon en onverschrokken kapitein van de IJzeren Eilanden, die zich met Daenerys verbindt.",
+    "roi-de-la-nuit": "Leider van de White Walkers en de doden, die het ijsleger naar het zuiden voert.",
+    "lyanna-mormont": "Jonge vrouwe van Bear Island, die zich doet gelden door haar openhartigheid en vastberadenheid.",
+    "barristan-selmy": "Voormalig lord commandant van de Koningsgarde, een eervol ridder die Daenerys dient in Meereen.",
+    "brynden-tully": "De Blackfish, oom van Catelyn en vasthoudend verdediger van Riverrun.",
+    "rhaenys-targaryen": "De Koningin die Nooit Was, berijdster van de draak Meleys, door de Grote Raad van de troon geweerd.",
+    "otto-hightower": "Ambitieuze Hand van de Koning en vader van Alicent, die zijn dochter naar de troon drijft.",
+    "criston-cole": "Ridder van de Koningsgarde, trouw aan Alicent en de Groenen, wiens gekwetste trots de oorlog versnelt.",
+    "aegon-ii-targaryen": "Oudste zoon van Alicent en Viserys, door de Groenen gekroond, wiens aanspraak door Rhaenyra wordt betwist.",
+    "aemond-targaryen": "Eenogige prins, berijder van de draak Vhagar en gevreesd krijger aan de zijde van de Groenen.",
+    "helaena-targaryen": "Zus en echtgenote van Aegon II, met een onrustige gevoeligheid, wier visioenen de toekomst lijken aan te kondigen.",
+    "mysaria": "Danseres die spion werd in de achterbuurten van King's Landing en bekendstaat als de Witte Worm."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "De Zeven Kronen – Game of Thrones-fansite: geschiedenis, huizen",
-      "description": "Onofficiële Game of Thrones-fansite: de geschiedenis van Westeros, grote huizen, 31 personages, HBO-series en boeken. Beschikbaar in 20 talen."
+      "description": "Onofficiële Game of Thrones-fansite: geschiedenis van Westeros, huizen, 61 personages, plaatsen, veldslagen, religies, wezens, series en boeken."
     },
     "history": {
       "title": "Geschiedenis van Westeros – Volledige tijdlijn | De Zeven Kronen",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Personages — Game of Thrones | De Zeven Kronen",
-      "description": "31 personages uit Game of Thrones en House of the Dragon: huis, acteur of actrice en portret, te filteren op huis."
+      "description": "61 personages uit Game of Thrones en House of the Dragon: huis, acteur of actrice en portret, te filteren op huis."
     },
     "series": {
-      "title": "Series — Game of Thrones | De Zeven Kronen",
-      "description": "Uitzenddata, seizoenen en cast van de HBO-series uit het universum van Game of Thrones, met de eerstvolgende releases."
+      "title": "Series en seizoenen van Game of Thrones | De Zeven Kronen",
+      "description": "Game of Thrones, House of the Dragon en A Knight of the Seven Kingdoms: data, cast en een gids voor elk seizoen."
     },
     "books": {
       "title": "De boeken — Game of Thrones | De Zeven Kronen",
       "description": "De romans en novellen van George R. R. Martin waarop Game of Thrones is gebaseerd, met de stand van de twee nog te verschijnen delen."
+    },
+    "places": {
+      "title": "Plaatsen en kastelen van Westeros en Essos | De Zeven Kronen",
+      "description": "21 belangrijke plaatsen uit Game of Thrones: Winterfell, King's Landing, Casterly Rock, de Muur, Braavos, Meereen… met regio en geschiedenis."
+    },
+    "battles": {
+      "title": "De grote veldslagen van Game of Thrones | De Zeven Kronen",
+      "description": "De Trident, de Blackwater, de Slag der Bastaarden, Winterfell… de 14 veldslagen die het lot van Westeros veranderden."
+    },
+    "beliefs": {
+      "title": "Religies en tradities in Game of Thrones | De Zeven Kronen",
+      "description": "De Zeven, de Oude Goden, de Heer van het Licht, de Verdronken God: de geloven van Westeros en Essos uitgelegd."
+    },
+    "creatures": {
+      "title": "Wezens in Game of Thrones: draken, wolven | De Zeven Kronen",
+      "description": "Draken, schrikwolven, White Walkers, reuzen, Kinderen van het Woud: de wezens uit het universum van Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "Het Noorden",
+      "desc": "Al duizenden jaren de zetel van huis Stark, een vesting gebouwd boven heetwaterbronnen. Het is ook het toneel van de strijd tegen de doden."
+    },
+    {
+      "name": "De Muur",
+      "region": "Het Noorden",
+      "desc": "Een ijsmuur van zo'n 210 meter hoog die de Zeven Koninkrijken scheidt van de wilde landen van het hoge Noorden. De Nachtwacht verdedigt hem al eeuwenlang."
+    },
+    {
+      "name": "Castle Black",
+      "region": "De Muur",
+      "desc": "Hoofdvesting van de Nachtwacht, aan de voet van de Muur. Hier legt Jon Snow zijn eed af en wordt hij later Lord Commandant."
+    },
+    {
+      "name": "Dreadfort",
+      "region": "Het Noorden",
+      "desc": "Bolwerk van huis Bolton, bekend om de wreedheid van zijn heren en hun gevilden. Theon Greyjoy wordt er gevangen gehouden."
+    },
+    {
+      "name": "King's Landing",
+      "region": "De Crownlands",
+      "desc": "Hoofdstad van de Zeven Koninkrijken, waar de Red Keep en de IJzeren Troon staan. Het is het middelpunt van alle hofintriges."
+    },
+    {
+      "name": "Dragonstone",
+      "region": "De Crownlands",
+      "desc": "Vulkanisch eiland waar de Targaryens zich vestigen vóór de Verovering. Daenerys keert er met haar draken terug om haar koninkrijk terug te winnen."
+    },
+    {
+      "name": "Casterly Rock",
+      "region": "De Westlanden",
+      "desc": "Vesting uitgehouwen in de rotswand en zetel van huis Lannister, beroemd om zijn goudmijnen."
+    },
+    {
+      "name": "Riverrun",
+      "region": "De Riverlands",
+      "desc": "Kasteel van de Tully's, op de samenvloeiing van twee rivieren, dat door zijn natuurlijke verdedigingswerken moeilijk te belegeren is."
+    },
+    {
+      "name": "De Twins",
+      "region": "De Riverlands",
+      "desc": "Twee torens verbonden door een brug die de oversteek van de Trident controleert. De plaats is van Walder Frey en het toneel van de Rode Bruiloft."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "De Riverlands",
+      "desc": "Gigantische vestingruïne, ooit de grootste van Westeros, waarvan de door draken verschroeide torens als vervloekt gelden."
+    },
+    {
+      "name": "Het Adelaarsnest",
+      "region": "De Vallei",
+      "desc": "Vesting van huis Arryn, op een berghelling, die als onneembaar geldt. Gevangenen worden er door de Maandeur naar beneden gegooid."
+    },
+    {
+      "name": "Highgarden",
+      "region": "De Reach",
+      "desc": "Kasteel van huis Tyrell, omringd door tuinen en vruchtbaar land dat een groot deel van het rijk voedt."
+    },
+    {
+      "name": "Oldtown",
+      "region": "De Reach",
+      "desc": "Oudste stad van Westeros, zetel van de Citadel waar de maesters worden opgeleid, en van huis Hightower."
+    },
+    {
+      "name": "Storm's End",
+      "region": "De Stormlands",
+      "desc": "Kasteel van de Baratheons, naar verluidt gebouwd om de stormen van de zee te trotseren. Stannis wordt er tijdens de opstand belegerd."
+    },
+    {
+      "name": "Sunspear",
+      "region": "Dorne",
+      "desc": "Hoofdstad van Dorne en zetel van huis Martell, waar erfopvolgingsgebruiken gelden die verschillen van die in de rest van het koninkrijk."
+    },
+    {
+      "name": "Pyke",
+      "region": "De IJzeren Eilanden",
+      "desc": "Door de zee geteisterd eiland waar huis Greyjoy heerst. De zeevaarderbewoners leven van plundering en strooptochten."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "Stadstaat van de drakenheren, verwoest door de Doem. De ruïnes en het Valyrisch staal voeden alle legenden."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Vrije stad gebouwd op eilanden, met zijn kolossale Titan en de IJzeren Bank. Arya sluit zich er aan bij het Huis van Zwart en Wit."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Stad aan de Slavenbaai waar Daenerys de slavernij afschaft en haar eerste stappen als koningin zet."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Handelsstad met legendarische muren, waar Daenerys bondgenoten zoekt en het Huis van de Onsterfelijken vindt."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "De Dothrakische Zee",
+      "desc": "Heilige stad van de Dothraki, zonder muren, waar alle weduwen van khals tussen de dosh khaleen komen wonen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "Het Vuurveld",
+      "year": "Jaar 1 na de Verovering",
+      "sides": "Targaryens tegen Lannisters en Gardeners",
+      "desc": "Aegon en zijn zussen vallen het leger van de Reach en het Westen aan op drakenrug. Duizenden mannen komen om in de vlammen, en de koningen knielen."
+    },
+    {
+      "name": "Het Roodgrasveld",
+      "year": "Ca. 196 na de Verovering",
+      "sides": "Daeron II tegen Daemon Blackfyre",
+      "desc": "Beslissende slag van de eerste Blackfyre-opstand, waarin de opstandige bastaard wordt verslagen. Ze tekent de Targaryen-dynastie blijvend."
+    },
+    {
+      "name": "De Trident",
+      "year": "283 na de Verovering",
+      "sides": "Rebellen tegen Rhaegar Targaryen",
+      "desc": "Robert Baratheon doodt prins Rhaegar in een tweegevecht, waarmee de rebellen de weg naar King's Landing openen."
+    },
+    {
+      "name": "De plundering van King's Landing",
+      "year": "283 na de Verovering",
+      "sides": "Lannisters tegen Targaryens",
+      "desc": "Tywins troepen trekken de hoofdstad binnen en plunderen haar. Jaime doodt koning Aerys, de Gekke Koning."
+    },
+    {
+      "name": "Het Fluisterwoud",
+      "year": "298 na de Verovering",
+      "sides": "Robb Stark tegen Lannisters",
+      "desc": "Robbs eerste grote overwinning: met een kleinere strijdmacht lokt hij het leger van Jaime Lannister in de val."
+    },
+    {
+      "name": "De Blackwater",
+      "year": "299 na de Verovering",
+      "sides": "Stannis tegen Lannisters",
+      "desc": "Stannis valt King's Landing aan over zee, maar Tyrion zet de rivier in vuur en vlam met wildvuur. De versterkingen van Tywin en de Tyrells redden de stad."
+    },
+    {
+      "name": "De Rode Bruiloft",
+      "year": "299 na de Verovering",
+      "sides": "Freys en Boltons tegen Starks",
+      "desc": "Meer dan een slag, een bloedbad: Robb, Catelyn en hun leenmannen worden tijdens een bruiloftsfeest vermoord."
+    },
+    {
+      "name": "Castle Black",
+      "year": "300 na de Verovering",
+      "sides": "Nachtwacht tegen wildlingen",
+      "desc": "Jon Snow en de Nachtwacht houden stand tegen het leger van Mance Rayder, dat de Muur probeert over te steken."
+    },
+    {
+      "name": "Meereen",
+      "year": "Seizoen 6",
+      "sides": "Daenerys tegen de meesters",
+      "desc": "Daenerys keert terug op haar draak Drogon en vernietigt de vloot van de meesters, die met hun bondgenoten de stad kwamen belegeren."
+    },
+    {
+      "name": "De Slag der Bastaarden",
+      "year": "Seizoen 6",
+      "sides": "Jon en Sansa tegen Ramsay Bolton",
+      "desc": "Voor de poorten van Winterfell staat Jon op het punt verpletterd te worden, tot de ridders van de Vallei het tij keren. Huis Stark herovert zijn thuis."
+    },
+    {
+      "name": "De plundering van de Reach",
+      "year": "Seizoen 7",
+      "sides": "Daenerys tegen Lannisters",
+      "desc": "Daenerys en Drogon vallen de bevoorradingskaravaan van de Lannisters aan en tonen voor het eerst de macht van een draak in oorlogstijd."
+    },
+    {
+      "name": "De Slag om Winterfell",
+      "year": "Seizoen 8",
+      "sides": "De levenden tegen de doden",
+      "desc": "De legers van Westeros nemen het op tegen de Nachtkoning. Aryas overwinning maakt een einde aan de dreiging van de White Walkers."
+    },
+    {
+      "name": "De val van King's Landing",
+      "year": "Seizoen 8",
+      "sides": "Daenerys tegen Cersei",
+      "desc": "Daenerys vernietigt Cerseis vloot en vervolgens de stad, ondanks de klokken van de overgave. De hoofdstad wordt tot as herleid."
+    },
+    {
+      "name": "De Dans der Draken",
+      "year": "129–131 na de Verovering",
+      "sides": "Zwarten tegen Groenen",
+      "desc": "Burgeroorlog tussen de aanhangers van Rhaenyra en die van Aegon II, waarin ook draken tegenover elkaar komen te staan. Ze decimeert de Targaryens."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "Het Geloof van de Zeven",
+      "desc": "Hoofdreligie van het zuiden van Westeros: één godheid met zeven gezichten (de Vader, de Moeder, de Maagd, de Krijger, de Smid, de Oude en de Vreemdeling). Haar septons en septs bepalen het leven aan het hof."
+    },
+    {
+      "name": "De Oude Goden",
+      "desc": "Cultus van de Eerste Mensen en de Kinderen van het Woud, gewijd aan de weirwoodbomen met gesneden gezichten. De Starks en de wildlingen blijven hem trouw."
+    },
+    {
+      "name": "De Heer van het Licht",
+      "desc": "Vuurgod uit Essos, vereerd door rode priesters zoals Melisandre, die geloven in een eeuwige oorlog tussen licht en duisternis."
+    },
+    {
+      "name": "De Verdronken God",
+      "desc": "Godheid van de IJzeren Eilanden, vereerd door de Greyjoys. Zijn gelovigen ondergaan de doop door verdrinking, waaruit ze gewijd terugkeren."
+    },
+    {
+      "name": "De God met de Duizend Gezichten",
+      "desc": "Dodengod van Braavos, gediend door de Gezichtsloze Mannen. Zijn wapenspreuk, \"Valar Morghulis\", herinnert eraan dat alle mensen moeten sterven."
+    },
+    {
+      "name": "De Grote Hengst",
+      "desc": "God van de Dothraki, afgebeeld als een gigantisch paard. De khals voelen zich ermee verbonden en de nomadenvolken geloven erin."
+    },
+    {
+      "name": "Het Militante Geloof",
+      "desc": "Gewapende beweging van het Geloof van de Zeven, hersteld door Cersei Lannister. Onder leiding van de Hoge Mus spreken de Mussen hun eigen recht in King's Landing."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "De draken",
+      "desc": "Vuurbeesten waarmee de Targaryens Westeros veroverden. Een eeuw lang uitgestorven, worden ze herboren dankzij Daenerys, die Drogon, Rhaegal en Viserion grootbrengt."
+    },
+    {
+      "name": "De schrikwolven",
+      "desc": "Reuzenwolven, het embleem van de Starks. Elk Stark-kind krijgt er een in Winterfell, zoals Ghost voor Jon of Nymeria voor Arya."
+    },
+    {
+      "name": "De White Walkers",
+      "desc": "Wezens van ijs uit het hoge Noorden die de doden kunnen laten opstaan. In de serie is de Nachtkoning hun leider."
+    },
+    {
+      "name": "De wights",
+      "desc": "Door de White Walkers opgewekte lijken die het leger van de doden vormen. Alleen vuur, obsidiaan en Valyrisch staal kunnen ze verslaan."
+    },
+    {
+      "name": "De reuzen en de mammoeten",
+      "desc": "Zeer groot volk dat voorbij de Muur leeft. Ze zijn bondgenoten van de wildlingen en vechten met hun mammoeten."
+    },
+    {
+      "name": "De Kinderen van het Woud",
+      "desc": "Oud, klein volk en de eerste bewoners van Westeros, meesters van een magie die verbonden is met de weirwoodbomen."
+    },
+    {
+      "name": "De driëogige raaf",
+      "desc": "Mystiek wezen wiens geheugen het hele verleden omvat. Bran wordt zijn opvolger nadat hij voorbij de Muur heeft gereisd."
+    },
+    {
+      "name": "De boodschapperraven",
+      "desc": "Door de maesters afgerichte vogels die brieven tussen de kastelen dragen, vaak voorbodes van slecht nieuws."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Seizoen 1",
+        "m": "2011 · 10 afleveringen",
+        "d": "Ned Stark wordt Hand van de Koning en ontdekt een geheim dat de troon bedreigt. Aan de andere kant van de wereld trouwt Daenerys met een Dothraki-heer."
+      },
+      {
+        "t": "Seizoen 2",
+        "m": "2012 · 10 afleveringen",
+        "d": "De oorlog van de vijf koningen breekt uit: Robb Stark, Stannis, Renly en Balon Greyjoy keren zich tegen Joffrey. De Blackwater sluit het seizoen af."
+      },
+      {
+        "t": "Seizoen 3",
+        "m": "2013 · 10 afleveringen",
+        "d": "De Lannisters krijgen de overhand terwijl Daenerys de Onbezoedelden bevrijdt. De Rode Bruiloft zet de oorlog op zijn kop."
+      },
+      {
+        "t": "Seizoen 4",
+        "m": "2014 · 10 afleveringen",
+        "d": "Joffreys bruiloft eindigt in een drama en Tyrion wordt berecht. In het Noorden maakt de Nachtwacht zich klaar voor de aanval van de wildlingen."
+      },
+      {
+        "t": "Seizoen 5",
+        "m": "2015 · 10 afleveringen",
+        "d": "Cersei steunt op het Militante Geloof voordat ze er zelf het slachtoffer van wordt, Jon wordt tot Lord Commandant gekozen. Daenerys heeft moeite om Meereen te besturen."
+      },
+      {
+        "t": "Seizoen 6",
+        "m": "2016 · 10 afleveringen",
+        "d": "Jon komt terug tot leven en huis Stark herovert Winterfell. Cersei laat de Grote Sept ontploffen."
+      },
+      {
+        "t": "Seizoen 7",
+        "m": "2017 · 7 afleveringen",
+        "d": "Daenerys landt in Westeros en sluit zich aan bij Jon. De legers van de levenden bereiden zich voor op de strijd tegen de doden."
+      },
+      {
+        "t": "Seizoen 8",
+        "m": "2019 · 6 afleveringen",
+        "d": "De Slag om Winterfell maakt een einde aan de Lange Nacht, waarna de strijd om de IJzeren Troon eindigt in King's Landing."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Seizoen 1",
+        "m": "2022 · 10 afleveringen",
+        "d": "Koning Viserys wijst Rhaenyra aan als erfgename, maar het hof raakt verdeeld over zijn opvolging. De spanningen tussen zijn dochter en koningin Alicent nemen met de jaren toe."
+      },
+      {
+        "t": "Seizoen 2",
+        "m": "2024 · 8 afleveringen",
+        "d": "De burgeroorlog tussen Zwarten en Groenen breekt uit. De draken worden het beslissende wapen in het conflict."
+      },
+      {
+        "t": "Seizoen 3",
+        "m": "2026 · 8 afleveringen",
+        "d": "De Dans der Draken gaat door, met bondgenootschappen die worden gesloten en weer verbroken. Een vierde en laatste seizoen is aangekondigd voor 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Seizoen 1",
+        "m": "2026 · 6 afleveringen",
+        "d": "Ser Duncan de Lange, een zwervende ridder, neemt de jonge Egg als schildknaap en trekt door Westeros, ver van de grote intriges. Seizoen 2 wordt verwacht in 2027."
+      }
+    ]
   }
 }

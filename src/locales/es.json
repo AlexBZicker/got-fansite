@@ -12,7 +12,11 @@
       "maisons": "Casas",
       "personnages": "Personajes",
       "series": "Series",
-      "livres": "Libros"
+      "livres": "Libros",
+      "lieux": "Lugares",
+      "batailles": "Batallas",
+      "croyances": "Creencias",
+      "creatures": "Criaturas"
     },
     "titles": {
       "histoire": "La historia de Poniente",
@@ -20,7 +24,12 @@
       "personnages": "Personajes",
       "series": "Series",
       "livres": "Los libros",
-      "sources": "Fuentes"
+      "sources": "Fuentes",
+      "lieux": "Lugares y castillos",
+      "batailles": "Las grandes batallas",
+      "croyances": "Religiones y tradiciones",
+      "creatures": "Criaturas",
+      "saisons": "Guía de temporadas"
     },
     "all": "Todos",
     "nightWatch": "Guardia de la Noche",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Página no encontrada",
     "notFoundText": "Esta página no existe o ha sido movida.",
     "backHome": "Volver al inicio",
-    "ogAlt": "Las Siete Coronas — sitio de fans de Game of Thrones"
+    "ogAlt": "Las Siete Coronas — sitio de fans de Game of Thrones",
+    "noHouse": "Sin casa"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Reina astuta que sabe ganarse al pueblo.",
     "oberyn-martell": "La Víbora Roja de Dorne.",
     "viserys-targaryen": "Rey pacífico, dividido entre su familia y el reino.",
-    "corlys-velaryon": "La Serpiente Marina, el navegante más rico de Poniente."
+    "corlys-velaryon": "La Serpiente Marina, el navegante más rico de Poniente.",
+    "bronn": "Mercenario sin escrúpulos pero divertido, que sirve a quien mejor le paga. Acaba enriqueciéndose al servicio de los Lannister.",
+    "varys": "La Araña, maestro de los rumores y los espías del reino. Afirma servir al reino antes que a sus amos.",
+    "jaqen-h-ghar": "Hombre sin Rostro de Braavos, capaz de cambiar de cara. Inicia a Arya en el arte de matar.",
+    "hodor": "Mozo de cuadra de Invernalia de gran corazón, que solo dice una palabra. Su destino revela un secreto conmovedor.",
+    "ygritte": "Salvaje pelirroja de carácter fuerte, que le enseña a Jon Snow que, según ella, «no sabe nada».",
+    "tormund-fleau-des-geants": "Jefe salvaje tan imponente como hablador, cuyo valor le granjea la estima de Jon Snow.",
+    "khal-drogo": "Poderoso khal dothraki, esposo de Daenerys, cuya muerte la obliga a forjar su propia leyenda.",
+    "missandei": "Antigua esclava, intérprete y consejera de Daenerys, cuya sabiduría la hace valiosísima.",
+    "ver-gris": "Comandante de los Inmaculados, leal a Daenerys, que encuentra a su lado la libertad y el amor.",
+    "podrick-payne": "Escudero discreto y devoto de Tyrion y después de Brienne, cuya lealtad se transforma en verdadero valor.",
+    "gilly": "Salvaje refugiada en Castillo Negro con su hijo, que se vuelve cercana a Samwell.",
+    "ramsay-bolton": "Bastardo cruel de la casa Bolton, conocido por su brutalidad con los prisioneros.",
+    "roose-bolton": "Señor de Fuerte Terror de calma glacial, que traiciona a Robb Stark en las Bodas Rojas.",
+    "walder-frey": "Viejo señor de los Gemelos, rencoroso y prolífico, responsable de la masacre de las Bodas Rojas.",
+    "lysa-arryn": "Viuda de Jon Arryn y hermana de Catelyn, cuya paranoia la encierra en el Nido de Águilas con su hijo.",
+    "olenna-tyrell": "La Reina de las Espinas, abuela de Margaery, de lengua afilada e inteligencia temible.",
+    "tommen-baratheon": "Hermano menor de Joffrey, rey dulce y fácil de influenciar, atrapado entre su madre y la Fe Militante.",
+    "euron-greyjoy": "Tío de Theon, exuberante pirata de las Islas del Hierro que presume de tener la mayor flota del mundo.",
+    "yara-greyjoy": "Hija de Balon e intrépida capitana de las Islas del Hierro, que se alía con Daenerys.",
+    "roi-de-la-nuit": "Líder de los Caminantes Blancos y de los muertos, conduce el ejército de hielo hacia el sur.",
+    "lyanna-mormont": "Joven señora de la Isla del Oso, que se impone por su franqueza y su determinación.",
+    "barristan-selmy": "Antiguo lord comandante de la Guardia Real, caballero de honor que sirve a Daenerys en Meereen.",
+    "brynden-tully": "El Pez Negro, tío de Catelyn y encarnizado defensor de Aguasdulces.",
+    "rhaenys-targaryen": "La Reina que nunca fue, jinete del dragón Meleys, apartada del trono por el Gran Consejo.",
+    "otto-hightower": "Mano del Rey ambicioso, padre de Alicent, que empuja a su hija hacia el trono.",
+    "criston-cole": "Caballero de la Guardia Real, leal a Alicent y a los Verdes, cuyo orgullo herido precipita la guerra.",
+    "aegon-ii-targaryen": "Hijo mayor de Alicent y Viserys, coronado por los Verdes, al que Rhaenyra disputa el trono.",
+    "aemond-targaryen": "Príncipe tuerto, jinete del dragón Vhagar, temible guerrero del bando de los Verdes.",
+    "helaena-targaryen": "Hermana y esposa de Aegon II, de sensibilidad inquieta, cuyas visiones parecen anunciar el futuro.",
+    "mysaria": "Bailarina convertida en espía en los bajos fondos de Desembarco del Rey, conocida como el Gusano Blanco."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "Las Siete Coronas — Fans de Game of Thrones: historia y casas",
-      "description": "Sitio de fans no oficial de Game of Thrones: historia de Poniente, grandes casas, 31 personajes, series de HBO y libros. Disponible en 20 idiomas."
+      "description": "Sitio de fans no oficial de Game of Thrones: historia de Poniente, casas, 61 personajes, lugares, batallas, religiones, criaturas, series y libros."
     },
     "history": {
       "title": "Historia de Poniente — Cronología completa | Las Siete Coronas",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Personajes de Game of Thrones y House of the Dragon",
-      "description": "31 personajes de Game of Thrones y House of the Dragon: casa, actor o actriz y retrato, filtrables por casa."
+      "description": "61 personajes de Game of Thrones y House of the Dragon: casa, actor o actriz y retrato, filtrables por casa."
     },
     "series": {
-      "title": "Series: Game of Thrones, House of the Dragon, A Knight…",
-      "description": "Fechas de emisión, temporadas y reparto de las series de HBO del universo de Game of Thrones, con los próximos estrenos."
+      "title": "Series y temporadas de Game of Thrones | Las Siete Coronas",
+      "description": "Game of Thrones, House of the Dragon y A Knight of the Seven Kingdoms: fechas, reparto y guía de cada temporada."
     },
     "books": {
       "title": "Los libros: Canción de hielo y fuego, Fuego y Sangre, Dunk & Egg",
       "description": "Las novelas y novelas cortas de George R. R. Martin que dieron origen a Game of Thrones, con el estado de los dos tomos aún por publicar."
+    },
+    "places": {
+      "title": "Lugares y castillos de Poniente y Essos | Las Siete Coronas",
+      "description": "21 lugares clave de Game of Thrones: Invernalia, Desembarco del Rey, Roca Casterly, el Muro, Braavos, Meereen… con su región e historia."
+    },
+    "battles": {
+      "title": "Las grandes batallas de Game of Thrones | Las Siete Coronas",
+      "description": "El Tridente, el Aguasnegras, la batalla de los Bastardos, Invernalia… las 14 batallas que cambiaron el destino de Poniente."
+    },
+    "beliefs": {
+      "title": "Religiones y tradiciones de Game of Thrones | Las Siete Coronas",
+      "description": "Los Siete, los Antiguos Dioses, el Señor de la Luz, el Dios Ahogado: las creencias de Poniente y Essos explicadas."
+    },
+    "creatures": {
+      "title": "Criaturas de Game of Thrones: dragones, huargos | Las Siete Coronas",
+      "description": "Dragones, huargos, Caminantes Blancos, gigantes, Niños del Bosque: las criaturas del universo de Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Invernalia",
+      "region": "El Norte",
+      "desc": "Sede de la casa Stark desde hace milenios, la fortaleza se alza sobre fuentes termales. Es también el escenario de la batalla contra los muertos."
+    },
+    {
+      "name": "El Muro",
+      "region": "El Norte",
+      "desc": "Una muralla de hielo de unos 210 metros de alto que separa los Siete Reinos de las tierras salvajes del Lejano Norte. La Guardia de la Noche la defiende desde hace siglos."
+    },
+    {
+      "name": "Castillo Negro",
+      "region": "El Muro",
+      "desc": "Fortaleza principal de la Guardia de la Noche, al pie del Muro. Allí pronuncia Jon Snow sus votos y después se convierte en Lord Comandante."
+    },
+    {
+      "name": "Fuerte Terror",
+      "region": "El Norte",
+      "desc": "Bastión de la casa Bolton, conocido por la crueldad de sus señores y sus desollados. Theon Greyjoy permanece allí prisionero."
+    },
+    {
+      "name": "Desembarco del Rey",
+      "region": "Las Tierras de la Corona",
+      "desc": "Capital de los Siete Reinos, donde se alzan la Fortaleza Roja y el Trono de Hierro. Es el centro de todas las intrigas de la corte."
+    },
+    {
+      "name": "Rocadragón",
+      "region": "Las Tierras de la Corona",
+      "desc": "Isla volcánica donde los Targaryen se instalan antes de la Conquista. Daenerys regresa allí con sus dragones para reclamar su reino."
+    },
+    {
+      "name": "Roca Casterly",
+      "region": "Las Tierras del Oeste",
+      "desc": "Fortaleza tallada en el acantilado, sede de la casa Lannister, célebre por sus minas de oro."
+    },
+    {
+      "name": "Aguasdulces",
+      "region": "Las Tierras de los Ríos",
+      "desc": "Castillo de los Tully, en la confluencia de dos ríos, cuyas defensas naturales lo hacen difícil de asediar."
+    },
+    {
+      "name": "Los Gemelos",
+      "region": "Las Tierras de los Ríos",
+      "desc": "Dos torres unidas por un puente que controla el paso del Tridente. Pertenece a Walder Frey y es el escenario de las Bodas Rojas."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "Las Tierras de los Ríos",
+      "desc": "Gigantesca fortaleza en ruinas, antaño la mayor de Poniente, cuyas torres calcinadas por los dragones pasan por malditas."
+    },
+    {
+      "name": "El Nido de Águilas",
+      "region": "El Valle de Arryn",
+      "desc": "Fortaleza de los Arryn encaramada en la ladera de una montaña, considerada inexpugnable. Los prisioneros son arrojados por la Puerta de la Luna."
+    },
+    {
+      "name": "Altojardín",
+      "region": "El Dominio",
+      "desc": "Castillo de la casa Tyrell, rodeado de jardines y tierras fértiles que alimentan a gran parte del reino."
+    },
+    {
+      "name": "Antigua",
+      "region": "El Dominio",
+      "desc": "La ciudad más antigua de Poniente, sede de la Ciudadela, donde se forman los maestres, y de la casa Hightower."
+    },
+    {
+      "name": "Tormenta",
+      "region": "Las Tierras de la Tormenta",
+      "desc": "Castillo de los Baratheon, construido, según dicen, para resistir las tempestades del mar. Stannis es asediado allí durante la rebelión."
+    },
+    {
+      "name": "Lanza del Sol",
+      "region": "Dorne",
+      "desc": "Capital de Dorne y sede de la casa Martell, donde rigen costumbres de sucesión distintas a las del resto del reino."
+    },
+    {
+      "name": "Pyke",
+      "region": "Las Islas del Hierro",
+      "desc": "Isla azotada por el mar donde reina la casa Greyjoy. Sus habitantes, expertos navegantes, viven del saqueo y las incursiones."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "Ciudad-estado de los señores de los dragones, destruida por la Maldición. Sus ruinas y su acero valyrio alimentan todas las leyendas."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Ciudad libre construida sobre islas, con su colosal Titán y su Banco de Hierro. Arya se une allí a la Casa de Blanco y Negro."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Ciudad de la Bahía de los Esclavos donde Daenerys abole la esclavitud y da sus primeros pasos como reina."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Ciudad mercantil de murallas legendarias, donde Daenerys busca aliados y encuentra la Casa de los Eternos."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "El Mar Dothraki",
+      "desc": "Ciudad sagrada de los dothraki, sin murallas, donde todas las viudas de los khal viven entre las dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "El Campo de Fuego",
+      "year": "Año 1 DC",
+      "sides": "Targaryen contra Lannister y Jardinero",
+      "desc": "Aegon y sus hermanas atacan a lomos de dragón al ejército del Dominio y del Oeste. Miles de hombres mueren entre las llamas y los reyes se inclinan."
+    },
+    {
+      "name": "El Campo de Hierba Roja",
+      "year": "Hacia el 196 DC",
+      "sides": "Daeron II contra Daemon Blackfyre",
+      "desc": "Batalla decisiva de la primera rebelión Blackfyre, en la que el bastardo rebelde es derrotado. Deja una huella duradera en la dinastía Targaryen."
+    },
+    {
+      "name": "El Tridente",
+      "year": "283 DC",
+      "sides": "Rebeldes contra Rhaegar Targaryen",
+      "desc": "Robert Baratheon mata al príncipe Rhaegar en combate singular, lo que abre a los rebeldes el camino hacia Desembarco del Rey."
+    },
+    {
+      "name": "El saqueo de Desembarco del Rey",
+      "year": "283 DC",
+      "sides": "Lannister contra Targaryen",
+      "desc": "Las tropas de Tywin entran en la capital y la saquean. Jaime mata al rey Aerys, apodado el Rey Loco."
+    },
+    {
+      "name": "El Bosque de los Susurros",
+      "year": "298 DC",
+      "sides": "Robb Stark contra Lannister",
+      "desc": "Primera gran victoria de Robb, que atrapa al ejército de Jaime Lannister con fuerzas inferiores en número."
+    },
+    {
+      "name": "El Aguasnegras",
+      "year": "299 DC",
+      "sides": "Stannis contra Lannister",
+      "desc": "Stannis ataca Desembarco del Rey por mar, pero Tyrion incendia el río con fuego valyrio. La llegada de Tywin y los Tyrell salva la ciudad."
+    },
+    {
+      "name": "Las Bodas Rojas",
+      "year": "299 DC",
+      "sides": "Frey y Bolton contra Stark",
+      "desc": "Más que una batalla, una masacre: Robb, Catelyn y sus abanderados son asesinados durante un banquete de bodas."
+    },
+    {
+      "name": "Castillo Negro",
+      "year": "300 DC",
+      "sides": "Guardia de la Noche contra salvajes",
+      "desc": "Jon Snow y la Guardia de la Noche resisten al ejército de Mance Rayder, que intenta cruzar el Muro."
+    },
+    {
+      "name": "Meereen",
+      "year": "Temporada 6",
+      "sides": "Daenerys contra los amos",
+      "desc": "Daenerys regresa sobre su dragón Drogon y destruye la flota de los amos, que habían llegado con sus aliados para asediar la ciudad."
+    },
+    {
+      "name": "La batalla de los Bastardos",
+      "year": "Temporada 6",
+      "sides": "Jon y Sansa contra Ramsay Bolton",
+      "desc": "Al pie de Invernalia, Jon está a punto de ser aplastado hasta que los caballeros del Valle cambian el rumbo de la batalla. La casa Stark recupera su hogar."
+    },
+    {
+      "name": "El saqueo del Dominio",
+      "year": "Temporada 7",
+      "sides": "Daenerys contra Lannister",
+      "desc": "Daenerys y Drogon atacan el convoy de suministros de los Lannister, mostrando por primera vez el poder de un dragón en la guerra."
+    },
+    {
+      "name": "La batalla de Invernalia",
+      "year": "Temporada 8",
+      "sides": "Los vivos contra los muertos",
+      "desc": "Los ejércitos de Poniente se enfrentan al Rey de la Noche. La victoria de Arya pone fin a la amenaza de los Caminantes Blancos."
+    },
+    {
+      "name": "La caída de Desembarco del Rey",
+      "year": "Temporada 8",
+      "sides": "Daenerys contra Cersei",
+      "desc": "Daenerys destruye la flota de Cersei y después la ciudad, a pesar del tañido de la campana de rendición. La capital queda reducida a cenizas."
+    },
+    {
+      "name": "La Danza de los Dragones",
+      "year": "129–131 DC",
+      "sides": "Negros contra Verdes",
+      "desc": "Guerra civil entre los partidarios de Rhaenyra y los de Aegon II, en la que también se enfrentan dragones. Diezma a los Targaryen."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "La Fe de los Siete",
+      "desc": "Religión principal del sur de Poniente: una divinidad de siete rostros (el Padre, la Madre, la Doncella, el Guerrero, el Herrero, la Anciana y el Desconocido). Sus septones y sus septos marcan el ritmo de la vida en la corte."
+    },
+    {
+      "name": "Los Antiguos Dioses",
+      "desc": "Culto de los Primeros Hombres y los Niños del Bosque, dedicado a los árboles arciano de rostro tallado. Los Stark y los salvajes siguen siéndoles fieles."
+    },
+    {
+      "name": "El Señor de la Luz",
+      "desc": "Dios del fuego llegado de Essos, adorado por sacerdotes rojos como Melisandre, que creen en una guerra eterna entre la luz y las tinieblas."
+    },
+    {
+      "name": "El Dios Ahogado",
+      "desc": "Divinidad de las Islas del Hierro, venerada por los Greyjoy. Sus fieles practican el bautismo por ahogamiento, del que regresan consagrados."
+    },
+    {
+      "name": "El Dios de Muchos Rostros",
+      "desc": "Dios de la muerte en Braavos, al que sirven los Hombres sin Rostro. Su lema, «Valar Morghulis», recuerda que todos los hombres deben morir."
+    },
+    {
+      "name": "El Gran Semental",
+      "desc": "Dios de los dothraki, representado por un caballo gigantesco. Los khal están ligados a él y los pueblos nómadas creen en él."
+    },
+    {
+      "name": "La Fe Militante",
+      "desc": "Movimiento armado de la Fe de los Siete, restablecido por Cersei Lannister. Los Gorriones imponen su justicia en Desembarco del Rey bajo la dirección del Gran Gorrión."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Los dragones",
+      "desc": "Bestias de fuego que permitieron a los Targaryen conquistar Poniente. Extintos desde hace un siglo, renacen gracias a Daenerys, que cría a Drogon, Rhaegal y Viserion."
+    },
+    {
+      "name": "Los huargos",
+      "desc": "Lobos gigantes, emblema de los Stark. Cada niño Stark recibe uno en Invernalia, como Fantasma para Jon o Nymeria para Arya."
+    },
+    {
+      "name": "Los Caminantes Blancos",
+      "desc": "Criaturas de hielo venidas del Lejano Norte, capaces de levantar a los muertos. En la serie, su líder es el Rey de la Noche."
+    },
+    {
+      "name": "Los espectros",
+      "desc": "Cadáveres alzados por los Caminantes Blancos que forman el ejército de los muertos. Solo el fuego, la obsidiana y el acero valyrio pueden acabar con ellos."
+    },
+    {
+      "name": "Los gigantes y los mamuts",
+      "desc": "Pueblo de enorme tamaño que vive más allá del Muro. Son aliados de los salvajes y combaten con sus mamuts."
+    },
+    {
+      "name": "Los Niños del Bosque",
+      "desc": "Pueblo antiguo y pequeño, primer ocupante de Poniente, maestro de una magia ligada a los árboles arciano."
+    },
+    {
+      "name": "El Cuervo de Tres Ojos",
+      "desc": "Ser místico cuya memoria abarca todo el pasado. Bran se convierte en su sucesor tras viajar más allá del Muro."
+    },
+    {
+      "name": "Los cuervos mensajeros",
+      "desc": "Aves adiestradas por los maestres para llevar cartas entre los castillos, a menudo anunciadoras de noticias graves."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Temporada 1",
+        "m": "2011 · 10 episodios",
+        "d": "Ned Stark se convierte en Mano del Rey y descubre un secreto que amenaza el trono. En el otro extremo del mundo, Daenerys se casa con un señor dothraki."
+      },
+      {
+        "t": "Temporada 2",
+        "m": "2012 · 10 episodios",
+        "d": "Estalla la Guerra de los Cinco Reyes: Robb Stark, Stannis, Renly y Balon Greyjoy se enfrentan a Joffrey. El Aguasnegras cierra la temporada."
+      },
+      {
+        "t": "Temporada 3",
+        "m": "2013 · 10 episodios",
+        "d": "Los Lannister toman ventaja mientras Daenerys libera a los Inmaculados. Las Bodas Rojas trastocan la guerra."
+      },
+      {
+        "t": "Temporada 4",
+        "m": "2014 · 10 episodios",
+        "d": "La boda de Joffrey acaba en tragedia y Tyrion es juzgado. En el Norte, la Guardia de la Noche se prepara para el asalto de los salvajes."
+      },
+      {
+        "t": "Temporada 5",
+        "m": "2015 · 10 episodios",
+        "d": "Cersei se apoya en la Fe Militante antes de ser su víctima, y Jon es elegido Lord Comandante. Daenerys tiene dificultades para gobernar Meereen."
+      },
+      {
+        "t": "Temporada 6",
+        "m": "2016 · 10 episodios",
+        "d": "Jon vuelve a la vida y la casa Stark recupera Invernalia. Cersei hace estallar el Gran Septo."
+      },
+      {
+        "t": "Temporada 7",
+        "m": "2017 · 7 episodios",
+        "d": "Daenerys desembarca en Poniente y se alía con Jon. Los ejércitos de los vivos se preparan para enfrentarse a los muertos."
+      },
+      {
+        "t": "Temporada 8",
+        "m": "2019 · 6 episodios",
+        "d": "La batalla de Invernalia pone fin a la Larga Noche, y después la lucha por el Trono de Hierro termina en Desembarco del Rey."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Temporada 1",
+        "m": "2022 · 10 episodios",
+        "d": "El rey Viserys designa a Rhaenyra como heredera, pero la corte se divide sobre su sucesión. Las tensiones entre su hija y la reina Alicent crecen con los años."
+      },
+      {
+        "t": "Temporada 2",
+        "m": "2024 · 8 episodios",
+        "d": "Estalla la guerra civil entre Negros y Verdes. Los dragones se convierten en el arma decisiva del conflicto."
+      },
+      {
+        "t": "Temporada 3",
+        "m": "2026 · 8 episodios",
+        "d": "La Danza de los Dragones continúa, con alianzas que se forman y se deshacen. Se anuncia una cuarta y última temporada para 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Temporada 1",
+        "m": "2026 · 6 episodios",
+        "d": "Ser Duncan el Alto, caballero errante, toma al joven Egg como escudero y recorre Poniente, lejos de las grandes intrigas. Se espera una temporada 2 para 2027."
+      }
+    ]
   }
 }

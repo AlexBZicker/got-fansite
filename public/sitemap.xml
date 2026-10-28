@@ -101,6 +101,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -374,6 +474,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/en/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/en/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/en/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/en/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/en/series/</loc>
@@ -651,6 +851,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/es/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/es/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/es/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/es/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/es/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -924,6 +1224,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/pt/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/pt/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/pt/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/pt/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/pt/series/</loc>
@@ -1201,6 +1601,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/it/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/it/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/it/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/it/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/it/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -1474,6 +1974,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/de/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/de/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/de/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/de/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/de/series/</loc>
@@ -1751,6 +2351,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/nl/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/nl/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/nl/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/nl/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/nl/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -2024,6 +2724,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/sv/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/sv/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/sv/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/sv/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/sv/series/</loc>
@@ -2301,6 +3101,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/pl/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/pl/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/pl/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/pl/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/pl/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -2574,6 +3474,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/cs/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/cs/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/cs/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/cs/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/cs/series/</loc>
@@ -2851,6 +3851,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/ru/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ru/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ru/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ru/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/ru/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -3124,6 +4224,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/uk/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/uk/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/uk/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/uk/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/uk/series/</loc>
@@ -3401,6 +4601,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/tr/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/tr/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/tr/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/tr/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/tr/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -3674,6 +4974,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ar/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ar/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ar/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ar/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/ar/series/</loc>
@@ -3951,6 +5351,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/hi/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/hi/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/hi/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/hi/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/hi/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -4224,6 +5724,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/vi/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/vi/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/vi/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/vi/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/vi/series/</loc>
@@ -4501,6 +6101,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/id/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/id/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/id/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/id/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/id/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -4774,6 +6474,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/zh/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/zh/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/zh/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/zh/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/zh/series/</loc>
@@ -5051,6 +6851,106 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
   </url>
   <url>
+    <loc>https://got.alexbzicker.fr/ja/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ja/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ja/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ja/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
+  </url>
+  <url>
     <loc>https://got.alexbzicker.fr/ja/series/</loc>
     <lastmod>2026-10-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/series/"/>
@@ -5324,6 +7224,106 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/characters/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/characters/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/characters/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ko/places/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/places/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/places/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/places/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/places/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/places/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/places/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/places/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/places/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/places/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/places/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/places/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/places/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/places/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/places/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/places/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/places/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/places/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/places/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/places/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/places/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/places/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ko/battles/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/battles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/battles/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/battles/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/battles/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/battles/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/battles/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/battles/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/battles/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/battles/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/battles/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/battles/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/battles/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/battles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/battles/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ko/beliefs/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/beliefs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/beliefs/"/>
+  </url>
+  <url>
+    <loc>https://got.alexbzicker.fr/ko/creatures/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://got.alexbzicker.fr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://got.alexbzicker.fr/en/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://got.alexbzicker.fr/es/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://got.alexbzicker.fr/pt/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://got.alexbzicker.fr/it/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://got.alexbzicker.fr/de/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://got.alexbzicker.fr/nl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://got.alexbzicker.fr/sv/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://got.alexbzicker.fr/pl/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://got.alexbzicker.fr/cs/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://got.alexbzicker.fr/ru/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://got.alexbzicker.fr/uk/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://got.alexbzicker.fr/tr/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://got.alexbzicker.fr/ar/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://got.alexbzicker.fr/hi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://got.alexbzicker.fr/vi/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://got.alexbzicker.fr/id/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://got.alexbzicker.fr/zh/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://got.alexbzicker.fr/ja/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://got.alexbzicker.fr/ko/creatures/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://got.alexbzicker.fr/creatures/"/>
   </url>
   <url>
     <loc>https://got.alexbzicker.fr/ko/series/</loc>

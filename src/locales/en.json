@@ -12,7 +12,11 @@
       "maisons": "Houses",
       "personnages": "Characters",
       "series": "Series",
-      "livres": "Books"
+      "livres": "Books",
+      "lieux": "Places",
+      "batailles": "Battles",
+      "croyances": "Beliefs",
+      "creatures": "Creatures"
     },
     "titles": {
       "histoire": "The History of Westeros",
@@ -20,7 +24,12 @@
       "personnages": "Characters",
       "series": "Series",
       "livres": "The Books",
-      "sources": "Sources"
+      "sources": "Sources",
+      "lieux": "Places and Castles",
+      "batailles": "The Great Battles",
+      "croyances": "Religions and Traditions",
+      "creatures": "Creatures",
+      "saisons": "Season Guide"
     },
     "all": "All",
     "nightWatch": "Night's Watch",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Page not found",
     "notFoundText": "This page does not exist or has been moved.",
     "backHome": "Back to home",
-    "ogAlt": "The Seven Crowns — Game of Thrones fan site"
+    "ogAlt": "The Seven Crowns — Game of Thrones fan site",
+    "noHouse": "No house"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "A shrewd queen who knows how to win over the people.",
     "oberyn-martell": "The Red Viper of Dorne.",
     "viserys-targaryen": "A peaceful king, torn between his family and the realm.",
-    "corlys-velaryon": "The Sea Snake, the richest seafarer in Westeros."
+    "corlys-velaryon": "The Sea Snake, the richest seafarer in Westeros.",
+    "bronn": "An unscrupulous but funny sellsword who serves whoever pays best. He ends up wealthy in the service of the Lannisters.",
+    "varys": "The Spider, master of the realm's rumors and spies. He claims to serve the realm before his masters.",
+    "jaqen-h-ghar": "A Faceless Man of Braavos who can change faces. He initiates Arya into the art of killing.",
+    "hodor": "A big-hearted stable hand of Winterfell who says only one word. His fate reveals a heartbreaking secret.",
+    "ygritte": "A red-haired wildling with a strong temper, who teaches Jon Snow that, in her words, \"he knows nothing\".",
+    "tormund-fleau-des-geants": "A wildling chief as imposing as he is talkative, whose courage earns him Jon Snow's esteem.",
+    "khal-drogo": "A powerful Dothraki khal, Daenerys's husband, whose death forces her to forge her own legend.",
+    "missandei": "A former slave, interpreter and adviser to Daenerys, whose wisdom makes her invaluable.",
+    "ver-gris": "Commander of the Unsullied, loyal to Daenerys, who finds freedom and love at her side.",
+    "podrick-payne": "A discreet and devoted squire to Tyrion and then Brienne, whose loyalty grows into true courage.",
+    "gilly": "A wildling who takes refuge at Castle Black with her son, and becomes close to Samwell.",
+    "ramsay-bolton": "The cruel bastard of House Bolton, known for his brutality toward his prisoners.",
+    "roose-bolton": "Icy-calm lord of the Dreadfort, who betrays Robb Stark at the Red Wedding.",
+    "walder-frey": "Old lord of the Twins, vindictive and prolific, responsible for the Red Wedding massacre.",
+    "lysa-arryn": "Widow of Jon Arryn and sister of Catelyn, whose paranoia shuts her away in the Eyrie with her son.",
+    "olenna-tyrell": "The Queen of Thorns, Margaery's grandmother, with a sharp tongue and a formidable mind.",
+    "tommen-baratheon": "Joffrey's younger brother, a gentle and easily swayed king caught between his mother and the Faith Militant.",
+    "euron-greyjoy": "Theon's uncle, an exuberant pirate of the Iron Islands who claims to command the greatest fleet in the world.",
+    "yara-greyjoy": "Balon's daughter and a fearless captain of the Iron Islands, who allies with Daenerys.",
+    "roi-de-la-nuit": "Leader of the White Walkers and the dead, he leads the army of ice south.",
+    "lyanna-mormont": "Young lady of Bear Island, who commands respect through her frankness and determination.",
+    "barristan-selmy": "Former Lord Commander of the Kingsguard, a knight of honor who serves Daenerys in Meereen.",
+    "brynden-tully": "The Blackfish, Catelyn's uncle and a tenacious defender of Riverrun.",
+    "rhaenys-targaryen": "The Queen Who Never Was, rider of the dragon Meleys, passed over for the throne by the Great Council.",
+    "otto-hightower": "An ambitious Hand of the King, Alicent's father, who pushes his daughter toward the throne.",
+    "criston-cole": "A Kingsguard knight loyal to Alicent and the Greens, whose wounded pride precipitates the war.",
+    "aegon-ii-targaryen": "Eldest son of Alicent and Viserys, crowned by the Greens and contested by Rhaenyra.",
+    "aemond-targaryen": "One-eyed prince and rider of the dragon Vhagar, a formidable warrior on the Greens' side.",
+    "helaena-targaryen": "Sister and wife of Aegon II, anxious and sensitive, whose visions seem to foretell the future.",
+    "mysaria": "A dancer turned spy in the slums of King's Landing, known as the White Worm."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "The Seven Crowns — Game of Thrones Fan Site: History & Houses",
-      "description": "Unofficial Game of Thrones fan site: history of Westeros, great houses, 31 characters, HBO series and books. Available in 20 languages."
+      "description": "Unofficial Game of Thrones fan site: the history of Westeros, houses, 61 characters, places, battles, religions, creatures, series and books."
     },
     "history": {
       "title": "History of Westeros — Full Timeline | The Seven Crowns",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Game of Thrones & House of the Dragon Characters | The Seven Crowns",
-      "description": "31 characters from Game of Thrones and House of the Dragon: house, actor or actress and portrait, filterable by house."
+      "description": "61 characters from Game of Thrones and House of the Dragon: house, actor or actress and portrait, filterable by house."
     },
     "series": {
-      "title": "Series: Game of Thrones, House of the Dragon, A Knight…",
-      "description": "Air dates, seasons and cast of the HBO series set in the Game of Thrones universe, with upcoming releases."
+      "title": "Game of Thrones & House of the Dragon Seasons | The Seven Crowns",
+      "description": "Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms: air dates, cast and a guide to every season."
     },
     "books": {
       "title": "The Books: A Song of Ice and Fire, Fire & Blood, Dunk & Egg",
       "description": "The novels and novellas by George R. R. Martin behind Game of Thrones, with the status of the two volumes still to come."
+    },
+    "places": {
+      "title": "Castles and Places of Westeros and Essos | The Seven Crowns",
+      "description": "21 key Game of Thrones locations: Winterfell, King's Landing, Casterly Rock, the Wall, Braavos, Meereen… with their region and history."
+    },
+    "battles": {
+      "title": "The Great Battles of Game of Thrones | The Seven Crowns",
+      "description": "The Trident, the Blackwater, the Battle of the Bastards, Winterfell… the 14 battles that changed the fate of Westeros."
+    },
+    "beliefs": {
+      "title": "Religions and Traditions of Game of Thrones | The Seven Crowns",
+      "description": "The Seven, the Old Gods, the Lord of Light, the Drowned God: the beliefs of Westeros and Essos explained."
+    },
+    "creatures": {
+      "title": "Game of Thrones Creatures: Dragons, Direwolves | The Seven Crowns",
+      "description": "Dragons, direwolves, White Walkers, giants, Children of the Forest: the creatures of the Game of Thrones universe."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "The North",
+      "desc": "Seat of House Stark for thousands of years, the fortress is built over hot springs. It is also the setting of the battle against the dead."
+    },
+    {
+      "name": "The Wall",
+      "region": "The North",
+      "desc": "A wall of ice roughly 210 meters high that separates the Seven Kingdoms from the wild lands of the Far North. The Night's Watch has defended it for centuries."
+    },
+    {
+      "name": "Castle Black",
+      "region": "The Wall",
+      "desc": "Main fortress of the Night's Watch, at the foot of the Wall. It is where Jon Snow takes his vows, then becomes Lord Commander."
+    },
+    {
+      "name": "The Dreadfort",
+      "region": "The North",
+      "desc": "Stronghold of House Bolton, known for the cruelty of its lords and their flayed men. Theon Greyjoy is held prisoner there."
+    },
+    {
+      "name": "King's Landing",
+      "region": "The Crownlands",
+      "desc": "Capital of the Seven Kingdoms, home to the Red Keep and the Iron Throne. It is the center of all the intrigues of the court."
+    },
+    {
+      "name": "Dragonstone",
+      "region": "The Crownlands",
+      "desc": "Volcanic island where the Targaryens settled before the Conquest. Daenerys returns there with her dragons to reclaim her kingdom."
+    },
+    {
+      "name": "Casterly Rock",
+      "region": "The Westerlands",
+      "desc": "Fortress carved into a cliff, seat of House Lannister, famed for its gold mines."
+    },
+    {
+      "name": "Riverrun",
+      "region": "The Riverlands",
+      "desc": "Castle of the Tullys, at the meeting of two rivers, whose natural defenses make it hard to besiege."
+    },
+    {
+      "name": "The Twins",
+      "region": "The Riverlands",
+      "desc": "Two towers linked by a bridge that controls the crossing of the Trident. The seat of Walder Frey, it is the scene of the Red Wedding."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "The Riverlands",
+      "desc": "A gigantic ruined fortress, once the largest in Westeros, whose towers, scorched by dragons, are said to be cursed."
+    },
+    {
+      "name": "The Eyrie",
+      "region": "The Vale of Arryn",
+      "desc": "Fortress of the Arryns perched on a mountainside, reputed to be impregnable. Prisoners are thrown out through the Moon Door."
+    },
+    {
+      "name": "Highgarden",
+      "region": "The Reach",
+      "desc": "Castle of House Tyrell, surrounded by gardens and fertile land that feed much of the realm."
+    },
+    {
+      "name": "Oldtown",
+      "region": "The Reach",
+      "desc": "The oldest city in Westeros, home to the Citadel where maesters are trained, and to House Hightower."
+    },
+    {
+      "name": "Storm's End",
+      "region": "The Stormlands",
+      "desc": "Castle of the Baratheons, said to have been built to withstand the storms of the sea. Stannis is besieged there during the rebellion."
+    },
+    {
+      "name": "Sunspear",
+      "region": "Dorne",
+      "desc": "Capital of Dorne and seat of House Martell, where succession customs differ from the rest of the realm."
+    },
+    {
+      "name": "Pyke",
+      "region": "The Iron Islands",
+      "desc": "Sea-battered island ruled by House Greyjoy. Its people, skilled sailors, live by plunder and raiding."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "City-state of the dragonlords, destroyed by the Doom. Its ruins and its Valyrian steel feed every legend."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Free city built on islands, with its colossal Titan and its Iron Bank. Arya joins the House of Black and White there."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "City of Slaver's Bay where Daenerys abolishes slavery and takes her first steps as a queen."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Merchant city with legendary walls, where Daenerys looks for allies and finds the House of the Undying."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "The Dothraki Sea",
+      "desc": "Sacred city of the Dothraki, without walls, where all the widows of khals come to live among the dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "The Field of Fire",
+      "year": "Year 1 AC",
+      "sides": "Targaryen vs. Lannister and Gardener",
+      "desc": "Aegon and his sisters attack the armies of the Reach and the Westerlands on dragonback. Thousands of men perish in the flames, and the kings bend the knee."
+    },
+    {
+      "name": "The Redgrass Field",
+      "year": "Around 196 AC",
+      "sides": "Daeron II vs. Daemon Blackfyre",
+      "desc": "Decisive battle of the first Blackfyre Rebellion, in which the rebel bastard is defeated. It leaves a lasting mark on the Targaryen dynasty."
+    },
+    {
+      "name": "The Trident",
+      "year": "283 AC",
+      "sides": "Rebels vs. Rhaegar Targaryen",
+      "desc": "Robert Baratheon kills Prince Rhaegar in single combat, opening the road to King's Landing for the rebels."
+    },
+    {
+      "name": "The Sack of King's Landing",
+      "year": "283 AC",
+      "sides": "Lannister vs. Targaryen",
+      "desc": "Tywin's troops enter the capital and sack it. Jaime kills King Aerys, known as the Mad King."
+    },
+    {
+      "name": "The Whispering Wood",
+      "year": "298 AC",
+      "sides": "Robb Stark vs. Lannister",
+      "desc": "Robb's first great victory, in which he traps Jaime Lannister's army despite being outnumbered."
+    },
+    {
+      "name": "The Blackwater",
+      "year": "299 AC",
+      "sides": "Stannis vs. Lannister",
+      "desc": "Stannis attacks King's Landing by sea, but Tyrion sets the river ablaze with wildfire. The arrival of Tywin and the Tyrells saves the city."
+    },
+    {
+      "name": "The Red Wedding",
+      "year": "299 AC",
+      "sides": "Frey and Bolton vs. Stark",
+      "desc": "More than a battle, a massacre: Robb, Catelyn and their bannermen are murdered during a wedding feast."
+    },
+    {
+      "name": "Castle Black",
+      "year": "300 AC",
+      "sides": "Night's Watch vs. wildlings",
+      "desc": "Jon Snow and the Night's Watch hold out against Mance Rayder's army as it tries to cross the Wall."
+    },
+    {
+      "name": "Meereen",
+      "year": "Season 6",
+      "sides": "Daenerys vs. the Masters",
+      "desc": "Daenerys returns on her dragon Drogon and destroys the fleet of the Masters, who came with their allies to besiege the city."
+    },
+    {
+      "name": "The Battle of the Bastards",
+      "year": "Season 6",
+      "sides": "Jon and Sansa vs. Ramsay Bolton",
+      "desc": "Before the walls of Winterfell, Jon is about to be crushed until the knights of the Vale turn the tide. House Stark takes back its home."
+    },
+    {
+      "name": "The Sack of the Reach",
+      "year": "Season 7",
+      "sides": "Daenerys vs. Lannister",
+      "desc": "Daenerys and Drogon attack the Lannister supply convoy, showing for the first time the power of a dragon at war."
+    },
+    {
+      "name": "The Battle of Winterfell",
+      "year": "Season 8",
+      "sides": "The living vs. the dead",
+      "desc": "The armies of Westeros face the Night King. Arya's victory ends the threat of the White Walkers."
+    },
+    {
+      "name": "The Fall of King's Landing",
+      "year": "Season 8",
+      "sides": "Daenerys vs. Cersei",
+      "desc": "Daenerys destroys Cersei's fleet, then the city itself, despite the ringing of the surrender bell. The capital is reduced to ashes."
+    },
+    {
+      "name": "The Dance of the Dragons",
+      "year": "129–131 AC",
+      "sides": "Blacks vs. Greens",
+      "desc": "Civil war between the supporters of Rhaenyra and those of Aegon II, in which dragons also clash. It decimates the Targaryens."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "The Faith of the Seven",
+      "desc": "The main religion of southern Westeros: a single deity with seven faces (the Father, the Mother, the Maiden, the Warrior, the Smith, the Crone and the Stranger). Its septons and septs shape life at court."
+    },
+    {
+      "name": "The Old Gods",
+      "desc": "Worship of the First Men and the Children of the Forest, offered to the weirwood trees with carved faces. The Starks and the wildlings remain faithful to it."
+    },
+    {
+      "name": "The Lord of Light",
+      "desc": "A fire god from Essos, worshipped by red priests like Melisandre, who believe in an eternal war between light and darkness."
+    },
+    {
+      "name": "The Drowned God",
+      "desc": "Deity of the Iron Islands, revered by the Greyjoys. His faithful practice baptism by drowning, from which they return consecrated."
+    },
+    {
+      "name": "The Many-Faced God",
+      "desc": "God of death in Braavos, served by the Faceless Men. His motto, \"Valar Morghulis\", is a reminder that all men must die."
+    },
+    {
+      "name": "The Great Stallion",
+      "desc": "God of the Dothraki, represented by a gigantic horse. The khals are bound to him, and the nomadic peoples believe in him."
+    },
+    {
+      "name": "The Faith Militant",
+      "desc": "Armed movement of the Faith of the Seven, restored by Cersei Lannister. The Sparrows impose their own justice in King's Landing under the leadership of the High Sparrow."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Dragons",
+      "desc": "Beasts of fire that allowed the Targaryens to conquer Westeros. Extinct for a century, they are reborn thanks to Daenerys, who raises Drogon, Rhaegal and Viserion."
+    },
+    {
+      "name": "Direwolves",
+      "desc": "Giant wolves, emblem of the Starks. Each Stark child receives one at Winterfell, like Ghost for Jon or Nymeria for Arya."
+    },
+    {
+      "name": "The White Walkers",
+      "desc": "Creatures of ice from the Far North, able to raise the dead. In the series, their leader is the Night King."
+    },
+    {
+      "name": "Wights",
+      "desc": "Corpses raised by the White Walkers that form the army of the dead. Only fire, obsidian and Valyrian steel can destroy them."
+    },
+    {
+      "name": "Giants and Mammoths",
+      "desc": "A people of enormous size living beyond the Wall. They are allies of the wildlings and fight alongside their mammoths."
+    },
+    {
+      "name": "The Children of the Forest",
+      "desc": "An ancient, small people, the first inhabitants of Westeros, masters of a magic tied to the weirwood trees."
+    },
+    {
+      "name": "The Three-Eyed Raven",
+      "desc": "Mystical being whose memory spans the entire past. Bran becomes his successor after traveling beyond the Wall."
+    },
+    {
+      "name": "Messenger Ravens",
+      "desc": "Birds trained by the maesters to carry letters between castles, often heralds of grave news."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Season 1",
+        "m": "2011 · 10 episodes",
+        "d": "Ned Stark becomes Hand of the King and uncovers a secret that threatens the throne. On the other side of the world, Daenerys marries a Dothraki lord."
+      },
+      {
+        "t": "Season 2",
+        "m": "2012 · 10 episodes",
+        "d": "The War of the Five Kings breaks out: Robb Stark, Stannis, Renly and Balon Greyjoy stand against Joffrey. The Blackwater closes the season."
+      },
+      {
+        "t": "Season 3",
+        "m": "2013 · 10 episodes",
+        "d": "The Lannisters gain the upper hand while Daenerys frees the Unsullied. The Red Wedding upends the war."
+      },
+      {
+        "t": "Season 4",
+        "m": "2014 · 10 episodes",
+        "d": "Joffrey's wedding ends in tragedy and Tyrion is put on trial. In the North, the Night's Watch prepares for the wildling assault."
+      },
+      {
+        "t": "Season 5",
+        "m": "2015 · 10 episodes",
+        "d": "Cersei leans on the Faith Militant before becoming its victim, and Jon is elected Lord Commander. Daenerys struggles to govern Meereen."
+      },
+      {
+        "t": "Season 6",
+        "m": "2016 · 10 episodes",
+        "d": "Jon returns to life and House Stark retakes Winterfell. Cersei blows up the Great Sept."
+      },
+      {
+        "t": "Season 7",
+        "m": "2017 · 7 episodes",
+        "d": "Daenerys lands in Westeros and allies with Jon. The armies of the living prepare to face the dead."
+      },
+      {
+        "t": "Season 8",
+        "m": "2019 · 6 episodes",
+        "d": "The Battle of Winterfell ends the Long Night, then the struggle for the Iron Throne comes to a close in King's Landing."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Season 1",
+        "m": "2022 · 10 episodes",
+        "d": "King Viserys names Rhaenyra as his heir, but the court is divided over his succession. Tensions between his daughter and Queen Alicent grow over the years."
+      },
+      {
+        "t": "Season 2",
+        "m": "2024 · 8 episodes",
+        "d": "Civil war breaks out between the Blacks and the Greens. Dragons become the decisive weapon of the conflict."
+      },
+      {
+        "t": "Season 3",
+        "m": "2026 · 8 episodes",
+        "d": "The Dance of the Dragons continues, with alliances forming and falling apart. A fourth and final season is announced for 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Season 1",
+        "m": "2026 · 6 episodes",
+        "d": "Ser Duncan the Tall, a hedge knight, takes young Egg as his squire and crosses Westeros, far from the great intrigues. A season 2 is expected in 2027."
+      }
+    ]
   }
 }

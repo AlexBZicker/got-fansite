@@ -12,7 +12,11 @@
       "maisons": "Rody",
       "personnages": "Postavy",
       "series": "Seriály",
-      "livres": "Knihy"
+      "livres": "Knihy",
+      "lieux": "Místa",
+      "batailles": "Bitvy",
+      "croyances": "Víra",
+      "creatures": "Tvorové"
     },
     "titles": {
       "histoire": "Historie Westerosu",
@@ -20,7 +24,12 @@
       "personnages": "Postavy",
       "series": "Seriály",
       "livres": "Knihy",
-      "sources": "Zdroje"
+      "sources": "Zdroje",
+      "lieux": "Místa a hrady",
+      "batailles": "Velké bitvy",
+      "croyances": "Náboženství a tradice",
+      "creatures": "Tvorové",
+      "saisons": "Průvodce sezónami"
     },
     "all": "Vše",
     "nightWatch": "Noční hlídka",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Stránka nenalezena",
     "notFoundText": "Tato stránka neexistuje, nebo byla přesunuta.",
     "backHome": "Zpět na úvodní stránku",
-    "ogAlt": "Sedm korun — fanouškovský web Game of Thrones"
+    "ogAlt": "Sedm korun — fanouškovský web Game of Thrones",
+    "noHouse": "Bez rodu"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Obratná královna, která umí získat lid.",
     "oberyn-martell": "Rudá zmije z Dorne.",
     "viserys-targaryen": "Mírumilovný král rozpolcený mezi rodinou a královstvím.",
-    "corlys-velaryon": "Mořský had, nejbohatší mořeplavec Westerosu."
+    "corlys-velaryon": "Mořský had, nejbohatší mořeplavec Westerosu.",
+    "bronn": "Bezskrupulózní, ale zábavný žoldák, který slouží tomu, kdo platí nejvíc. Ve službách Lannisterů nakonec zbohatne.",
+    "varys": "Pavouk, pán drbů a královstvím rozeseté špehy. Tvrdí, že slouží království dřív než svým pánům.",
+    "jaqen-h-ghar": "Muž bez tváře z Braavosu, který umí měnit tvář. Zasvětí Aryu do umění zabíjet.",
+    "hodor": "Dobrosrdečný stájník ze Zimohradu, který řekne jediné slovo. Jeho osud odhaluje dojemné tajemství.",
+    "ygritte": "Zrzavá divoška s tvrdou hlavou, která Jona Snowa učí, že podle ní „nic neví“.",
+    "tormund-fleau-des-geants": "Vůdce divokých, stejně mohutný jako upovídaný, jehož odvaha mu vynese úctu Jona Snowa.",
+    "khal-drogo": "Mocný dothrakský chál, manžel Daenerys, jehož smrt ji donutí vytvořit si vlastní legendu.",
+    "missandei": "Bývalá otrokyně, tlumočnice a rádkyně Daenerys, jejíž moudrost ji činí neocenitelnou.",
+    "ver-gris": "Velitel Neposkvrněných, věrný Daenerys, který u ní nachází svobodu i lásku.",
+    "podrick-payne": "Nenápadný a oddaný zbrojnoš nejprve Tyriona, poté Brienne, jehož věrnost se mění ve skutečnou odvahu.",
+    "gilly": "Divoška, která našla útočiště na Černém hradu se svým synem a sblíží se se Samwellem.",
+    "ramsay-bolton": "Krutý levoboček rodu Boltonů, proslulý brutalitou vůči svým vězňům.",
+    "roose-bolton": "Ledově klidný pán Hrůzové pevnosti, který zradí Robba Starka na Rudé svatbě.",
+    "walder-frey": "Starý pán Dvojčat, zlopamětný a plodný, odpovědný za masakr na Rudé svatbě.",
+    "lysa-arryn": "Vdova po Jonu Arrynovi a sestra Catelyn, jejíž paranoia ji uzavře v Orlím hnízdě se synem.",
+    "olenna-tyrell": "Královna trnů, babička Margaery, s ostrým jazykem a děsivě bystrým rozumem.",
+    "tommen-baratheon": "Mladší bratr Joffreyho, mírný a snadno ovlivnitelný král, rozpolcený mezi matkou a Bojovnou vírou.",
+    "euron-greyjoy": "Theonův strýc, výstřední pirát ze Železných ostrovů, který tvrdí, že vlastní největší flotilu světa.",
+    "yara-greyjoy": "Dcera Balona a nebojácná kapitánka Železných ostrovů, která se spojí s Daenerys.",
+    "roi-de-la-nuit": "Vůdce Bílých chodců a mrtvých, který vede ledovou armádu na jih.",
+    "lyanna-mormont": "Mladá paní Medvědího ostrova, která se prosadí upřímností a odhodláním.",
+    "barristan-selmy": "Bývalý lord velitel Královské gardy, rytíř cti, který slouží Daenerys v Meereenu.",
+    "brynden-tully": "Černá ryba, strýc Catelyn a zarputilý obránce Řekotočí.",
+    "rhaenys-targaryen": "Královna, která nikdy nebyla, jezdkyně draka Meleys, odstavená od trůnu Velkou radou.",
+    "otto-hightower": "Ctižádostivá královská ruka, otec Alicent, který tlačí dceru k trůnu.",
+    "criston-cole": "Rytíř Královské gardy, věrný Alicent a Zeleným, jehož zraněná pýcha urychlí válku.",
+    "aegon-ii-targaryen": "Nejstarší syn Alicent a Viserya, korunovaný Zelenými, jehož nárok Rhaenyra zpochybňuje.",
+    "aemond-targaryen": "Jednooký princ, jezdec draka Vhagar, obávaný válečník tábora Zelených.",
+    "helaena-targaryen": "Sestra a manželka Aegona II., úzkostně citlivá, jejíž vize jako by předpovídaly budoucnost.",
+    "mysaria": "Tanečnice, která se stala špiónkou v nuzných čtvrtích Králova přístavu, známá jako Bílý červ."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "Sedm korun — fanweb Game of Thrones: historie, rody, postavy",
-      "description": "Neoficiální fanouškovský web o Game of Thrones: historie Westerosu, velké rody, 31 postav, seriály HBO a knihy. K dispozici ve 20 jazycích."
+      "description": "Neoficiální fanweb o Game of Thrones: historie Westerosu, rody, 61 postav, místa, bitvy, náboženství, tvorové, seriály a knihy."
     },
     "history": {
       "title": "Historie Westerosu — kompletní chronologie | Sedm korun",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Postavy ze Game of Thrones a House of the Dragon | Sedm korun",
-      "description": "31 postav ze Game of Thrones a House of the Dragon: rod, představitel či představitelka a portrét, s filtrem podle rodů."
+      "description": "61 postav ze Game of Thrones a House of the Dragon: rod, představitel či představitelka a portrét, s filtrem podle rodů."
     },
     "series": {
-      "title": "Seriály ze světa Game of Thrones | Sedm korun",
-      "description": "Termíny vysílání, sezóny a obsazení seriálů HBO ze světa Game of Thrones, včetně nadcházejících premiér."
+      "title": "Seriály: Game of Thrones, House of the Dragon | Sedm korun",
+      "description": "Game of Thrones, House of the Dragon a A Knight of the Seven Kingdoms: data vysílání, obsazení a průvodce každou sezónou."
     },
     "books": {
       "title": "Knihy: Píseň ledu a ohně, Fire & Blood, Dunk & Egg | Sedm korun",
       "description": "Romány a povídky George R. R. Martina, z nichž vzešla Game of Thrones, a stav dvou dílů, které ještě nevyšly."
+    },
+    "places": {
+      "title": "Místa a hrady Westerosu a Essosu | Sedm korun",
+      "description": "21 klíčových míst Game of Thrones: Zimohrad, Králův přístav, Casterlova skála, Zeď, Braavos, Meereen… s regionem a historií."
+    },
+    "battles": {
+      "title": "Velké bitvy ze Game of Thrones | Sedm korun",
+      "description": "Trojzubec, Černovoda, bitva nemanželských synů, Zimohrad… 14 bitev, které změnily osud Westerosu."
+    },
+    "beliefs": {
+      "title": "Náboženství a tradice ze Game of Thrones | Sedm korun",
+      "description": "Sedm, staří bohové, Pán světla, Utonulý bůh: víra Westerosu a Essosu srozumitelně vysvětlená."
+    },
+    "creatures": {
+      "title": "Tvorové ze Game of Thrones: draci, Bílí chodci | Sedm korun",
+      "description": "Draci, vlkodlaci, Bílí chodci, obři, Děti lesa: tvorové ze světa Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Zimohrad",
+      "region": "Sever",
+      "desc": "Sídlo rodu Starků po tisíciletí, pevnost vystavěná nad horkými prameny. Je také dějištěm bitvy proti mrtvým."
+    },
+    {
+      "name": "Zeď",
+      "region": "Sever",
+      "desc": "Ledová hradba vysoká zhruba 210 metrů, která odděluje Sedm království od divokých zemí dalekého Severu. Noční hlídka ji brání po staletí."
+    },
+    {
+      "name": "Černý hrad",
+      "region": "Zeď",
+      "desc": "Hlavní pevnost Noční hlídky u paty Zdi. Zde Jon Snow složí slib a později se stane lordem velitelem."
+    },
+    {
+      "name": "Hrůzová pevnost",
+      "region": "Sever",
+      "desc": "Sídlo rodu Boltonů, známé krutostí svých pánů a jejich staženými z kůže. Je tu vězněn Theon Greyjoy."
+    },
+    {
+      "name": "Králův přístav",
+      "region": "Korunní země",
+      "desc": "Hlavní město Sedmi království s Rudou pevností a Železným trůnem. Středisko všech dvorských intrik."
+    },
+    {
+      "name": "Dračí kámen",
+      "region": "Korunní země",
+      "desc": "Sopečný ostrov, kde se Targaryenové usadili před Dobytím. Daenerys se sem vrací se svými draky, aby získala zpět své království."
+    },
+    {
+      "name": "Casterlova skála",
+      "region": "Západozemí",
+      "desc": "Pevnost vytesaná do útesu, sídlo rodu Lannisterů, proslulá zlatými doly."
+    },
+    {
+      "name": "Řekotočí",
+      "region": "Říční země",
+      "desc": "Hrad Tullyů při soutoku dvou řek, který je díky přirozené obraně těžké oblehnout."
+    },
+    {
+      "name": "Dvojčata",
+      "region": "Říční země",
+      "desc": "Dvě věže spojené mostem, který střeží přechod přes Trojzubec. Patří Walderu Freyovi a je dějištěm Rudé svatby."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "Říční země",
+      "desc": "Gigantická zřícená pevnost, kdysi největší ve Westerosu, jejíž věže ožehnuté dračím ohněm prý stíhá kletba."
+    },
+    {
+      "name": "Orlí hnízdo",
+      "region": "Údolí",
+      "desc": "Pevnost Arrynů na úbočí hory, považovaná za nedobytnou. Vězni jsou z ní shazováni Měsíční bránou."
+    },
+    {
+      "name": "Vysoká zahrada",
+      "region": "Jih",
+      "desc": "Hrad rodu Tyrellů, obklopený zahradami a úrodnou půdou, která živí velkou část království."
+    },
+    {
+      "name": "Staré Město",
+      "region": "Jih",
+      "desc": "Nejstarší město Westerosu, sídlo Citadely, kde se vzdělávají maesterové, a rodu Hightowerů."
+    },
+    {
+      "name": "Bouřlivý konec",
+      "region": "Bouřlivé země",
+      "desc": "Hrad Baratheonů, který byl prý postaven, aby vzdoroval mořským bouřím. Během povstání je tu obléhán Stannis."
+    },
+    {
+      "name": "Sluneční kopí",
+      "region": "Dorne",
+      "desc": "Hlavní město Dorne a sídlo rodu Martellů, kde platí dědické zvyklosti odlišné od zbytku království."
+    },
+    {
+      "name": "Pyke",
+      "region": "Železné ostrovy",
+      "desc": "Ostrov bičovaný mořem, kde vládne rod Greyjoyů. Jeho obyvatelé, zkušení mořeplavci, žijí z loupeží a nájezdů."
+    },
+    {
+      "name": "Valyrie",
+      "region": "Essos",
+      "desc": "Městský stát pánů draků, zničený Zkázou. Její ruiny a valyrijská ocel živí nesčetné legendy."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Svobodné město postavené na ostrovech s kolosálním Titánem a Železnou bankou. Arya zde vstoupí do Domu černobílých."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Město v Zálivu otrokářů, kde Daenerys zruší otroctví a učiní první kroky jako královna."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Obchodní město s legendárními hradbami, kde Daenerys hledá spojence a nachází Dům nesmrtelných."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "Dothrakijské moře",
+      "desc": "Posvátné město Dothraků, bez hradeb, kam přicházejí žít všechny vdovy po chálech mezi dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "Ohnivé pole",
+      "year": "Rok 1 po d. A.",
+      "sides": "Targaryenové proti Lannisterům a Gardenerům",
+      "desc": "Aegon a jeho sestry zaútočí na dracích na armádu Jihu a Západozemí. Tisíce mužů zahynou v plamenech a králové se skloní."
+    },
+    {
+      "name": "Pole rudé trávy",
+      "year": "Kolem roku 196 po d. A.",
+      "sides": "Daeron II. proti Daemonu Blackfyrovi",
+      "desc": "Rozhodující bitva prvního Blackfyrova povstání, v níž je poražen vzbouřený levoboček. Dynastii Targaryenů poznamenala natrvalo."
+    },
+    {
+      "name": "Trojzubec",
+      "year": "283 po d. A.",
+      "sides": "Rebelové proti Rhaegarovi Targaryenovi",
+      "desc": "Robert Baratheon zabije prince Rhaegara v souboji muže proti muži a otevře rebelům cestu do Králova přístavu."
+    },
+    {
+      "name": "Vyplenění Králova přístavu",
+      "year": "283 po d. A.",
+      "sides": "Lannisterové proti Targaryenům",
+      "desc": "Tywinova vojska vstoupí do hlavního města a vyplení ho. Jaime zabije krále Aerysa, zvaného Šílený král."
+    },
+    {
+      "name": "Šeptající les",
+      "year": "298 po d. A.",
+      "sides": "Robb Stark proti Lannisterům",
+      "desc": "První velké vítězství Robba, který s menším počtem mužů zahnal do pasti armádu Jaimeho Lannistera."
+    },
+    {
+      "name": "Černovoda",
+      "year": "299 po d. A.",
+      "sides": "Stannis proti Lannisterům",
+      "desc": "Stannis zaútočí na Králův přístav z moře, ale Tyrion zapálí řeku divokým ohněm. Posily Tywina a Tyrellů město zachrání."
+    },
+    {
+      "name": "Rudá svatba",
+      "year": "299 po d. A.",
+      "sides": "Freyové a Boltonové proti Starkům",
+      "desc": "Spíše masakr než bitva: Robb, Catelyn a jejich vazalové jsou zavražděni během svatební hostiny."
+    },
+    {
+      "name": "Černý hrad",
+      "year": "300 po d. A.",
+      "sides": "Noční hlídka proti divokým",
+      "desc": "Jon Snow a Noční hlídka vzdorují armádě Mance Raydera, která se snaží překonat Zeď."
+    },
+    {
+      "name": "Meereen",
+      "year": "Sezóna 6",
+      "sides": "Daenerys proti otrokářům",
+      "desc": "Daenerys se vrací na drakovi Drogonovi a zničí flotilu otrokářů, kteří přijeli město oblehnout se svými spojenci."
+    },
+    {
+      "name": "Bitva nemanželských synů",
+      "year": "Sezóna 6",
+      "sides": "Jon a Sansa proti Ramsaymu Boltonovi",
+      "desc": "U hradeb Zimohradu je Jon téměř rozdrcen, než rytíři Údolí zvrátí bitvu. Rod Starků získá zpět své sídlo."
+    },
+    {
+      "name": "Vydrancování Jihu",
+      "year": "Sezóna 7",
+      "sides": "Daenerys proti Lannisterům",
+      "desc": "Daenerys a Drogon napadnou zásobovací konvoj Lannisterů a poprvé ukážou sílu draka ve válce."
+    },
+    {
+      "name": "Bitva o Zimohrad",
+      "year": "Sezóna 8",
+      "sides": "Živí proti mrtvým",
+      "desc": "Armády Westerosu se střetnou s Králem noci. Aryino vítězství ukončí hrozbu Bílých chodců."
+    },
+    {
+      "name": "Pád Králova přístavu",
+      "year": "Sezóna 8",
+      "sides": "Daenerys proti Cersei",
+      "desc": "Daenerys zničí Cerseinu flotilu a pak i město, navzdory zvonu kapitulace. Hlavní město se promění v popel."
+    },
+    {
+      "name": "Tanec draků",
+      "year": "129–131 po d. A.",
+      "sides": "Černí proti Zeleným",
+      "desc": "Občanská válka mezi příznivci Rhaenyry a Aegona II., v níž proti sobě stojí i draci. Targaryeny zdecimuje."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "Víra v Sedm",
+      "desc": "Hlavní náboženství jihu Westerosu: jediné božstvo o sedmi tvářích (Otec, Matka, Panna, Bojovník, Kovář, Stařena a Cizinec). Septoni a septy udávají rytmus života dvora."
+    },
+    {
+      "name": "Staří bohové",
+      "desc": "Kult Prvních lidí a Dětí lesa, uctívaný u srdce-stromů s vyřezanými tvářemi. Starkové a divocí mu zůstávají věrní."
+    },
+    {
+      "name": "Pán světla",
+      "desc": "Bůh ohně původem z Essosu, uctívaný rudými kněžími jako Melisandre, kteří věří ve věčnou válku světla a tmy."
+    },
+    {
+      "name": "Utonulý bůh",
+      "desc": "Božstvo Železných ostrovů, uctívané Greyjoyi. Jeho věřící podstupují křest utopením, z něhož se vracejí posvěceni."
+    },
+    {
+      "name": "Bůh o mnoha tvářích",
+      "desc": "Bůh smrti v Braavosu, jemuž slouží Muži bez tváře. Jeho heslo „Valar Morghulis“ připomíná, že každý musí zemřít."
+    },
+    {
+      "name": "Velký hřebec",
+      "desc": "Bůh Dothraků, zobrazovaný jako gigantický kůň. Chálové k němu patří a věří v něj kočovné národy."
+    },
+    {
+      "name": "Bojovná víra",
+      "desc": "Ozbrojené hnutí Víry v Sedm, obnovené Cersei Lannister. Vrabci vykonávají svůj soud v Králově přístavu pod vedením Nejvyššího vrabce."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Draci",
+      "desc": "Ohniví netvoři, díky nimž Targaryenové dobyli Westeros. Vyhynulí před sto lety, ale díky Daenerys, která vychovává Drogona, Rhaegala a Viseriona, ožívají."
+    },
+    {
+      "name": "Vlkodlaci",
+      "desc": "Obří vlci, znak Starků. Každé dítě Starků dostane jednoho v Zimohradu, jako Duch u Jona nebo Nymeria u Aryi."
+    },
+    {
+      "name": "Bílí chodci",
+      "desc": "Ledové bytosti z dalekého Severu, schopné křísit mrtvé. V seriálu je jejich vůdcem Král noci."
+    },
+    {
+      "name": "Oživlí mrtví",
+      "desc": "Mrtvoly křísené Bílými chodci, které tvoří armádu mrtvých. Přemoci je lze jen ohněm, obsidiánem a valyrijskou ocelí."
+    },
+    {
+      "name": "Obři a mamuti",
+      "desc": "Národ velmi vysokého vzrůstu, žijící za Zdí. Jsou spojenci divokých a bojují se svými mamuty."
+    },
+    {
+      "name": "Děti lesa",
+      "desc": "Prastarý drobný národ, první obyvatelé Westerosu, vládnoucí magií spojenou se srdce-stromy."
+    },
+    {
+      "name": "Tříoký havran",
+      "desc": "Mystická bytost, jejíž paměť sahá do celé minulosti. Bran se stane jeho nástupcem poté, co se vydá za Zeď."
+    },
+    {
+      "name": "Poštovní havrani",
+      "desc": "Ptáci vycvičení maestery k přenášení dopisů mezi hrady, často s varovnými zprávami."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Sezóna 1",
+        "m": "2011 · 10 epizod",
+        "d": "Ned Stark se stane královou rukou a odhalí tajemství, které ohrožuje trůn. Na druhém konci světa se Daenerys provdá za dothrackého vládce."
+      },
+      {
+        "t": "Sezóna 2",
+        "m": "2012 · 10 epizod",
+        "d": "Vypukne válka pěti králů: Robb Stark, Stannis, Renly a Balon Greyjoy se postaví proti Joffreymu. Sezónu uzavírá bitva na Černovodě."
+      },
+      {
+        "t": "Sezóna 3",
+        "m": "2013 · 10 epizod",
+        "d": "Lannisterové získají navrch, zatímco Daenerys osvobodí Neposkvrněné. Rudá svatba obrátí válku naruby."
+      },
+      {
+        "t": "Sezóna 4",
+        "m": "2014 · 10 epizod",
+        "d": "Joffreyho svatba skončí tragicky, Tyrion je souzen. Na Severu se Noční hlídka chystá na útok divokých."
+      },
+      {
+        "t": "Sezóna 5",
+        "m": "2015 · 10 epizod",
+        "d": "Cersei se opře o Bojovnou víru, než se stane její obětí, Jon je zvolen lordem velitelem. Daenerys se potýká s vládnutím v Meereenu."
+      },
+      {
+        "t": "Sezóna 6",
+        "m": "2016 · 10 epizod",
+        "d": "Jon se vrací k životu a rod Starků dobude zpět Zimohrad. Cersei vyhodí do povětří Velký sept."
+      },
+      {
+        "t": "Sezóna 7",
+        "m": "2017 · 7 epizod",
+        "d": "Daenerys přistane ve Westerosu a spojí se s Jonem. Armády živých se chystají čelit mrtvým."
+      },
+      {
+        "t": "Sezóna 8",
+        "m": "2019 · 6 epizod",
+        "d": "Bitva o Zimohrad ukončí Dlouhou noc a boj o Železný trůn skončí v Králově přístavu."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Sezóna 1",
+        "m": "2022 · 10 epizod",
+        "d": "Král Viserys určí za dědičku Rhaenyru, ale dvůr se kvůli nástupnictví rozdělí. Napětí mezi jeho dcerou a královnou Alicent s léty roste."
+      },
+      {
+        "t": "Sezóna 2",
+        "m": "2024 · 8 epizod",
+        "d": "Vypukne občanská válka mezi Černými a Zelenými. Draci se stanou rozhodující zbraní konfliktu."
+      },
+      {
+        "t": "Sezóna 3",
+        "m": "2026 · 8 epizod",
+        "d": "Tanec draků pokračuje, spojenectví vznikají a zanikají. Čtvrtá a poslední sezóna je ohlášena na rok 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Sezóna 1",
+        "m": "2026 · 6 epizod",
+        "d": "Ser Duncan Vysoký, potulný rytíř, přijme mladého Egga za zbrojnoše a putuje Westerosem daleko od velkých intrik. Druhá sezóna se očekává v roce 2027."
+      }
+    ]
   }
 }

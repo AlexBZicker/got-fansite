@@ -7,7 +7,7 @@ import { Pic, slug } from '@/components/pic'
 import { livres, maisons, persos, series, sources } from '@/data'
 import { useI18n } from '@/i18n'
 import { Seo } from '@/seo'
-import { ERAS, PAGES, pathFor, type Era, type Page } from '@/site'
+import { ERAS, PAGES, TITLE_KEY, pathFor, type Era, type Page } from '@/site'
 
 const grid = 'grid gap-3 sm:grid-cols-2 lg:grid-cols-3'
 const wrap = 'mx-auto w-full max-w-6xl px-4'
@@ -19,7 +19,10 @@ type Serie = { tag: string; desc: string }
 type Book = { title: string; tag: string; desc: string }
 type EraData = { name: string; period: string; intro: string; events: { t: string; d: string }[] }
 
-const TITLE_KEY = { history: 'histoire', houses: 'maisons', characters: 'personnages', series: 'series', books: 'livres' } as const
+type Place = { name: string; region: string; desc: string }
+type Battle = { name: string; year: string; sides: string; desc: string }
+type Entry = { name: string; desc: string }
+type Season = { t: string; m: string; d: string }
 
 function usePage(page: Page) {
   const { lang, L } = useI18n()
@@ -204,7 +207,7 @@ export function Characters() {
   const chars = L.chars as Record<string, string>
   const [filtre, setFiltre] = useState(ALL)
   // Les libellés de maison sont des clés FR dans data.ts ; seuls deux termes se traduisent.
-  const lab = (m: string) => m.replace('Garde de Nuit', ui.nightWatch).replace('Prêtresse rouge', ui.redPriestess)
+  const lab = (m: string) => m.replace('Garde de Nuit', ui.nightWatch).replace('Prêtresse rouge', ui.redPriestess).replace('Sans maison', ui.noHouse)
   const filtres = [ALL, ...new Set(persos.map((p) => p.maison))]
   const liste = persos.filter((p) => filtre === ALL || p.maison === filtre)
   return (
@@ -235,9 +238,68 @@ export function Characters() {
   )
 }
 
+// Grille de fiches texte (lieux, batailles, croyances, créatures).
+function InfoCard({ title, badge, sub, text }: { title: string; badge?: string; sub?: string; text: string }) {
+  return (
+    <Card className="py-0">
+      <CardContent className="p-4">
+        <h2 className="font-semibold text-primary">{title}</h2>
+        {badge ? <Badge variant="secondary" className="my-1 h-auto whitespace-normal">{badge}</Badge> : null}
+        {sub ? <p className="text-xs tracking-wide text-muted-foreground uppercase">{sub}</p> : null}
+        <p className="mt-1 text-sm">{text}</p>
+      </CardContent>
+    </Card>
+  )
+}
+
+export function Places() {
+  const { L } = useI18n()
+  return (
+    <PageBody page="places">
+      <div className={grid}>
+        {(L.places as Place[]).map((p) => <InfoCard key={p.name} title={p.name} badge={p.region} text={p.desc} />)}
+      </div>
+    </PageBody>
+  )
+}
+
+export function Battles() {
+  const { L } = useI18n()
+  return (
+    <PageBody page="battles">
+      <div className={grid}>
+        {(L.battles as Battle[]).map((b) => <InfoCard key={b.name} title={b.name} badge={b.year} sub={b.sides} text={b.desc} />)}
+      </div>
+    </PageBody>
+  )
+}
+
+export function Beliefs() {
+  const { L } = useI18n()
+  return (
+    <PageBody page="beliefs">
+      <div className={grid}>
+        {(L.beliefs as Entry[]).map((b) => <InfoCard key={b.name} title={b.name} text={b.desc} />)}
+      </div>
+    </PageBody>
+  )
+}
+
+export function Creatures() {
+  const { L } = useI18n()
+  return (
+    <PageBody page="creatures">
+      <div className={grid}>
+        {(L.creatures as Entry[]).map((c) => <InfoCard key={c.name} title={c.name} text={c.desc} />)}
+      </div>
+    </PageBody>
+  )
+}
+
 export function Series() {
   const { L } = useI18n()
   const serieTxt = L.series as Record<string, Serie>
+  const seasons = L.seasons as Record<string, Season[]>
   return (
     <PageBody page="series">
       <div className={grid}>
@@ -252,6 +314,25 @@ export function Series() {
           </Card>
         ))}
       </div>
+      <h2 className="mt-12 mb-4 border-b pb-2 text-2xl font-semibold text-primary">{L.ui.titles.saisons}</h2>
+      {series.map((s) => (
+        <section key={s.img} className="mb-8">
+          <h3 className="mb-3 text-xl font-semibold">{s.titre}</h3>
+          <ol className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {seasons[s.img].map((se) => (
+              <li key={se.t}>
+                <Card className="h-full py-0">
+                  <CardContent className="p-4">
+                    <p className="font-semibold text-primary">{se.t}</p>
+                    <p className="text-xs tracking-wide text-muted-foreground uppercase">{se.m}</p>
+                    <p className="mt-1 text-sm">{se.d}</p>
+                  </CardContent>
+                </Card>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))}
     </PageBody>
   )
 }

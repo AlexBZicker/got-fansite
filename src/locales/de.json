@@ -12,7 +12,11 @@
       "maisons": "Häuser",
       "personnages": "Figuren",
       "series": "Serien",
-      "livres": "Bücher"
+      "livres": "Bücher",
+      "lieux": "Orte",
+      "batailles": "Schlachten",
+      "croyances": "Glaubensrichtungen",
+      "creatures": "Kreaturen"
     },
     "titles": {
       "histoire": "Die Geschichte von Westeros",
@@ -20,7 +24,12 @@
       "personnages": "Figuren",
       "series": "Serien",
       "livres": "Die Bücher",
-      "sources": "Quellen"
+      "sources": "Quellen",
+      "lieux": "Orte und Burgen",
+      "batailles": "Die großen Schlachten",
+      "croyances": "Religionen und Bräuche",
+      "creatures": "Kreaturen",
+      "saisons": "Staffelguide"
     },
     "all": "Alle",
     "nightWatch": "Nachtwache",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Seite nicht gefunden",
     "notFoundText": "Diese Seite existiert nicht oder wurde verschoben.",
     "backHome": "Zurück zur Startseite",
-    "ogAlt": "Die Sieben Kronen – Game-of-Thrones-Fansite"
+    "ogAlt": "Die Sieben Kronen – Game-of-Thrones-Fansite",
+    "noHouse": "Ohne Haus"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Geschickte Königin, die das Volk für sich zu gewinnen weiß.",
     "oberyn-martell": "Die Rote Viper von Dorne.",
     "viserys-targaryen": "Friedlicher König, hin- und hergerissen zwischen seiner Familie und dem Reich.",
-    "corlys-velaryon": "Die Meeresschlange, reichster Seefahrer von Westeros."
+    "corlys-velaryon": "Die Meeresschlange, reichster Seefahrer von Westeros.",
+    "bronn": "Skrupelloser, aber unterhaltsamer Söldner, der dem dient, der ihn am besten bezahlt. Im Dienst der Lannister kommt er schließlich zu Reichtum.",
+    "varys": "Die Spinne, Meister der Gerüchte und der Spione des Reiches. Er behauptet, dem Reich zu dienen, noch vor seinen Herren.",
+    "jaqen-h-ghar": "Gesichtsloser Mann aus Braavos, der sein Gesicht wechseln kann. Er weiht Arya in die Kunst des Tötens ein.",
+    "hodor": "Gutmütiger Stallbursche von Winterfell, der nur ein einziges Wort sagt. Sein Schicksal enthüllt ein ergreifendes Geheimnis.",
+    "ygritte": "Rothaarige Wildlingsfrau mit starkem Charakter, die Jon Snow beibringt, dass er ihrer Meinung nach „nichts weiß“.",
+    "tormund-fleau-des-geants": "Wildlingsanführer, ebenso beeindruckend wie redselig, dessen Mut ihm die Achtung von Jon Snow einbringt.",
+    "khal-drogo": "Mächtiger dothrakischer Khal und Ehemann von Daenerys, dessen Tod sie zwingt, ihre eigene Legende zu schmieden.",
+    "missandei": "Ehemalige Sklavin, Dolmetscherin und Beraterin von Daenerys, deren Weisheit sie unentbehrlich macht.",
+    "ver-gris": "Befehlshaber der Unbefleckten, Daenerys treu ergeben, der bei ihr Freiheit und Liebe findet.",
+    "podrick-payne": "Diskreter und ergebener Knappe von Tyrion, dann von Brienne, dessen Treue sich in echten Mut verwandelt.",
+    "gilly": "Wildlingsfrau, die mit ihrem Sohn auf der Schwarzen Festung Zuflucht gefunden hat und Samwell nahesteht.",
+    "ramsay-bolton": "Grausamer Bastard des Hauses Bolton, bekannt für seine Brutalität gegenüber Gefangenen.",
+    "roose-bolton": "Eiskalter Herr von Grauenstein, der Robb Stark bei der Roten Hochzeit verrät.",
+    "walder-frey": "Alter Herr der Zwillinge, nachtragend und kinderreich, verantwortlich für das Massaker der Roten Hochzeit.",
+    "lysa-arryn": "Witwe von Jon Arryn und Schwester von Catelyn, deren Paranoia sie mit ihrem Sohn auf der Hohen Warte einsperrt.",
+    "olenna-tyrell": "Die Königin der Dornen, Großmutter von Margaery, mit scharfer Zunge und furchteinflößendem Verstand.",
+    "tommen-baratheon": "Jüngerer Bruder von Joffrey, sanfter und leicht zu beeinflussender König, zerrieben zwischen seiner Mutter und dem Militanten Glauben.",
+    "euron-greyjoy": "Onkel von Theon, überschwänglicher Pirat der Eiseninseln, der behauptet, die größte Flotte der Welt zu besitzen.",
+    "yara-greyjoy": "Tochter von Balon und furchtlose Kapitänin der Eiseninseln, die sich mit Daenerys verbündet.",
+    "roi-de-la-nuit": "Anführer der Weißen Wanderer und der Toten, der das Eisheer nach Süden führt.",
+    "lyanna-mormont": "Junge Herrin der Bäreninsel, die sich durch Offenheit und Entschlossenheit Respekt verschafft.",
+    "barristan-selmy": "Ehemaliger Lord Kommandant der Königsgarde, ehrenhafter Ritter, der Daenerys in Meereen dient.",
+    "brynden-tully": "Der Schwarzfisch, Onkel von Catelyn und hartnäckiger Verteidiger von Schnellwasser.",
+    "rhaenys-targaryen": "Die Königin, die nie war, Reiterin des Drachen Meleys, vom Großen Rat vom Thron ferngehalten.",
+    "otto-hightower": "Ehrgeiziger Hand des Königs und Vater von Alicent, der seine Tochter zum Thron drängt.",
+    "criston-cole": "Ritter der Königsgarde, Alicent und den Grünen treu ergeben, dessen verletzter Stolz den Krieg beschleunigt.",
+    "aegon-ii-targaryen": "Ältester Sohn von Alicent und Viserys, von den Grünen gekrönt, den Rhaenyra anficht.",
+    "aemond-targaryen": "Einäugiger Prinz, Reiter des Drachen Vhagar und gefürchteter Krieger auf der Seite der Grünen.",
+    "helaena-targaryen": "Schwester und Gemahlin von Aegon II., von unruhigem Feingefühl, deren Visionen die Zukunft anzukündigen scheinen.",
+    "mysaria": "Tänzerin, die in den Elendsvierteln von Königsmund zur Spionin wurde und als Weißer Wurm bekannt ist."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "Die Sieben Kronen – Game-of-Thrones-Fansite: Geschichte, Häuser",
-      "description": "Inoffizielle Game-of-Thrones-Fansite: Geschichte von Westeros, große Häuser, 31 Figuren, HBO-Serien und Bücher. In 20 Sprachen verfügbar."
+      "description": "Inoffizielle Game-of-Thrones-Fansite: Geschichte von Westeros, Häuser, 61 Figuren, Orte, Schlachten, Religionen, Kreaturen, Serien und Bücher."
     },
     "history": {
       "title": "Geschichte von Westeros – Komplette Chronik | Die Sieben Kronen",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Figuren: Game of Thrones & House of the Dragon | Die Sieben Kronen",
-      "description": "31 Figuren aus Game of Thrones und House of the Dragon: Haus, Darsteller bzw. Darstellerin und Porträt, nach Haus filterbar."
+      "description": "61 Figuren aus Game of Thrones und House of the Dragon: Haus, Schauspieler oder Schauspielerin und Porträt, nach Haus filterbar."
     },
     "series": {
-      "title": "Serien — Game of Thrones | Die Sieben Kronen",
-      "description": "Sendetermine, Staffeln und Besetzung der HBO-Serien aus dem Universum von Game of Thrones, samt den nächsten Starts."
+      "title": "Serien und Staffeln von Game of Thrones | Die Sieben Kronen",
+      "description": "Game of Thrones, House of the Dragon und A Knight of the Seven Kingdoms: Starttermine, Besetzung und ein Guide zu jeder Staffel."
     },
     "books": {
       "title": "Die Bücher — Game of Thrones | Die Sieben Kronen",
       "description": "Die Romane und Novellen von George R. R. Martin, auf denen Game of Thrones beruht, mit dem Stand der beiden noch ausstehenden Bände."
+    },
+    "places": {
+      "title": "Orte und Burgen von Westeros und Essos | Die Sieben Kronen",
+      "description": "21 wichtige Orte aus Game of Thrones: Winterfell, Königsmund, Casterlystein, die Mauer, Braavos, Meereen … mit Region und Geschichte."
+    },
+    "battles": {
+      "title": "Die großen Schlachten von Game of Thrones | Die Sieben Kronen",
+      "description": "Der Dreizack, das Schwarzwasser, die Schlacht der Bastarde, Winterfell … die 14 Schlachten, die das Schicksal von Westeros veränderten."
+    },
+    "beliefs": {
+      "title": "Religionen und Bräuche in Game of Thrones | Die Sieben Kronen",
+      "description": "Die Sieben, die Alten Götter, der Herr des Lichts, der Ertrunkene Gott: die Glaubensrichtungen von Westeros und Essos erklärt."
+    },
+    "creatures": {
+      "title": "Kreaturen in Game of Thrones: Drachen, Wölfe | Die Sieben Kronen",
+      "description": "Drachen, Schattenwölfe, Weiße Wanderer, Riesen, Kinder des Waldes: die Kreaturen im Universum von Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "Der Norden",
+      "desc": "Seit Jahrtausenden Sitz des Hauses Stark, die Festung ist über heißen Quellen erbaut. Sie ist auch Schauplatz der Schlacht gegen die Toten."
+    },
+    {
+      "name": "Die Mauer",
+      "region": "Der Norden",
+      "desc": "Eine rund 210 Meter hohe Eismauer, die die Sieben Königslande von den wilden Ländern des hohen Nordens trennt. Die Nachtwache verteidigt sie seit Jahrhunderten."
+    },
+    {
+      "name": "Schwarze Festung",
+      "region": "Die Mauer",
+      "desc": "Zentrale Festung der Nachtwache am Fuß der Mauer. Hier legt Jon Snow seinen Eid ab und wird später Lord Kommandant."
+    },
+    {
+      "name": "Grauenstein",
+      "region": "Der Norden",
+      "desc": "Bollwerk des Hauses Bolton, bekannt für die Grausamkeit seiner Herren und ihre Geschundenen. Theon Greyjoy wird dort gefangen gehalten."
+    },
+    {
+      "name": "Königsmund",
+      "region": "Die Kronlande",
+      "desc": "Hauptstadt der Sieben Königslande, in der die Rote Burg und der Eiserne Thron stehen. Sie ist der Mittelpunkt aller Intrigen am Hof."
+    },
+    {
+      "name": "Drachenstein",
+      "region": "Die Kronlande",
+      "desc": "Vulkaninsel, auf der sich die Targaryen vor der Eroberung niederlassen. Daenerys kehrt mit ihren Drachen dorthin zurück, um ihr Reich zurückzuholen."
+    },
+    {
+      "name": "Casterlystein",
+      "region": "Das Westerland",
+      "desc": "In die Klippe gehauene Festung und Sitz des Hauses Lannister, berühmt für ihre Goldminen."
+    },
+    {
+      "name": "Schnellwasser",
+      "region": "Die Flusslande",
+      "desc": "Burg der Tully am Zusammenfluss zweier Flüsse, die durch ihre natürlichen Verteidigungsanlagen nur schwer zu belagern ist."
+    },
+    {
+      "name": "Die Zwillinge",
+      "region": "Die Flusslande",
+      "desc": "Zwei durch eine Brücke verbundene Türme, die den Übergang über den Dreizack kontrollieren. Der Ort gehört Walder Frey und ist Schauplatz der Roten Hochzeit."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "Die Flusslande",
+      "desc": "Gewaltige Festungsruine, einst die größte von Westeros, deren von Drachen verbrannte Türme als verflucht gelten."
+    },
+    {
+      "name": "Hohe Warte",
+      "region": "Das Grüne Tal",
+      "desc": "Am Berghang thronende Festung der Arryn, die als uneinnehmbar gilt. Gefangene werden dort durch die Mondtür in die Tiefe gestoßen."
+    },
+    {
+      "name": "Rosengarten",
+      "region": "Die Weite",
+      "desc": "Burg des Hauses Tyrell, umgeben von Gärten und fruchtbarem Land, das einen großen Teil des Reiches ernährt."
+    },
+    {
+      "name": "Altsass",
+      "region": "Die Weite",
+      "desc": "Älteste Stadt von Westeros, Sitz der Zitadelle, in der die Maester ausgebildet werden, und des Hauses Hightower."
+    },
+    {
+      "name": "Sturmkap",
+      "region": "Die Sturmlande",
+      "desc": "Burg der Baratheon, die der Legende nach gebaut wurde, um den Stürmen des Meeres zu trotzen. Stannis wird dort während der Rebellion belagert."
+    },
+    {
+      "name": "Sonnspeer",
+      "region": "Dorne",
+      "desc": "Hauptstadt von Dorne und Sitz des Hauses Martell, wo Erbfolgebräuche herrschen, die sich vom Rest des Reiches unterscheiden."
+    },
+    {
+      "name": "Pyke",
+      "region": "Die Eiseninseln",
+      "desc": "Vom Meer umtoste Insel, auf der das Haus Greyjoy herrscht. Ihre seefahrterfahrenen Bewohner leben von Plünderungen und Raubzügen."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "Stadtstaat der Drachenmeister, durch die Verdammnis zerstört. Seine Ruinen und der valyrische Stahl nähren alle Legenden."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Freie Stadt auf Inseln erbaut, mit ihrem kolossalen Titanen und der Eisernen Bank. Arya schließt sich dort dem Haus der Schwarzen und Weißen an."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Stadt an der Sklavenbucht, in der Daenerys die Sklaverei abschafft und ihre ersten Schritte als Königin macht."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Handelsstadt mit legendären Mauern, in der Daenerys Verbündete sucht und das Haus der Unsterblichen findet."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "Das Dothrakische Meer",
+      "desc": "Heilige Stadt der Dothraki ohne Mauern, in der alle Witwen der Khals unter den Dosh Khaleen leben."
+    }
+  ],
+  "battles": [
+    {
+      "name": "Das Feld des Feuers",
+      "year": "Jahr 1 n. E.",
+      "sides": "Targaryen gegen Lannister und Gärtner",
+      "desc": "Aegon und seine Schwestern greifen das Heer der Weite und des Westerlands auf Drachenrücken an. Mehrere Tausend Männer sterben in den Flammen, und die Könige beugen das Knie."
+    },
+    {
+      "name": "Das Rotgrasfeld",
+      "year": "Um 196 n. E.",
+      "sides": "Daeron II. gegen Daemon Blackfyre",
+      "desc": "Entscheidende Schlacht der ersten Blackfyre-Rebellion, in der der aufständische Bastard besiegt wird. Sie prägt die Targaryen-Dynastie nachhaltig."
+    },
+    {
+      "name": "Der Dreizack",
+      "year": "283 n. E.",
+      "sides": "Rebellen gegen Rhaegar Targaryen",
+      "desc": "Robert Baratheon tötet Prinz Rhaegar im Zweikampf und öffnet den Rebellen damit den Weg nach Königsmund."
+    },
+    {
+      "name": "Die Plünderung von Königsmund",
+      "year": "283 n. E.",
+      "sides": "Lannister gegen Targaryen",
+      "desc": "Tywins Truppen dringen in die Hauptstadt ein und plündern sie. Jaime tötet König Aerys, genannt der Irre König."
+    },
+    {
+      "name": "Der Flüsterwald",
+      "year": "298 n. E.",
+      "sides": "Robb Stark gegen Lannister",
+      "desc": "Robbs erster großer Sieg: Mit zahlenmäßig unterlegenen Kräften lockt er Jaime Lannisters Heer in eine Falle."
+    },
+    {
+      "name": "Das Schwarzwasser",
+      "year": "299 n. E.",
+      "sides": "Stannis gegen Lannister",
+      "desc": "Stannis greift Königsmund vom Meer aus an, doch Tyrion setzt den Fluss mit Wildfeuer in Brand. Die Verstärkung von Tywin und den Tyrell rettet die Stadt."
+    },
+    {
+      "name": "Die Rote Hochzeit",
+      "year": "299 n. E.",
+      "sides": "Frey und Bolton gegen Stark",
+      "desc": "Mehr als eine Schlacht ein Massaker: Robb, Catelyn und ihre Lehnsleute werden während eines Hochzeitsfestes ermordet."
+    },
+    {
+      "name": "Schwarze Festung",
+      "year": "300 n. E.",
+      "sides": "Nachtwache gegen Wildlinge",
+      "desc": "Jon Snow und die Nachtwache halten dem Heer von Mance Rayder stand, das die Mauer überwinden will."
+    },
+    {
+      "name": "Meereen",
+      "year": "Staffel 6",
+      "sides": "Daenerys gegen die Herren",
+      "desc": "Daenerys kehrt auf ihrem Drachen Drogon zurück und vernichtet die Flotte der Herren, die mit ihren Verbündeten die Stadt belagern wollten."
+    },
+    {
+      "name": "Die Schlacht der Bastarde",
+      "year": "Staffel 6",
+      "sides": "Jon und Sansa gegen Ramsay Bolton",
+      "desc": "Vor den Toren von Winterfell steht Jon kurz vor der Niederlage, bis die Ritter des Grünen Tals das Blatt wenden. Das Haus Stark erobert seine Heimat zurück."
+    },
+    {
+      "name": "Die Plünderung der Weite",
+      "year": "Staffel 7",
+      "sides": "Daenerys gegen Lannister",
+      "desc": "Daenerys und Drogon greifen den Versorgungszug der Lannister an und zeigen erstmals die Macht eines Drachen im Krieg."
+    },
+    {
+      "name": "Die Schlacht um Winterfell",
+      "year": "Staffel 8",
+      "sides": "Die Lebenden gegen die Toten",
+      "desc": "Die Heere von Westeros stellen sich dem Nachtkönig. Aryas Sieg beendet die Bedrohung durch die Weißen Wanderer."
+    },
+    {
+      "name": "Der Fall von Königsmund",
+      "year": "Staffel 8",
+      "sides": "Daenerys gegen Cersei",
+      "desc": "Daenerys zerstört Cerseis Flotte und dann die Stadt, trotz der Glocken der Kapitulation. Die Hauptstadt wird zu Asche."
+    },
+    {
+      "name": "Der Tanz der Drachen",
+      "year": "129–131 n. E.",
+      "sides": "Schwarze gegen Grüne",
+      "desc": "Bürgerkrieg zwischen den Anhängern von Rhaenyra und denen von Aegon II., in dem auch Drachen aufeinandertreffen. Er dezimiert die Targaryen."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "Der Glaube der Sieben",
+      "desc": "Hauptreligion im Süden von Westeros: eine Gottheit mit sieben Gesichtern (der Vater, die Mutter, die Jungfrau, die Kriegerin, der Schmied, die Alte und der Fremde). Ihre Septone und Septen bestimmen das Leben am Hof."
+    },
+    {
+      "name": "Die Alten Götter",
+      "desc": "Kult der Ersten Menschen und der Kinder des Waldes, der den Wehrholzbäumen mit den geschnitzten Gesichtern gilt. Die Starks und die Wildlinge bleiben ihm treu."
+    },
+    {
+      "name": "Der Herr des Lichts",
+      "desc": "Feuergott aus Essos, verehrt von Roten Priestern wie Melisandre, die an einen ewigen Krieg zwischen Licht und Finsternis glauben."
+    },
+    {
+      "name": "Der Ertrunkene Gott",
+      "desc": "Gottheit der Eiseninseln, verehrt von den Greyjoy. Seine Gläubigen vollziehen die Taufe durch Ertränken, aus der sie geweiht zurückkehren."
+    },
+    {
+      "name": "Der Gott der tausend Gesichter",
+      "desc": "Todesgott von Braavos, dem die Gesichtslosen dienen. Sein Leitspruch „Valar Morghulis“ erinnert daran, dass alle Menschen sterben müssen."
+    },
+    {
+      "name": "Der Große Hengst",
+      "desc": "Gott der Dothraki, dargestellt als gewaltiges Pferd. Die Khals fühlen sich ihm verbunden, und die Nomadenvölker glauben an ihn."
+    },
+    {
+      "name": "Der Militante Glaube",
+      "desc": "Bewaffnete Bewegung des Glaubens der Sieben, von Cersei Lannister wiederhergestellt. Unter der Führung des Hohen Spatzen üben die Spatzen in Königsmund ihre eigene Gerichtsbarkeit aus."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Die Drachen",
+      "desc": "Feuerbestien, die es den Targaryen ermöglichten, Westeros zu erobern. Seit einem Jahrhundert ausgestorben, werden sie dank Daenerys wiedergeboren, die Drogon, Rhaegal und Viserion aufzieht."
+    },
+    {
+      "name": "Die Schattenwölfe",
+      "desc": "Riesige Wölfe, Wappentier der Starks. Jedes Stark-Kind erhält in Winterfell einen, etwa Geist für Jon oder Nymeria für Arya."
+    },
+    {
+      "name": "Die Weißen Wanderer",
+      "desc": "Eiskreaturen aus dem hohen Norden, die Tote wiedererwecken können. In der Serie ist der Nachtkönig ihr Anführer."
+    },
+    {
+      "name": "Die Wiedergänger",
+      "desc": "Von den Weißen Wanderern erweckte Leichen, die das Heer der Toten bilden. Nur Feuer, Obsidian und valyrischer Stahl können sie besiegen."
+    },
+    {
+      "name": "Die Riesen und die Mammuts",
+      "desc": "Sehr großes Volk jenseits der Mauer. Sie sind Verbündete der Wildlinge und kämpfen mit ihren Mammuts."
+    },
+    {
+      "name": "Die Kinder des Waldes",
+      "desc": "Altes, kleines Volk und erste Bewohner von Westeros, Meister einer mit den Wehrholzbäumen verbundenen Magie."
+    },
+    {
+      "name": "Der Dreiäugige Rabe",
+      "desc": "Mystisches Wesen, dessen Gedächtnis die gesamte Vergangenheit umfasst. Bran wird sein Nachfolger, nachdem er jenseits der Mauer gereist ist."
+    },
+    {
+      "name": "Die Raben als Boten",
+      "desc": "Von den Maestern abgerichtete Vögel, die Briefe zwischen den Burgen tragen und oft schlimme Nachrichten ankündigen."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Staffel 1",
+        "m": "2011 · 10 Folgen",
+        "d": "Ned Stark wird Hand des Königs und entdeckt ein Geheimnis, das den Thron bedroht. Am anderen Ende der Welt heiratet Daenerys einen dothrakischen Fürsten."
+      },
+      {
+        "t": "Staffel 2",
+        "m": "2012 · 10 Folgen",
+        "d": "Der Krieg der Fünf Könige bricht aus: Robb Stark, Stannis, Renly und Balon Greyjoy stellen sich gegen Joffrey. Das Schwarzwasser beschließt die Staffel."
+      },
+      {
+        "t": "Staffel 3",
+        "m": "2013 · 10 Folgen",
+        "d": "Die Lannister gewinnen die Oberhand, während Daenerys die Unbefleckten befreit. Die Rote Hochzeit stellt den Krieg auf den Kopf."
+      },
+      {
+        "t": "Staffel 4",
+        "m": "2014 · 10 Folgen",
+        "d": "Joffreys Hochzeit endet in einer Tragödie, Tyrion wird vor Gericht gestellt. Im Norden bereitet sich die Nachtwache auf den Angriff der Wildlinge vor."
+      },
+      {
+        "t": "Staffel 5",
+        "m": "2015 · 10 Folgen",
+        "d": "Cersei stützt sich auf den Militanten Glauben, bevor sie selbst sein Opfer wird, Jon wird zum Lord Kommandant gewählt. Daenerys tut sich schwer damit, Meereen zu regieren."
+      },
+      {
+        "t": "Staffel 6",
+        "m": "2016 · 10 Folgen",
+        "d": "Jon kehrt ins Leben zurück, und das Haus Stark erobert Winterfell zurück. Cersei sprengt die Große Septe in die Luft."
+      },
+      {
+        "t": "Staffel 7",
+        "m": "2017 · 7 Folgen",
+        "d": "Daenerys landet in Westeros und verbündet sich mit Jon. Die Heere der Lebenden bereiten sich darauf vor, den Toten entgegenzutreten."
+      },
+      {
+        "t": "Staffel 8",
+        "m": "2019 · 6 Folgen",
+        "d": "Die Schlacht um Winterfell beendet die Lange Nacht, dann endet der Kampf um den Eisernen Thron in Königsmund."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Staffel 1",
+        "m": "2022 · 10 Folgen",
+        "d": "König Viserys bestimmt Rhaenyra zur Erbin, doch der Hof spaltet sich in der Nachfolgefrage. Die Spannungen zwischen seiner Tochter und Königin Alicent wachsen im Lauf der Jahre."
+      },
+      {
+        "t": "Staffel 2",
+        "m": "2024 · 8 Folgen",
+        "d": "Der Bürgerkrieg zwischen Schwarzen und Grünen bricht aus. Die Drachen werden zur entscheidenden Waffe des Konflikts."
+      },
+      {
+        "t": "Staffel 3",
+        "m": "2026 · 8 Folgen",
+        "d": "Der Tanz der Drachen geht weiter, mit Bündnissen, die geschlossen und wieder gebrochen werden. Eine vierte und letzte Staffel ist für 2028 angekündigt."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Staffel 1",
+        "m": "2026 · 6 Folgen",
+        "d": "Ser Duncan der Große, ein fahrender Ritter, nimmt den jungen Egg als Knappen auf und durchquert Westeros, fernab der großen Intrigen. Staffel 2 wird für 2027 erwartet."
+      }
+    ]
   }
 }

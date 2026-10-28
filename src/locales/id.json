@@ -12,7 +12,11 @@
       "maisons": "Wangsa",
       "personnages": "Karakter",
       "series": "Serial",
-      "livres": "Buku"
+      "livres": "Buku",
+      "lieux": "Lokasi",
+      "batailles": "Pertempuran",
+      "croyances": "Kepercayaan",
+      "creatures": "Makhluk"
     },
     "titles": {
       "histoire": "Sejarah Westeros",
@@ -20,7 +24,12 @@
       "personnages": "Karakter",
       "series": "Serial",
       "livres": "Buku-buku",
-      "sources": "Sumber"
+      "sources": "Sumber",
+      "lieux": "Lokasi dan kastil",
+      "batailles": "Pertempuran-pertempuran besar",
+      "croyances": "Agama dan tradisi",
+      "creatures": "Makhluk",
+      "saisons": "Panduan musim"
     },
     "all": "Semua",
     "nightWatch": "Night's Watch",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Halaman tidak ditemukan",
     "notFoundText": "Halaman ini tidak ada atau telah dipindahkan.",
     "backHome": "Kembali ke beranda",
-    "ogAlt": "Tujuh Mahkota — situs penggemar Game of Thrones"
+    "ogAlt": "Tujuh Mahkota — situs penggemar Game of Thrones",
+    "noHouse": "Tanpa wangsa"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Ratu cerdik yang tahu cara merebut hati rakyat.",
     "oberyn-martell": "Ular Merah dari Dorne.",
     "viserys-targaryen": "Raja cinta damai, terbelah antara keluarga dan kerajaan.",
-    "corlys-velaryon": "Ular Laut, pelaut terkaya di Westeros."
+    "corlys-velaryon": "Ular Laut, pelaut terkaya di Westeros.",
+    "bronn": "Tentara bayaran tanpa skrupel tetapi kocak, yang melayani siapa pun yang membayar paling tinggi. Akhirnya ia menjadi kaya dengan melayani para Lannister.",
+    "varys": "Sang Laba-laba, penguasa gosip dan mata-mata kerajaan. Ia mengaku melayani kerajaan sebelum para tuannya.",
+    "jaqen-h-ghar": "Manusia Tanpa Wajah dari Braavos, mampu mengubah wajahnya. Ia mengajari Arya seni membunuh.",
+    "hodor": "Penjaga kandang Winterfell yang baik hati, yang hanya mengucapkan satu kata. Nasibnya mengungkap rahasia yang menyentuh.",
+    "ygritte": "Gadis Wildling berambut merah dengan watak keras, yang mengatakan kepada Jon Snow bahwa menurutnya «kau tak tahu apa-apa».",
+    "tormund-fleau-des-geants": "Pemimpin Wildling yang sama besarnya dengan cerewetnya, yang keberaniannya memenangkan rasa hormat Jon Snow.",
+    "khal-drogo": "Khal Dothraki yang perkasa, suami Daenerys, yang kematiannya memaksa Daenerys menempa legendanya sendiri.",
+    "missandei": "Mantan budak, juru bahasa dan penasihat Daenerys, yang kebijaksanaannya sangat berharga.",
+    "ver-gris": "Komandan Unsullied yang setia kepada Daenerys, yang menemukan kebebasan dan cinta bersamanya.",
+    "podrick-payne": "Pengawal yang pendiam dan setia bagi Tyrion lalu Brienne, yang kesetiaannya berubah menjadi keberanian sejati.",
+    "gilly": "Gadis Wildling yang berlindung di Castle Black bersama putranya, dan menjadi dekat dengan Samwell.",
+    "ramsay-bolton": "Putra haram wangsa Bolton yang kejam, terkenal karena kebrutalannya terhadap para tawanan.",
+    "roose-bolton": "Lord Dreadfort yang dingin setenang es, yang mengkhianati Robb Stark pada Pernikahan Berdarah.",
+    "walder-frey": "Lord tua The Twins, pendendam dan beranak banyak, yang bertanggung jawab atas pembantaian Pernikahan Berdarah.",
+    "lysa-arryn": "Janda Jon Arryn dan saudari Catelyn, yang paranoianya mengurungnya di Eyrie bersama putranya.",
+    "olenna-tyrell": "Ratu Duri, nenek Margaery, berlidah tajam dan berotak mengerikan.",
+    "tommen-baratheon": "Adik Joffrey, raja yang lembut dan mudah dipengaruhi, terjepit antara ibunya dan Iman Militan.",
+    "euron-greyjoy": "Paman Theon, bajak laut flamboyan dari Kepulauan Besi yang mengaku memiliki armada terbesar di dunia.",
+    "yara-greyjoy": "Putri Balon dan kapten pemberani dari Kepulauan Besi, yang bersekutu dengan Daenerys.",
+    "roi-de-la-nuit": "Pemimpin White Walker dan orang mati, yang memimpin pasukan es ke selatan.",
+    "lyanna-mormont": "Nyonya muda Pulau Beruang, yang menegaskan wibawanya lewat sikap blak-blakan dan tekadnya.",
+    "barristan-selmy": "Mantan Lord Commander Pengawal Raja, ksatria terhormat yang melayani Daenerys di Meereen.",
+    "brynden-tully": "Si Ikan Hitam, paman Catelyn dan pembela gigih Riverrun.",
+    "rhaenys-targaryen": "Sang Ratu yang Tak Pernah Jadi, penunggang naga Meleys, yang disingkirkan dari takhta oleh Dewan Agung.",
+    "otto-hightower": "Tangan Raja yang ambisius, ayah Alicent, yang mendorong putrinya menuju takhta.",
+    "criston-cole": "Ksatria Pengawal Raja yang setia kepada Alicent dan Kubu Hijau, yang harga dirinya terluka dan mempercepat perang.",
+    "aegon-ii-targaryen": "Putra sulung Alicent dan Viserys, dinobatkan oleh Kubu Hijau, dan ditentang Rhaenyra.",
+    "aemond-targaryen": "Pangeran bermata satu, penunggang naga Vhagar, prajurit menakutkan di kubu Hijau.",
+    "helaena-targaryen": "Saudari sekaligus istri Aegon II, berperasaan peka dan gelisah, yang penglihatannya seakan meramalkan masa depan.",
+    "mysaria": "Penari yang menjadi mata-mata di kawasan kumuh King's Landing, dikenal dengan nama Cacing Putih."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "Tujuh Mahkota — Situs Game of Thrones: sejarah, wangsa, karakter",
-      "description": "Situs penggemar tidak resmi Game of Thrones: sejarah Westeros, wangsa-wangsa besar, 31 karakter, serial HBO, dan buku. Tersedia dalam 20 bahasa."
+      "description": "Situs penggemar tidak resmi Game of Thrones: sejarah Westeros, wangsa, 61 karakter, lokasi, pertempuran, agama, makhluk, serial, dan buku."
     },
     "history": {
       "title": "Sejarah Westeros — Linimasa Lengkap | Tujuh Mahkota",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Karakter Game of Thrones dan House of the Dragon | Tujuh Mahkota",
-      "description": "31 karakter Game of Thrones dan House of the Dragon: wangsa, pemeran, dan profil singkat, dapat disaring menurut wangsa."
+      "description": "61 karakter Game of Thrones dan House of the Dragon: wangsa, pemeran, dan potret, dapat disaring menurut wangsa."
     },
     "series": {
-      "title": "Serial — Game of Thrones | Tujuh Mahkota",
-      "description": "Jadwal tayang, musim, dan pemeran serial HBO dalam semesta Game of Thrones, lengkap dengan rilis mendatang."
+      "title": "Serial: Game of Thrones, House of the Dragon | Tujuh Mahkota",
+      "description": "Game of Thrones, House of the Dragon, dan A Knight of the Seven Kingdoms: jadwal tayang, pemeran, dan panduan setiap musim."
     },
     "books": {
       "title": "Buku: A Song of Ice and Fire, Fire & Blood, Dunk & Egg | Tujuh Mahkota",
       "description": "Novel dan novelet George R. R. Martin yang menjadi sumber Game of Thrones, beserta status dua buku yang belum terbit."
+    },
+    "places": {
+      "title": "Lokasi dan kastil Westeros dan Essos | Tujuh Mahkota",
+      "description": "21 lokasi penting Game of Thrones: Winterfell, King's Landing, Casterly Rock, Tembok, Braavos, Meereen… lengkap dengan wilayah dan sejarahnya."
+    },
+    "battles": {
+      "title": "Pertempuran besar Game of Thrones | Tujuh Mahkota",
+      "description": "Trident, Blackwater, Pertempuran Para Bajingan, Winterfell… 14 pertempuran yang mengubah nasib Westeros."
+    },
+    "beliefs": {
+      "title": "Agama dan tradisi Game of Thrones | Tujuh Mahkota",
+      "description": "Tujuh Dewa, Dewa Lama, Penguasa Cahaya, Dewa Tenggelam: penjelasan kepercayaan di Westeros dan Essos."
+    },
+    "creatures": {
+      "title": "Makhluk Game of Thrones: naga, dire wolf | Tujuh Mahkota",
+      "description": "Naga, dire wolf, White Walker, raksasa, Anak-anak Hutan: makhluk-makhluk dalam semesta Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "Utara",
+      "desc": "Kediaman wangsa Stark selama ribuan tahun, benteng ini dibangun di atas mata air panas. Tempat ini juga menjadi medan pertempuran melawan para mayat hidup."
+    },
+    {
+      "name": "Tembok",
+      "region": "Utara",
+      "desc": "Tembok es setinggi sekitar 210 meter yang memisahkan Tujuh Kerajaan dari tanah liar di Utara Jauh. Night's Watch menjaganya selama berabad-abad."
+    },
+    {
+      "name": "Castle Black",
+      "region": "Tembok",
+      "desc": "Benteng utama Night's Watch di kaki Tembok. Di sinilah Jon Snow mengucapkan sumpahnya, lalu menjadi Lord Commander."
+    },
+    {
+      "name": "Dreadfort",
+      "region": "Utara",
+      "desc": "Benteng wangsa Bolton, terkenal karena kekejaman para lordnya dan tawanan mereka yang dikuliti. Theon Greyjoy ditahan di sini."
+    },
+    {
+      "name": "King's Landing",
+      "region": "Wilayah Mahkota",
+      "desc": "Ibu kota Tujuh Kerajaan, tempat Red Keep dan Takhta Besi berdiri. Kota ini menjadi pusat segala intrik istana."
+    },
+    {
+      "name": "Dragonstone",
+      "region": "Wilayah Mahkota",
+      "desc": "Pulau vulkanik tempat para Targaryen menetap sebelum Penaklukan. Daenerys kembali ke sini bersama naga-naganya untuk merebut kerajaannya."
+    },
+    {
+      "name": "Casterly Rock",
+      "region": "Wilayah Barat",
+      "desc": "Benteng yang dipahat di tebing, kediaman wangsa Lannister, termasyhur karena tambang emasnya."
+    },
+    {
+      "name": "Riverrun",
+      "region": "Wilayah Sungai",
+      "desc": "Kastil wangsa Tully di pertemuan dua sungai, yang pertahanan alaminya membuatnya sulit dikepung."
+    },
+    {
+      "name": "The Twins",
+      "region": "Wilayah Sungai",
+      "desc": "Dua menara yang dihubungkan jembatan yang menguasai penyeberangan Trident. Tempat ini milik Walder Frey dan menjadi panggung Pernikahan Berdarah."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "Wilayah Sungai",
+      "desc": "Benteng raksasa yang telah runtuh, dahulu yang terbesar di Westeros, dengan menara-menara hangus oleh naga yang dianggap terkutuk."
+    },
+    {
+      "name": "Eyrie",
+      "region": "The Vale",
+      "desc": "Benteng wangsa Arryn di lereng gunung, dianggap tak tertembus. Para tahanan dilempar dari sini lewat Pintu Bulan."
+    },
+    {
+      "name": "Highgarden",
+      "region": "The Reach",
+      "desc": "Kastil wangsa Tyrell, dikelilingi taman dan tanah subur yang memberi makan sebagian besar kerajaan."
+    },
+    {
+      "name": "Oldtown",
+      "region": "The Reach",
+      "desc": "Kota tertua di Westeros, kedudukan Citadel tempat para maester dididik, serta kediaman wangsa Hightower."
+    },
+    {
+      "name": "Storm's End",
+      "region": "Wilayah Badai",
+      "desc": "Kastil wangsa Baratheon, konon dibangun untuk menahan badai laut. Stannis dikepung di sini selama pemberontakan."
+    },
+    {
+      "name": "Sunspear",
+      "region": "Dorne",
+      "desc": "Ibu kota Dorne, kediaman wangsa Martell, tempat berlaku adat suksesi yang berbeda dari bagian kerajaan lainnya."
+    },
+    {
+      "name": "Pyke",
+      "region": "Kepulauan Besi",
+      "desc": "Pulau yang dihantam ombak, diperintah wangsa Greyjoy. Para penghuninya, pelaut ulung, hidup dari penjarahan dan penyerbuan."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "Negara-kota para penguasa naga, dihancurkan oleh Bencana. Reruntuhan dan baja Valyria-nya menghidupi segala legenda."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Kota bebas yang dibangun di atas pulau-pulau, dengan Titan raksasa dan Bank Besi. Arya bergabung dengan Rumah Hitam dan Putih di sini."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Kota di Teluk Budak tempat Daenerys menghapus perbudakan dan mengambil langkah pertamanya sebagai ratu."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Kota dagang dengan tembok legendaris, tempat Daenerys mencari sekutu dan menemukan Rumah Para Abadi."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "Laut Dothraki",
+      "desc": "Kota suci bangsa Dothraki, tanpa tembok, tempat semua janda para khal datang untuk hidup di antara para dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "Api yang Melahap",
+      "year": "Tahun 1 AC",
+      "sides": "Targaryen melawan Lannister dan Gardener",
+      "desc": "Aegon dan saudari-saudarinya menyerang pasukan The Reach dan Wilayah Barat dari punggung naga. Ribuan orang tewas dalam kobaran api, dan para raja bertekuk lutut."
+    },
+    {
+      "name": "Padang Rumput Merah",
+      "year": "Sekitar 196 AC",
+      "sides": "Daeron II melawan Daemon Blackfyre",
+      "desc": "Pertempuran penentu dalam Pemberontakan Blackfyre yang pertama, ketika putra haram pemberontak itu dikalahkan. Peristiwa ini meninggalkan bekas panjang bagi dinasti Targaryen."
+    },
+    {
+      "name": "Trident",
+      "year": "283 AC",
+      "sides": "Pemberontak melawan Rhaegar Targaryen",
+      "desc": "Robert Baratheon membunuh Pangeran Rhaegar dalam duel satu lawan satu, membuka jalan bagi para pemberontak menuju King's Landing."
+    },
+    {
+      "name": "Penjarahan King's Landing",
+      "year": "283 AC",
+      "sides": "Lannister melawan Targaryen",
+      "desc": "Pasukan Tywin memasuki ibu kota dan menjarahnya. Jaime membunuh Raja Aerys, yang dijuluki Raja Gila."
+    },
+    {
+      "name": "Hutan Berbisik",
+      "year": "298 AC",
+      "sides": "Robb Stark melawan Lannister",
+      "desc": "Kemenangan besar pertama Robb, yang menjebak pasukan Jaime Lannister meski jumlah pasukannya lebih sedikit."
+    },
+    {
+      "name": "Blackwater",
+      "year": "299 AC",
+      "sides": "Stannis melawan Lannister",
+      "desc": "Stannis menyerang King's Landing dari laut, tetapi Tyrion menyulut sungai dengan wildfire. Bala bantuan Tywin dan wangsa Tyrell menyelamatkan kota."
+    },
+    {
+      "name": "Pernikahan Berdarah",
+      "year": "299 AC",
+      "sides": "Frey dan Bolton melawan Stark",
+      "desc": "Lebih dari sekadar pertempuran, ini adalah pembantaian: Robb, Catelyn, dan para pengikut mereka dibunuh saat pesta pernikahan."
+    },
+    {
+      "name": "Castle Black",
+      "year": "300 AC",
+      "sides": "Night's Watch melawan Wildling",
+      "desc": "Jon Snow dan Night's Watch bertahan melawan pasukan Mance Rayder yang berusaha melewati Tembok."
+    },
+    {
+      "name": "Meereen",
+      "year": "Musim 6",
+      "sides": "Daenerys melawan para tuan budak",
+      "desc": "Daenerys kembali menunggangi naganya Drogon dan menghancurkan armada para tuan budak yang datang mengepung kota bersama sekutu mereka."
+    },
+    {
+      "name": "Pertempuran Para Bajingan",
+      "year": "Musim 6",
+      "sides": "Jon dan Sansa melawan Ramsay Bolton",
+      "desc": "Di kaki Winterfell, Jon nyaris dilumat sebelum para ksatria Vale membalikkan keadaan. Wangsa Stark merebut kembali rumahnya."
+    },
+    {
+      "name": "Penjarahan The Reach",
+      "year": "Musim 7",
+      "sides": "Daenerys melawan Lannister",
+      "desc": "Daenerys dan Drogon menyerang iring-iringan logistik Lannister, memperlihatkan untuk pertama kalinya kekuatan seekor naga dalam perang."
+    },
+    {
+      "name": "Pertempuran Winterfell",
+      "year": "Musim 8",
+      "sides": "Yang hidup melawan yang mati",
+      "desc": "Pasukan Westeros menghadapi Night King. Kemenangan Arya mengakhiri ancaman White Walker."
+    },
+    {
+      "name": "Jatuhnya King's Landing",
+      "year": "Musim 8",
+      "sides": "Daenerys melawan Cersei",
+      "desc": "Daenerys menghancurkan armada Cersei, lalu kotanya, meski lonceng penyerahan telah berbunyi. Ibu kota menjadi abu."
+    },
+    {
+      "name": "Tarian Naga",
+      "year": "129–131 AC",
+      "sides": "Kubu Hitam melawan Kubu Hijau",
+      "desc": "Perang saudara antara pendukung Rhaenyra dan pendukung Aegon II, yang juga mempertemukan naga-naga. Perang ini menghancurkan wangsa Targaryen."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "Iman Tujuh Dewa",
+      "desc": "Agama utama di Westeros selatan: satu ketuhanan dengan tujuh wajah (Sang Ayah, Sang Ibu, Sang Perawan, Sang Prajurit, Sang Pandai Besi, Sang Nenek, dan Sang Asing). Para septon dan septanya mengatur ritme kehidupan istana."
+    },
+    {
+      "name": "Dewa-Dewa Lama",
+      "desc": "Pemujaan Manusia Pertama dan Anak-anak Hutan, ditujukan pada heart tree berukir wajah. Wangsa Stark dan para Wildling tetap setia padanya."
+    },
+    {
+      "name": "Penguasa Cahaya",
+      "desc": "Dewa api dari Essos, dipuja para pendeta merah seperti Melisandre, yang percaya pada perang abadi antara cahaya dan kegelapan."
+    },
+    {
+      "name": "Dewa Tenggelam",
+      "desc": "Dewa Kepulauan Besi, dipuja wangsa Greyjoy. Para pengikutnya menjalani baptis tenggelam, lalu kembali sebagai insan yang dipersembahkan."
+    },
+    {
+      "name": "Dewa Berwajah Seribu",
+      "desc": "Dewa kematian di Braavos, dilayani para Manusia Tanpa Wajah. Semboyannya, «Valar Morghulis», mengingatkan bahwa semua orang harus mati."
+    },
+    {
+      "name": "Kuda Jantan Agung",
+      "desc": "Dewa bangsa Dothraki, digambarkan sebagai kuda raksasa. Para khal terikat padanya dan bangsa-bangsa nomaden mempercayainya."
+    },
+    {
+      "name": "Iman Militan",
+      "desc": "Gerakan bersenjata dari Iman Tujuh Dewa, dihidupkan kembali oleh Cersei Lannister. Para Pipit menegakkan keadilan mereka di King's Landing di bawah pimpinan Pipit Agung."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Naga",
+      "desc": "Makhluk api yang memungkinkan para Targaryen menaklukkan Westeros. Punah selama satu abad, mereka bangkit kembali berkat Daenerys, yang membesarkan Drogon, Rhaegal, dan Viserion."
+    },
+    {
+      "name": "Dire wolf",
+      "desc": "Serigala raksasa, lambang wangsa Stark. Setiap anak Stark menerima satu di Winterfell, seperti Ghost untuk Jon atau Nymeria untuk Arya."
+    },
+    {
+      "name": "White Walker",
+      "desc": "Makhluk es dari Utara Jauh yang mampu membangkitkan orang mati. Dalam serialnya, pemimpin mereka adalah Night King."
+    },
+    {
+      "name": "Wight",
+      "desc": "Mayat yang dibangkitkan White Walker dan membentuk pasukan orang mati. Hanya api, obsidian, dan baja Valyria yang dapat mengalahkan mereka."
+    },
+    {
+      "name": "Raksasa dan mamut",
+      "desc": "Bangsa bertubuh sangat besar yang hidup di seberang Tembok. Mereka bersekutu dengan para Wildling dan bertarung bersama mamut mereka."
+    },
+    {
+      "name": "Anak-anak Hutan",
+      "desc": "Bangsa purba bertubuh kecil, penghuni pertama Westeros, penguasa sihir yang terkait dengan heart tree."
+    },
+    {
+      "name": "Gagak Bermata Tiga",
+      "desc": "Sosok mistis yang ingatannya mencakup seluruh masa lalu. Bran menjadi penerusnya setelah melakukan perjalanan ke seberang Tembok."
+    },
+    {
+      "name": "Gagak pembawa pesan",
+      "desc": "Burung yang dilatih para maester untuk membawa surat antarkastil, sering kali pertanda kabar buruk."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Musim 1",
+        "m": "2011 · 10 episode",
+        "d": "Ned Stark menjadi Tangan Raja dan menemukan rahasia yang mengancam takhta. Di belahan dunia lain, Daenerys menikahi seorang penguasa Dothraki."
+      },
+      {
+        "t": "Musim 2",
+        "m": "2012 · 10 episode",
+        "d": "Perang Lima Raja pecah: Robb Stark, Stannis, Renly, dan Balon Greyjoy melawan Joffrey. Pertempuran Blackwater menutup musim ini."
+      },
+      {
+        "t": "Musim 3",
+        "m": "2013 · 10 episode",
+        "d": "Para Lannister unggul sementara Daenerys membebaskan para Unsullied. Pernikahan Berdarah mengguncang jalannya perang."
+      },
+      {
+        "t": "Musim 4",
+        "m": "2014 · 10 episode",
+        "d": "Pernikahan Joffrey berakhir tragis, Tyrion diadili. Di Utara, Night's Watch bersiap menghadapi serangan para Wildling."
+      },
+      {
+        "t": "Musim 5",
+        "m": "2015 · 10 episode",
+        "d": "Cersei bersandar pada Iman Militan sebelum menjadi korbannya, Jon terpilih sebagai Lord Commander. Daenerys kesulitan memerintah Meereen."
+      },
+      {
+        "t": "Musim 6",
+        "m": "2016 · 10 episode",
+        "d": "Jon hidup kembali dan wangsa Stark merebut kembali Winterfell. Cersei meledakkan Great Sept."
+      },
+      {
+        "t": "Musim 7",
+        "m": "2017 · 7 episode",
+        "d": "Daenerys mendarat di Westeros dan bersekutu dengan Jon. Pasukan orang hidup bersiap menghadapi orang mati."
+      },
+      {
+        "t": "Musim 8",
+        "m": "2019 · 6 episode",
+        "d": "Pertempuran Winterfell mengakhiri Malam Panjang, lalu perebutan Takhta Besi berakhir di King's Landing."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Musim 1",
+        "m": "2022 · 10 episode",
+        "d": "Raja Viserys menunjuk Rhaenyra sebagai pewaris, tetapi istana terpecah soal suksesinya. Ketegangan antara putrinya dan Ratu Alicent terus memuncak seiring tahun."
+      },
+      {
+        "t": "Musim 2",
+        "m": "2024 · 8 episode",
+        "d": "Perang saudara pecah antara Kubu Hitam dan Kubu Hijau. Naga-naga menjadi senjata penentu dalam konflik itu."
+      },
+      {
+        "t": "Musim 3",
+        "m": "2026 · 8 episode",
+        "d": "Tarian Naga berlanjut, dengan aliansi yang terbentuk lalu runtuh. Musim keempat dan terakhir diumumkan untuk 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Musim 1",
+        "m": "2026 · 6 episode",
+        "d": "Ser Duncan si Jangkung, ksatria pengembara, mengambil Egg yang masih muda sebagai pengawalnya dan menjelajahi Westeros, jauh dari intrik besar. Musim 2 dijadwalkan pada 2027."
+      }
+    ]
   }
 }

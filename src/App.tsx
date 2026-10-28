@@ -1,9 +1,7 @@
 import type { ReactNode } from 'react'
 import { NavLink, Outlet, ScrollRestoration, useLocation, useNavigate } from 'react-router-dom'
 import { I18nProvider, LANGS, useI18n } from '@/i18n'
-import { DEFAULT_LANG, PAGES, pathFor } from '@/site'
-
-const TITLE_KEY = { history: 'histoire', houses: 'maisons', characters: 'personnages', series: 'series', books: 'livres' } as const
+import { DEFAULT_LANG, PAGES, TITLE_KEY, pathFor } from '@/site'
 
 // Cadre commun à toutes les pages : lien d'évitement, menu, sélecteur de langue, pied de page.
 function Shell({ children }: { children: ReactNode }) {

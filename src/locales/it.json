@@ -12,7 +12,11 @@
       "maisons": "Casate",
       "personnages": "Personaggi",
       "series": "Serie",
-      "livres": "Libri"
+      "livres": "Libri",
+      "lieux": "Luoghi",
+      "batailles": "Battaglie",
+      "croyances": "Credenze",
+      "creatures": "Creature"
     },
     "titles": {
       "histoire": "La storia di Westeros",
@@ -20,7 +24,12 @@
       "personnages": "Personaggi",
       "series": "Serie",
       "livres": "I libri",
-      "sources": "Fonti"
+      "sources": "Fonti",
+      "lieux": "Luoghi e castelli",
+      "batailles": "Le grandi battaglie",
+      "croyances": "Religioni e tradizioni",
+      "creatures": "Creature",
+      "saisons": "Guida alle stagioni"
     },
     "all": "Tutti",
     "nightWatch": "Guardia della Notte",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Pagina non trovata",
     "notFoundText": "Questa pagina non esiste o è stata spostata.",
     "backHome": "Torna alla home",
-    "ogAlt": "Le Sette Corone — fan site di Game of Thrones"
+    "ogAlt": "Le Sette Corone — fan site di Game of Thrones",
+    "noHouse": "Senza casata"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Regina abile che sa conquistare il popolo.",
     "oberyn-martell": "La Vipera Rossa di Dorne.",
     "viserys-targaryen": "Re pacifico, diviso tra la sua famiglia e il regno.",
-    "corlys-velaryon": "Il Serpente di Mare, il navigatore più ricco di Westeros."
+    "corlys-velaryon": "Il Serpente di Mare, il navigatore più ricco di Westeros.",
+    "bronn": "Mercenario senza scrupoli ma divertente, che serve chi lo paga meglio. Finisce per arricchirsi al servizio dei Lannister.",
+    "varys": "Il Ragno, maestro delle voci e delle spie del regno. Sostiene di servire il regno prima dei suoi padroni.",
+    "jaqen-h-ghar": "Uomo Senza Volto di Braavos, capace di cambiare faccia. Inizia Arya all'arte di uccidere.",
+    "hodor": "Stalliere di Winterfell dal gran cuore, che dice una sola parola. Il suo destino rivela un segreto toccante.",
+    "ygritte": "Selvaggia dai capelli rossi e dal carattere forte, che insegna a Jon Snow che, a suo dire, «non sa niente».",
+    "tormund-fleau-des-geants": "Capo dei bruti tanto imponente quanto chiacchierone, il cui coraggio gli vale la stima di Jon Snow.",
+    "khal-drogo": "Potente khal dothraki, marito di Daenerys, la cui morte la costringe a forgiare la propria leggenda.",
+    "missandei": "Ex schiava, interprete e consigliera di Daenerys, la cui saggezza la rende preziosa.",
+    "ver-gris": "Comandante degli Immacolati, fedele a Daenerys, che al suo fianco trova libertà e amore.",
+    "podrick-payne": "Scudiero discreto e devoto di Tyrion e poi di Brienne, la cui lealtà si trasforma in vero coraggio.",
+    "gilly": "Selvaggia rifugiata a Castello Nero con suo figlio, che si avvicina a Samwell.",
+    "ramsay-bolton": "Bastardo crudele della casata Bolton, noto per la sua brutalità verso i prigionieri.",
+    "roose-bolton": "Signore di Forte Terrore dalla calma glaciale, che tradisce Robb Stark alle Nozze Rosse.",
+    "walder-frey": "Vecchio signore dei Gemelli, rancoroso e prolifico, responsabile del massacro delle Nozze Rosse.",
+    "lysa-arryn": "Vedova di Jon Arryn e sorella di Catelyn, la cui paranoia la rinchiude nel Nido dell'Aquila con il figlio.",
+    "olenna-tyrell": "La Regina di Spine, nonna di Margaery, dalla lingua tagliente e dall'intelligenza formidabile.",
+    "tommen-baratheon": "Fratello minore di Joffrey, re mite e influenzabile, stretto tra la madre e la Fede Militante.",
+    "euron-greyjoy": "Zio di Theon, esuberante pirata delle Isole di Ferro che sostiene di possedere la più grande flotta del mondo.",
+    "yara-greyjoy": "Figlia di Balon e intrepida capitana delle Isole di Ferro, che si allea con Daenerys.",
+    "roi-de-la-nuit": "Capo degli Estranei e dei morti, guida l'esercito di ghiaccio verso sud.",
+    "lyanna-mormont": "Giovane signora dell'Isola dell'Orso, che si impone con la sua franchezza e la sua determinazione.",
+    "barristan-selmy": "Ex lord comandante della Guardia Reale, cavaliere d'onore che serve Daenerys a Meereen.",
+    "brynden-tully": "Il Pesce Nero, zio di Catelyn e accanito difensore di Delta delle Acque.",
+    "rhaenys-targaryen": "La Regina che non fu mai, cavalcatrice del drago Meleys, estromessa dal trono dal Grande Consiglio.",
+    "otto-hightower": "Primo Cavaliere del Re ambizioso, padre di Alicent, che spinge la figlia verso il trono.",
+    "criston-cole": "Cavaliere della Guardia Reale, fedele ad Alicent e ai Verdi, il cui orgoglio ferito fa precipitare la guerra.",
+    "aegon-ii-targaryen": "Figlio maggiore di Alicent e Viserys, incoronato dai Verdi, a cui Rhaenyra contesta il trono.",
+    "aemond-targaryen": "Principe con un occhio solo, cavaliere del drago Vhagar, temibile guerriero dello schieramento dei Verdi.",
+    "helaena-targaryen": "Sorella e moglie di Aegon II, dalla sensibilità inquieta, le cui visioni sembrano annunciare il futuro.",
+    "mysaria": "Danzatrice diventata spia nei bassifondi di Approdo del Re, conosciuta come il Verme Bianco."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "Le Sette Corone — Fan site di Game of Thrones: storia e casate",
-      "description": "Fan site non ufficiale di Game of Thrones: storia di Westeros, grandi casate, 31 personaggi, serie HBO e libri. Disponibile in 20 lingue."
+      "description": "Fan site non ufficiale di Game of Thrones: storia di Westeros, casate, 61 personaggi, luoghi, battaglie, religioni, creature, serie e libri."
     },
     "history": {
       "title": "Storia di Westeros — Cronologia completa | Le Sette Corone",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Personaggi di Game of Thrones e House of the Dragon",
-      "description": "31 personaggi di Game of Thrones e House of the Dragon: casata, attore o attrice e ritratto, filtrabili per casata."
+      "description": "61 personaggi di Game of Thrones e House of the Dragon: casata, attore o attrice e ritratto, filtrabili per casata."
     },
     "series": {
-      "title": "Serie: Game of Thrones, House of the Dragon, A Knight…",
-      "description": "Date di messa in onda, stagioni e cast delle serie HBO dell'universo di Game of Thrones, con le prossime uscite."
+      "title": "Serie e stagioni di Game of Thrones | Le Sette Corone",
+      "description": "Game of Thrones, House of the Dragon e A Knight of the Seven Kingdoms: date, cast e guida a ogni stagione."
     },
     "books": {
       "title": "I libri: Cronache del Ghiaccio e del Fuoco, Fuoco e Sangue",
       "description": "I romanzi e i racconti di George R. R. Martin all'origine di Game of Thrones, con lo stato dei due volumi ancora da pubblicare."
+    },
+    "places": {
+      "title": "Luoghi e castelli di Westeros ed Essos | Le Sette Corone",
+      "description": "21 luoghi chiave di Game of Thrones: Winterfell, Approdo del Re, Castel Granito, la Barriera, Braavos, Meereen… con regione e storia."
+    },
+    "battles": {
+      "title": "Le grandi battaglie di Game of Thrones | Le Sette Corone",
+      "description": "Il Tridente, l'Acquanera, la battaglia dei Bastardi, Winterfell… le 14 battaglie che hanno cambiato il destino di Westeros."
+    },
+    "beliefs": {
+      "title": "Religioni e tradizioni di Game of Thrones | Le Sette Corone",
+      "description": "I Sette, gli Antichi Dei, il Signore della Luce, il Dio Abissale: le credenze di Westeros ed Essos spiegate."
+    },
+    "creatures": {
+      "title": "Creature di Game of Thrones: draghi, metalupi | Le Sette Corone",
+      "description": "Draghi, metalupi, Estranei, giganti, Figli della Foresta: le creature dell'universo di Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "Il Nord",
+      "desc": "Sede della casata Stark da millenni, la fortezza sorge sopra sorgenti calde. È anche il teatro della battaglia contro i morti."
+    },
+    {
+      "name": "La Barriera",
+      "region": "Il Nord",
+      "desc": "Una muraglia di ghiaccio alta circa 210 metri che separa i Sette Regni dalle terre selvagge del Grande Nord. La Guardia della Notte la difende da secoli."
+    },
+    {
+      "name": "Castello Nero",
+      "region": "La Barriera",
+      "desc": "Fortezza principale della Guardia della Notte, ai piedi della Barriera. Qui Jon Snow pronuncia i suoi voti e poi diventa Lord Comandante."
+    },
+    {
+      "name": "Forte Terrore",
+      "region": "Il Nord",
+      "desc": "Roccaforte della casata Bolton, nota per la crudeltà dei suoi signori e dei loro scuoiati. Theon Greyjoy vi è tenuto prigioniero."
+    },
+    {
+      "name": "Approdo del Re",
+      "region": "Le Terre della Corona",
+      "desc": "Capitale dei Sette Regni, dove si ergono il Fortino Rosso e il Trono di Spade. È il centro di tutti gli intrighi della corte."
+    },
+    {
+      "name": "Roccia del Drago",
+      "region": "Le Terre della Corona",
+      "desc": "Isola vulcanica dove i Targaryen si stabiliscono prima della Conquista. Daenerys vi fa ritorno con i suoi draghi per riprendersi il regno."
+    },
+    {
+      "name": "Castel Granito",
+      "region": "Le Terre dell'Ovest",
+      "desc": "Fortezza scavata nella scogliera, sede della casata Lannister, celebre per le sue miniere d'oro."
+    },
+    {
+      "name": "Delta delle Acque",
+      "region": "Le Terre dei Fiumi",
+      "desc": "Castello dei Tully, alla confluenza di due fiumi, le cui difese naturali lo rendono difficile da assediare."
+    },
+    {
+      "name": "I Gemelli",
+      "region": "Le Terre dei Fiumi",
+      "desc": "Due torri collegate da un ponte che controlla il passaggio del Tridente. Appartiene a Walder Frey ed è il teatro delle Nozze Rosse."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "Le Terre dei Fiumi",
+      "desc": "Gigantesca fortezza in rovina, un tempo la più grande di Westeros, le cui torri, annerite dai draghi, sono ritenute maledette."
+    },
+    {
+      "name": "Nido dell'Aquila",
+      "region": "La Valle di Arryn",
+      "desc": "Fortezza degli Arryn arroccata sul fianco di una montagna, considerata inespugnabile. I prigionieri vengono gettati dalla Porta della Luna."
+    },
+    {
+      "name": "Alto Giardino",
+      "region": "L'Altopiano",
+      "desc": "Castello della casata Tyrell, circondato da giardini e terre fertili che nutrono gran parte del regno."
+    },
+    {
+      "name": "Vecchia Città",
+      "region": "L'Altopiano",
+      "desc": "La città più antica di Westeros, sede della Cittadella, dove si formano i maestri, e della casata Hightower."
+    },
+    {
+      "name": "Capo Tempesta",
+      "region": "Le Terre della Tempesta",
+      "desc": "Castello dei Baratheon, costruito, si dice, per resistere alle tempeste del mare. Stannis vi viene assediato durante la ribellione."
+    },
+    {
+      "name": "Lancia del Sole",
+      "region": "Dorne",
+      "desc": "Capitale di Dorne e sede della casata Martell, dove vigono usanze di successione diverse da quelle del resto del regno."
+    },
+    {
+      "name": "Pyke",
+      "region": "Le Isole di Ferro",
+      "desc": "Isola battuta dal mare dove regna la casata Greyjoy. I suoi abitanti, abili navigatori, vivono di saccheggi e incursioni."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "Città-stato dei signori dei draghi, distrutta dalla Fatalità. Le sue rovine e il suo acciaio di Valyria alimentano ogni leggenda."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Città libera costruita su isole, con il suo colossale Titano e la sua Banca di Ferro. Arya si unisce qui alla Casa del Bianco e del Nero."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Città della Baia degli Schiavisti dove Daenerys abolisce la schiavitù e muove i primi passi da regina."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Città mercantile dalle mura leggendarie, dove Daenerys cerca alleati e trova la Casa degli Eterni."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "Il Mare Dothraki",
+      "desc": "Città sacra dei Dothraki, priva di mura, dove tutte le vedove dei khal vengono a vivere tra le dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "Il Campo di Fuoco",
+      "year": "Anno 1 DC",
+      "sides": "Targaryen contro Lannister e Giardiniere",
+      "desc": "Aegon e le sue sorelle attaccano in sella ai draghi l'esercito dell'Altopiano e dell'Ovest. Migliaia di uomini muoiono tra le fiamme e i re si inchinano."
+    },
+    {
+      "name": "Il Campo d'Erba Rossa",
+      "year": "Verso il 196 DC",
+      "sides": "Daeron II contro Daemon Blackfyre",
+      "desc": "Battaglia decisiva della prima ribellione Blackfyre, in cui il bastardo ribelle viene sconfitto. Segna in modo duraturo la dinastia Targaryen."
+    },
+    {
+      "name": "Il Tridente",
+      "year": "283 DC",
+      "sides": "Ribelli contro Rhaegar Targaryen",
+      "desc": "Robert Baratheon uccide il principe Rhaegar in duello, aprendo ai ribelli la strada verso Approdo del Re."
+    },
+    {
+      "name": "Il sacco di Approdo del Re",
+      "year": "283 DC",
+      "sides": "Lannister contro Targaryen",
+      "desc": "Le truppe di Tywin entrano nella capitale e la saccheggiano. Jaime uccide il re Aerys, detto il Re Folle."
+    },
+    {
+      "name": "Il Bosco dei Sussurri",
+      "year": "298 DC",
+      "sides": "Robb Stark contro Lannister",
+      "desc": "Prima grande vittoria di Robb, che intrappola l'esercito di Jaime Lannister con forze inferiori di numero."
+    },
+    {
+      "name": "L'Acquanera",
+      "year": "299 DC",
+      "sides": "Stannis contro Lannister",
+      "desc": "Stannis attacca Approdo del Re dal mare, ma Tyrion incendia il fiume con il fuoco greco. L'arrivo di Tywin e dei Tyrell salva la città."
+    },
+    {
+      "name": "Le Nozze Rosse",
+      "year": "299 DC",
+      "sides": "Frey e Bolton contro Stark",
+      "desc": "Più che una battaglia, un massacro: Robb, Catelyn e i loro vassalli vengono assassinati durante un banchetto nuziale."
+    },
+    {
+      "name": "Castello Nero",
+      "year": "300 DC",
+      "sides": "Guardia della Notte contro bruti",
+      "desc": "Jon Snow e la Guardia della Notte resistono all'esercito di Mance Rayder, che cerca di varcare la Barriera."
+    },
+    {
+      "name": "Meereen",
+      "year": "Stagione 6",
+      "sides": "Daenerys contro i padroni",
+      "desc": "Daenerys torna in sella al drago Drogon e distrugge la flotta dei padroni, arrivati con i loro alleati per assediare la città."
+    },
+    {
+      "name": "La battaglia dei Bastardi",
+      "year": "Stagione 6",
+      "sides": "Jon e Sansa contro Ramsay Bolton",
+      "desc": "Ai piedi di Winterfell, Jon sta per essere schiacciato, finché i cavalieri della Valle non ribaltano la battaglia. La casata Stark si riprende la sua casa."
+    },
+    {
+      "name": "Il saccheggio dell'Altopiano",
+      "year": "Stagione 7",
+      "sides": "Daenerys contro Lannister",
+      "desc": "Daenerys e Drogon attaccano il convoglio di rifornimenti dei Lannister, mostrando per la prima volta la potenza di un drago in guerra."
+    },
+    {
+      "name": "La battaglia di Winterfell",
+      "year": "Stagione 8",
+      "sides": "I vivi contro i morti",
+      "desc": "Gli eserciti di Westeros affrontano il Re della Notte. La vittoria di Arya pone fine alla minaccia degli Estranei."
+    },
+    {
+      "name": "La caduta di Approdo del Re",
+      "year": "Stagione 8",
+      "sides": "Daenerys contro Cersei",
+      "desc": "Daenerys distrugge la flotta di Cersei e poi la città, nonostante il suono della campana della resa. La capitale è ridotta in cenere."
+    },
+    {
+      "name": "La Danza dei Draghi",
+      "year": "129–131 DC",
+      "sides": "Neri contro Verdi",
+      "desc": "Guerra civile tra i sostenitori di Rhaenyra e quelli di Aegon II, in cui si scontrano anche i draghi. Decima i Targaryen."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "La Fede dei Sette",
+      "desc": "Religione principale del sud di Westeros: una divinità dai sette volti (il Padre, la Madre, la Fanciulla, il Guerriero, il Fabbro, la Vecchia e lo Straniero). I suoi septon e i suoi templi scandiscono la vita della corte."
+    },
+    {
+      "name": "Gli Antichi Dei",
+      "desc": "Culto dei Primi Uomini e dei Figli della Foresta, rivolto agli alberi diga dal volto scolpito. Gli Stark e i bruti gli restano fedeli."
+    },
+    {
+      "name": "Il Signore della Luce",
+      "desc": "Dio del fuoco giunto da Essos, adorato da sacerdoti rossi come Melisandre, che credono in una guerra eterna tra la luce e le tenebre."
+    },
+    {
+      "name": "Il Dio Abissale",
+      "desc": "Divinità delle Isole di Ferro, venerata dai Greyjoy. I suoi fedeli praticano il battesimo per annegamento, da cui tornano consacrati."
+    },
+    {
+      "name": "Il Dio dai Mille Volti",
+      "desc": "Dio della morte a Braavos, servito dagli Uomini Senza Volto. Il suo motto, «Valar Morghulis», ricorda che tutti gli uomini devono morire."
+    },
+    {
+      "name": "Il Grande Stallone",
+      "desc": "Dio dei Dothraki, rappresentato da un cavallo gigantesco. I khal gli sono legati e i popoli nomadi credono in lui."
+    },
+    {
+      "name": "La Fede Militante",
+      "desc": "Movimento armato della Fede dei Sette, ripristinato da Cersei Lannister. I Passeri impongono la loro giustizia ad Approdo del Re sotto la guida dell'Alto Passero."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "I draghi",
+      "desc": "Bestie di fuoco che permisero ai Targaryen di conquistare Westeros. Estinti da un secolo, rinascono grazie a Daenerys, che alleva Drogon, Rhaegal e Viserion."
+    },
+    {
+      "name": "I metalupi",
+      "desc": "Lupi giganti, emblema degli Stark. Ogni bambino Stark ne riceve uno a Winterfell, come Spettro per Jon o Nymeria per Arya."
+    },
+    {
+      "name": "Gli Estranei",
+      "desc": "Creature di ghiaccio venute dal Grande Nord, capaci di risvegliare i morti. Nella serie il loro capo è il Re della Notte."
+    },
+    {
+      "name": "I non morti",
+      "desc": "Cadaveri rialzati dagli Estranei che formano l'esercito dei morti. Solo il fuoco, l'ossidiana e l'acciaio di Valyria riescono a distruggerli."
+    },
+    {
+      "name": "I giganti e i mammut",
+      "desc": "Popolo di enormi dimensioni che vive oltre la Barriera. Sono alleati dei bruti e combattono insieme ai loro mammut."
+    },
+    {
+      "name": "I Figli della Foresta",
+      "desc": "Popolo antico e di piccola statura, primo abitante di Westeros, maestro di una magia legata agli alberi diga."
+    },
+    {
+      "name": "Il Corvo con Tre Occhi",
+      "desc": "Essere mistico la cui memoria abbraccia tutto il passato. Bran ne diventa il successore dopo aver viaggiato oltre la Barriera."
+    },
+    {
+      "name": "I corvi messaggeri",
+      "desc": "Uccelli addestrati dai maestri per portare lettere da un castello all'altro, spesso annunciatori di notizie gravi."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Stagione 1",
+        "m": "2011 · 10 episodi",
+        "d": "Ned Stark diventa Primo Cavaliere del Re e scopre un segreto che minaccia il trono. All'altro capo del mondo, Daenerys sposa un signore dothraki."
+      },
+      {
+        "t": "Stagione 2",
+        "m": "2012 · 10 episodi",
+        "d": "Scoppia la Guerra dei Cinque Re: Robb Stark, Stannis, Renly e Balon Greyjoy si oppongono a Joffrey. L'Acquanera chiude la stagione."
+      },
+      {
+        "t": "Stagione 3",
+        "m": "2013 · 10 episodi",
+        "d": "I Lannister prendono il sopravvento mentre Daenerys libera gli Immacolati. Le Nozze Rosse sconvolgono la guerra."
+      },
+      {
+        "t": "Stagione 4",
+        "m": "2014 · 10 episodi",
+        "d": "Il matrimonio di Joffrey si trasforma in tragedia e Tyrion viene processato. Nel Nord, la Guardia della Notte si prepara all'assalto dei bruti."
+      },
+      {
+        "t": "Stagione 5",
+        "m": "2015 · 10 episodi",
+        "d": "Cersei si appoggia alla Fede Militante prima di diventarne vittima, e Jon viene eletto Lord Comandante. Daenerys fatica a governare Meereen."
+      },
+      {
+        "t": "Stagione 6",
+        "m": "2016 · 10 episodi",
+        "d": "Jon torna in vita e la casata Stark si riprende Winterfell. Cersei fa saltare in aria il Grande Tempio."
+      },
+      {
+        "t": "Stagione 7",
+        "m": "2017 · 7 episodi",
+        "d": "Daenerys sbarca a Westeros e si allea con Jon. Gli eserciti dei vivi si preparano ad affrontare i morti."
+      },
+      {
+        "t": "Stagione 8",
+        "m": "2019 · 6 episodi",
+        "d": "La battaglia di Winterfell pone fine alla Lunga Notte, poi la lotta per il Trono di Spade si conclude ad Approdo del Re."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Stagione 1",
+        "m": "2022 · 10 episodi",
+        "d": "Il re Viserys designa Rhaenyra come erede, ma la corte si divide sulla sua successione. Le tensioni tra sua figlia e la regina Alicent crescono con il passare degli anni."
+      },
+      {
+        "t": "Stagione 2",
+        "m": "2024 · 8 episodi",
+        "d": "Scoppia la guerra civile tra Neri e Verdi. I draghi diventano l'arma decisiva del conflitto."
+      },
+      {
+        "t": "Stagione 3",
+        "m": "2026 · 8 episodi",
+        "d": "La Danza dei Draghi prosegue, con alleanze che si formano e si sciolgono. Una quarta e ultima stagione è annunciata per il 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Stagione 1",
+        "m": "2026 · 6 episodi",
+        "d": "Ser Duncan l'Alto, cavaliere errante, prende il giovane Egg come scudiero e attraversa Westeros, lontano dai grandi intrighi. Una stagione 2 è attesa nel 2027."
+      }
+    ]
   }
 }

@@ -12,7 +12,11 @@
       "maisons": "Husen",
       "personnages": "Karaktärer",
       "series": "Serier",
-      "livres": "Böcker"
+      "livres": "Böcker",
+      "lieux": "Platser",
+      "batailles": "Slag",
+      "croyances": "Trosläror",
+      "creatures": "Varelser"
     },
     "titles": {
       "histoire": "Westeros historia",
@@ -20,7 +24,12 @@
       "personnages": "Karaktärer",
       "series": "Serier",
       "livres": "Böckerna",
-      "sources": "Källor"
+      "sources": "Källor",
+      "lieux": "Platser och slott",
+      "batailles": "De stora slagen",
+      "croyances": "Religioner och traditioner",
+      "creatures": "Varelser",
+      "saisons": "Säsongsguide"
     },
     "all": "Alla",
     "nightWatch": "Nattens väktare",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Sidan hittades inte",
     "notFoundText": "Den här sidan finns inte eller har flyttats.",
     "backHome": "Tillbaka till startsidan",
-    "ogAlt": "De Sju Kronorna – fansajt för Game of Thrones"
+    "ogAlt": "De Sju Kronorna – fansajt för Game of Thrones",
+    "noHouse": "Utan hus"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Skicklig drottning som förstår att vinna folket.",
     "oberyn-martell": "Den Röda ormen från Dorne.",
     "viserys-targaryen": "Fredlig kung, sliten mellan sin familj och riket.",
-    "corlys-velaryon": "Havsormen, Westeros rikaste sjöfarare."
+    "corlys-velaryon": "Havsormen, Westeros rikaste sjöfarare.",
+    "bronn": "Skrupelfri men rolig legosoldat som tjänar den som betalar bäst. Han blir till slut rik i Lannisters tjänst.",
+    "varys": "Spindeln, mästare över rykten och rikets spioner. Han hävdar att han tjänar riket före sina herrar.",
+    "jaqen-h-ghar": "Ansiktslös man från Braavos som kan byta ansikte. Han invigar Arya i konsten att döda.",
+    "hodor": "Godhjärtad stalldräng i Winterfell som bara säger ett enda ord. Hans öde avslöjar en gripande hemlighet.",
+    "ygritte": "Rödhårig vildingkvinna med stark karaktär, som lär Jon Snow att han enligt henne \"ingenting vet\".",
+    "tormund-fleau-des-geants": "Vildingledare, lika imponerande som pratsam, vars mod ger honom Jon Snows respekt.",
+    "khal-drogo": "Mäktig dothrakisk khal och Daenerys make, vars död tvingar henne att skapa sin egen legend.",
+    "missandei": "Före detta slav, tolk och rådgivare åt Daenerys, vars visdom gör henne ovärderlig.",
+    "ver-gris": "Befälhavare för de Obefläckade, lojal mot Daenerys, som hos henne finner frihet och kärlek.",
+    "podrick-payne": "Diskret och hängiven väpnare åt Tyrion och sedan Brienne, vars lojalitet förvandlas till verkligt mod.",
+    "gilly": "Vildingkvinna som tagit sin tillflykt till Castle Black med sin son och som kommer nära Samwell.",
+    "ramsay-bolton": "Grym bastard i huset Bolton, känd för sin brutalitet mot sina fångar.",
+    "roose-bolton": "Iskall herre över Dreadfort, som förråder Robb Stark vid det Röda bröllopet.",
+    "walder-frey": "Gammal herre över Tvillingarna, långsint och barnrik, ansvarig för massakern vid det Röda bröllopet.",
+    "lysa-arryn": "Jon Arryns änka och Catelyns syster, vars paranoia stänger in henne i Örnnästet med sin son.",
+    "olenna-tyrell": "Törnenas drottning, Margaerys farmor, med skarp tunga och fruktansvärt intellekt.",
+    "tommen-baratheon": "Joffreys yngre bror, mild och lättpåverkad kung, kluven mellan sin mor och Den Stridande tron.",
+    "euron-greyjoy": "Theons farbror, översvallande pirat från Järnöarna som påstår sig äga världens största flotta.",
+    "yara-greyjoy": "Balons dotter och orädd kapten på Järnöarna, som allierar sig med Daenerys.",
+    "roi-de-la-nuit": "Ledare för de Vita vandrarna och de döda, som för isarmén söderut.",
+    "lyanna-mormont": "Ung härskarinna över Björnön, som gör sig gällande genom sin uppriktighet och beslutsamhet.",
+    "barristan-selmy": "Före detta lord befälhavare för Kungsgardet, hedersriddare som tjänar Daenerys i Meereen.",
+    "brynden-tully": "Blackfish, Catelyns farbror och oförtruten försvarare av Riverrun.",
+    "rhaenys-targaryen": "Drottningen som aldrig blev, ryttare på draken Meleys, undanhållen tronen av Stora rådet.",
+    "otto-hightower": "Ärelysten kungens hand och Alicents far, som driver sin dotter mot tronen.",
+    "criston-cole": "Riddare i Kungsgardet, lojal mot Alicent och de gröna, vars sårade stolthet påskyndar kriget.",
+    "aegon-ii-targaryen": "Alicents och Viserys äldste son, krönt av de gröna, vars anspråk Rhaenyra bestrider.",
+    "aemond-targaryen": "Enögd prins, ryttare på draken Vhagar och fruktad krigare på de grönas sida.",
+    "helaena-targaryen": "Aegon II:s syster och gemål, med en oroad känslighet, vars visioner tycks förutsäga framtiden.",
+    "mysaria": "Dansös som blev spion i King's Landings fattigkvarter och är känd som Den vita masken."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "De Sju Kronorna – Game of Thrones-fansajt: historia, hus",
-      "description": "Inofficiell Game of Thrones-fansajt: Westeros historia, stora hus, 31 karaktärer, HBO-serier och böcker. Finns på 20 språk."
+      "description": "Inofficiell Game of Thrones-fansajt: Westeros historia, hus, 61 karaktärer, platser, slag, religioner, varelser, serier och böcker."
     },
     "history": {
       "title": "Westeros historia – Komplett tidslinje | De Sju Kronorna",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Karaktärer i Game of Thrones och House of the Dragon | De Sju Kronorna",
-      "description": "31 karaktärer från Game of Thrones och House of the Dragon: hus, skådespelare och porträtt, filtrerbara efter hus."
+      "description": "61 karaktärer från Game of Thrones och House of the Dragon: hus, skådespelare och porträtt, med filter efter hus."
     },
     "series": {
-      "title": "Serier — Game of Thrones | De Sju Kronorna",
-      "description": "Sändningsdatum, säsonger och rollbesättning för HBO-serierna i Game of Thrones-universumet, med kommande premiärer."
+      "title": "Serier och säsonger i Game of Thrones | De Sju Kronorna",
+      "description": "Game of Thrones, House of the Dragon och A Knight of the Seven Kingdoms: datum, rollbesättning och en guide till varje säsong."
     },
     "books": {
       "title": "Böckerna — Game of Thrones | De Sju Kronorna",
       "description": "George R. R. Martins romaner och noveller som Game of Thrones bygger på, med läget för de två delar som ännu inte utkommit."
+    },
+    "places": {
+      "title": "Platser och slott i Westeros och Essos | De Sju Kronorna",
+      "description": "21 viktiga platser i Game of Thrones: Winterfell, King's Landing, Casterly Rock, Muren, Braavos, Meereen… med region och historia."
+    },
+    "battles": {
+      "title": "De stora slagen i Game of Thrones | De Sju Kronorna",
+      "description": "Trident, Blackwater, Bastardernas slag, Winterfell… de 14 slag som förändrade Westeros öde."
+    },
+    "beliefs": {
+      "title": "Religioner och traditioner i Game of Thrones | De Sju Kronorna",
+      "description": "De Sju, de Gamla gudarna, Ljusets herre, den Drunknade guden: trosläror i Westeros och Essos förklarade."
+    },
+    "creatures": {
+      "title": "Varelser i Game of Thrones: drakar, vargar | De Sju Kronorna",
+      "description": "Drakar, vargvargar, Vita vandrare, jättar, Skogens barn: varelserna i universumet Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "Norden",
+      "desc": "Huset Starks säte i tusentals år, en fästning byggd över varma källor. Den är också skådeplatsen för striden mot de döda."
+    },
+    {
+      "name": "Muren",
+      "region": "Norden",
+      "desc": "En ismur, omkring 210 meter hög, som skiljer de Sju konungarikena från de vilda länderna i höga Norden. Nattens väktare har försvarat den i århundraden."
+    },
+    {
+      "name": "Castle Black",
+      "region": "Muren",
+      "desc": "Nattens väktares centrala fästning vid foten av Muren. Här avlägger Jon Snow sin ed och blir sedan Lord Befälhavare."
+    },
+    {
+      "name": "Dreadfort",
+      "region": "Norden",
+      "desc": "Huset Boltons bålverk, känt för sina herrars grymhet och deras flådda. Theon Greyjoy hålls fången där."
+    },
+    {
+      "name": "King's Landing",
+      "region": "Kronlanden",
+      "desc": "De Sju konungarikenas huvudstad, där Red Keep och Järntronen står. Den är centrum för all hovets intrigerande."
+    },
+    {
+      "name": "Dragonstone",
+      "region": "Kronlanden",
+      "desc": "Vulkanisk ö där Targaryen bosätter sig före Erövringen. Daenerys återvänder dit med sina drakar för att återta sitt rike."
+    },
+    {
+      "name": "Casterly Rock",
+      "region": "Västlanden",
+      "desc": "Fästning uthuggen i klippan och huset Lannisters säte, berömd för sina guldgruvor."
+    },
+    {
+      "name": "Riverrun",
+      "region": "Flodlanden",
+      "desc": "Slottet som tillhör Tully, där två floder möts, och som tack vare sina naturliga försvar är svårt att belägra."
+    },
+    {
+      "name": "Tvillingarna",
+      "region": "Flodlanden",
+      "desc": "Två torn förbundna av en bro som kontrollerar övergången över Trident. Platsen tillhör Walder Frey och är skådeplats för det Röda bröllopet."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "Flodlanden",
+      "desc": "Gigantisk fästningsruin, en gång den största i Westeros, vars av drakar svedda torn anses förbannade."
+    },
+    {
+      "name": "Örnnästet",
+      "region": "Dalen",
+      "desc": "Huset Arryns fästning uppe på en bergssluttning, ansedd som ointaglig. Fångar kastas ut genom Månporten."
+    },
+    {
+      "name": "Highgarden",
+      "region": "The Reach",
+      "desc": "Huset Tyrells slott, omgivet av trädgårdar och bördig mark som föder en stor del av riket."
+    },
+    {
+      "name": "Oldtown",
+      "region": "The Reach",
+      "desc": "Westeros äldsta stad, säte för Citadellet där mästrarna utbildas, och för huset Hightower."
+    },
+    {
+      "name": "Storm's End",
+      "region": "Stormlanden",
+      "desc": "Huset Baratheons slott, sägs vara byggt för att trotsa havets stormar. Stannis belägras där under upproret."
+    },
+    {
+      "name": "Sunspear",
+      "region": "Dorne",
+      "desc": "Dornes huvudstad och huset Martells säte, där arvsseder som skiljer sig från resten av kungariket råder."
+    },
+    {
+      "name": "Pyke",
+      "region": "Järnöarna",
+      "desc": "Havsomsusad ö där huset Greyjoy härskar. Invånarna, skickliga sjöfarare, lever på plundring och räder."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "Drakherrarnas stadsstat, förstörd av Undergången. Dess ruiner och valyriskt stål ger näring åt alla legender."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Fri stad byggd på öar, med sin kolossala Titan och Järnbanken. Arya ansluter sig där till Huset av svart och vitt."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Stad vid Slavbukten där Daenerys avskaffar slaveriet och tar sina första steg som drottning."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Handelsstad med legendariska murar, där Daenerys söker allierade och hittar De Odödligas hus."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "Dothrakihavet",
+      "desc": "Dothrakernas heliga stad, utan murar, där alla khalernas änkor kommer för att leva bland dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "Eldfältet",
+      "year": "År 1 e.E.",
+      "sides": "Targaryen mot Lannister och Gardener",
+      "desc": "Aegon och hans systrar angriper arméerna från The Reach och Västlanden från drakryggar. Flera tusen män omkommer i lågorna, och kungarna böjer knä."
+    },
+    {
+      "name": "Rödgräsfältet",
+      "year": "Omkring 196 e.E.",
+      "sides": "Daeron II mot Daemon Blackfyre",
+      "desc": "Avgörande slag i det första Blackfyre-upproret, där den upproriske bastarden besegras. Det präglar Targaryen-dynastin för lång tid."
+    },
+    {
+      "name": "Trident",
+      "year": "283 e.E.",
+      "sides": "Rebeller mot Rhaegar Targaryen",
+      "desc": "Robert Baratheon dödar prins Rhaegar i tvekamp, vilket öppnar vägen till King's Landing för rebellerna."
+    },
+    {
+      "name": "Plundringen av King's Landing",
+      "year": "283 e.E.",
+      "sides": "Lannister mot Targaryen",
+      "desc": "Tywins trupper tågar in i huvudstaden och plundrar den. Jaime dödar kung Aerys, kallad den Galne kungen."
+    },
+    {
+      "name": "Viskningsskogen",
+      "year": "298 e.E.",
+      "sides": "Robb Stark mot Lannister",
+      "desc": "Robbs första stora seger, då han med en numerärt underlägsen styrka lockar Jaime Lannisters armé i en fälla."
+    },
+    {
+      "name": "Blackwater",
+      "year": "299 e.E.",
+      "sides": "Stannis mot Lannister",
+      "desc": "Stannis angriper King's Landing från havet, men Tyrion sätter floden i brand med vildeld. Förstärkningarna från Tywin och Tyrell räddar staden."
+    },
+    {
+      "name": "Det Röda bröllopet",
+      "year": "299 e.E.",
+      "sides": "Frey och Bolton mot Stark",
+      "desc": "Mer än ett slag, en massaker: Robb, Catelyn och deras vasaller mördas under en bröllopsfest."
+    },
+    {
+      "name": "Castle Black",
+      "year": "300 e.E.",
+      "sides": "Nattens väktare mot vildingar",
+      "desc": "Jon Snow och Nattens väktare står emot Mance Rayders armé, som försöker ta sig över Muren."
+    },
+    {
+      "name": "Meereen",
+      "year": "Säsong 6",
+      "sides": "Daenerys mot herrarna",
+      "desc": "Daenerys återvänder på sin drake Drogon och förstör herrarnas flotta, som hade kommit för att belägra staden med sina allierade."
+    },
+    {
+      "name": "Bastardernas slag",
+      "year": "Säsong 6",
+      "sides": "Jon och Sansa mot Ramsay Bolton",
+      "desc": "Nedanför Winterfell är Jon nära att krossas innan Dalens riddare vänder slaget. Huset Stark återtar sitt hem."
+    },
+    {
+      "name": "Plundringen av The Reach",
+      "year": "Säsong 7",
+      "sides": "Daenerys mot Lannister",
+      "desc": "Daenerys och Drogon angriper Lannisters proviantkonvoj och visar för första gången en drakes kraft i krig."
+    },
+    {
+      "name": "Slaget om Winterfell",
+      "year": "Säsong 8",
+      "sides": "De levande mot de döda",
+      "desc": "Westeros arméer möter Nattkungen. Aryas seger gör slut på hotet från de Vita vandrarna."
+    },
+    {
+      "name": "King's Landings fall",
+      "year": "Säsong 8",
+      "sides": "Daenerys mot Cersei",
+      "desc": "Daenerys förstör Cerseis flotta och därefter staden, trots kapitulationsklockorna. Huvudstaden förvandlas till aska."
+    },
+    {
+      "name": "Drakarnas dans",
+      "year": "129–131 e.E.",
+      "sides": "De svarta mot de gröna",
+      "desc": "Inbördeskrig mellan Rhaenyras anhängare och Aegon II:s, där även drakar möts i strid. Det decimerar Targaryen."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "De Sjus tro",
+      "desc": "Huvudreligionen i södra Westeros: en gudom med sju ansikten (Fadern, Modern, Jungfrun, Krigaren, Smeden, Gumman och Främlingen). Dess septoner och septer präglar livet vid hovet."
+    },
+    {
+      "name": "De Gamla gudarna",
+      "desc": "De Första Människornas och Skogens barns kult, som ägnas åt vaktträden med de snidade ansiktena. Stark och vildingarna förblir trogna den."
+    },
+    {
+      "name": "Ljusets herre",
+      "desc": "Eldgud från Essos, dyrkad av röda präster som Melisandre, som tror på ett evigt krig mellan ljus och mörker."
+    },
+    {
+      "name": "Den Drunknade guden",
+      "desc": "Järnöarnas gudom, dyrkad av Greyjoy. Hans troende genomgår dopet genom drunkning, varifrån de återvänder vigda."
+    },
+    {
+      "name": "Guden med de tusen ansiktena",
+      "desc": "Dödsgud i Braavos, som de Ansiktslösa männen tjänar. Hans valspråk, \"Valar Morghulis\", påminner om att alla människor måste dö."
+    },
+    {
+      "name": "Den Store hingsten",
+      "desc": "Dothrakernas gud, avbildad som en gigantisk häst. Khalerna är knutna till honom och nomadfolken tror på honom."
+    },
+    {
+      "name": "Den Stridande tron",
+      "desc": "Väpnad rörelse inom De Sjus tro, återupprättad av Cersei Lannister. Under Högsta gråsparvens ledning utövar Gråsparvarna sin egen rättvisa i King's Landing."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Drakarna",
+      "desc": "Eldbestar som gjorde det möjligt för Targaryen att erövra Westeros. Utdöda i ett sekel återföds de tack vare Daenerys, som föder upp Drogon, Rhaegal och Viserion."
+    },
+    {
+      "name": "Vargvargarna",
+      "desc": "Jättevargar, Starks emblem. Varje Stark-barn får en i Winterfell, som Ghost åt Jon eller Nymeria åt Arya."
+    },
+    {
+      "name": "De Vita vandrarna",
+      "desc": "Isvarelser från höga Norden som kan resa de döda. I serien är Nattkungen deras ledare."
+    },
+    {
+      "name": "De Odöda",
+      "desc": "Lik som rests av de Vita vandrarna och som utgör de dödas armé. Endast eld, obsidian och valyriskt stål kan besegra dem."
+    },
+    {
+      "name": "Jättarna och mammutarna",
+      "desc": "Mycket storväxt folk som lever bortom Muren. De är vildingarnas allierade och strider med sina mammutar."
+    },
+    {
+      "name": "Skogens barn",
+      "desc": "Uråldrigt, litet folk och Westeros första invånare, mästare på en magi knuten till vaktträden."
+    },
+    {
+      "name": "Den Treögda korpen",
+      "desc": "Mystisk varelse vars minne omfattar hela det förflutna. Bran blir hans efterträdare efter att ha rest bortom Muren."
+    },
+    {
+      "name": "Budkorparna",
+      "desc": "Fåglar som mästrarna tränat för att bära brev mellan slotten, ofta förebud om allvarliga nyheter."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Säsong 1",
+        "m": "2011 · 10 avsnitt",
+        "d": "Ned Stark blir kungens hand och upptäcker en hemlighet som hotar tronen. På andra sidan världen gifter sig Daenerys med en dothrakisk herre."
+      },
+      {
+        "t": "Säsong 2",
+        "m": "2012 · 10 avsnitt",
+        "d": "Kriget om de fem kungarna bryter ut: Robb Stark, Stannis, Renly och Balon Greyjoy ställer sig mot Joffrey. Blackwater avslutar säsongen."
+      },
+      {
+        "t": "Säsong 3",
+        "m": "2013 · 10 avsnitt",
+        "d": "Lannister får övertaget medan Daenerys befriar de Obefläckade. Det Röda bröllopet vänder upp och ner på kriget."
+      },
+      {
+        "t": "Säsong 4",
+        "m": "2014 · 10 avsnitt",
+        "d": "Joffreys bröllop slutar i tragedi och Tyrion ställs inför rätta. I Norden förbereder sig Nattens väktare för vildingarnas anfall."
+      },
+      {
+        "t": "Säsong 5",
+        "m": "2015 · 10 avsnitt",
+        "d": "Cersei stöder sig på Den Stridande tron innan hon själv blir dess offer, Jon väljs till Lord Befälhavare. Daenerys har svårt att styra Meereen."
+      },
+      {
+        "t": "Säsong 6",
+        "m": "2016 · 10 avsnitt",
+        "d": "Jon återvänder till livet och huset Stark tar tillbaka Winterfell. Cersei spränger den Stora septen."
+      },
+      {
+        "t": "Säsong 7",
+        "m": "2017 · 7 avsnitt",
+        "d": "Daenerys landstiger i Westeros och allierar sig med Jon. De levandes arméer förbereder sig på att möta de döda."
+      },
+      {
+        "t": "Säsong 8",
+        "m": "2019 · 6 avsnitt",
+        "d": "Slaget om Winterfell gör slut på den Långa Natten, sedan slutar kampen om Järntronen i King's Landing."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Säsong 1",
+        "m": "2022 · 10 avsnitt",
+        "d": "Kung Viserys utser Rhaenyra till arvtagare, men hovet splittras om hans efterträdare. Spänningarna mellan hans dotter och drottning Alicent växer med åren."
+      },
+      {
+        "t": "Säsong 2",
+        "m": "2024 · 8 avsnitt",
+        "d": "Inbördeskriget mellan de svarta och de gröna bryter ut. Drakarna blir konfliktens avgörande vapen."
+      },
+      {
+        "t": "Säsong 3",
+        "m": "2026 · 8 avsnitt",
+        "d": "Drakarnas dans fortsätter, med allianser som sluts och bryts. En fjärde och sista säsong är aviserad till 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Säsong 1",
+        "m": "2026 · 6 avsnitt",
+        "d": "Ser Duncan den Långe, en kringvandrande riddare, tar den unge Egg som väpnare och färdas genom Westeros, långt från de stora intrigerna. Säsong 2 väntas 2027."
+      }
+    ]
   }
 }

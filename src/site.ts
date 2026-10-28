@@ -11,7 +11,12 @@ export const OG_LOCALE: Record<string, string> = {
 }
 
 // Pages (slug identique dans toutes les langues) ; l'accueil est la page sans slug.
-export const PAGES = ['history', 'houses', 'characters', 'series', 'books'] as const
+export const PAGES = ['history', 'houses', 'characters', 'places', 'battles', 'beliefs', 'creatures', 'series', 'books'] as const
+// Clé du titre de chaque page dans les fichiers de langue (ui.nav / ui.titles).
+export const TITLE_KEY = {
+  history: 'histoire', houses: 'maisons', characters: 'personnages', places: 'lieux', battles: 'batailles',
+  beliefs: 'croyances', creatures: 'creatures', series: 'series', books: 'livres',
+} as const
 export const ERAS = ['origins', 'targaryen', 'rebellion', 'five-kings', 'long-night'] as const
 export type Page = (typeof PAGES)[number]
 export type Era = (typeof ERAS)[number]

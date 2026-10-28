@@ -12,7 +12,11 @@
       "maisons": "Gia tộc",
       "personnages": "Nhân vật",
       "series": "Phim",
-      "livres": "Sách"
+      "livres": "Sách",
+      "lieux": "Địa danh",
+      "batailles": "Trận chiến",
+      "croyances": "Tín ngưỡng",
+      "creatures": "Sinh vật"
     },
     "titles": {
       "histoire": "Lịch sử Westeros",
@@ -20,7 +24,12 @@
       "personnages": "Nhân vật",
       "series": "Phim",
       "livres": "Các cuốn sách",
-      "sources": "Nguồn"
+      "sources": "Nguồn",
+      "lieux": "Địa danh và lâu đài",
+      "batailles": "Những trận chiến lớn",
+      "croyances": "Tôn giáo và truyền thống",
+      "creatures": "Sinh vật",
+      "saisons": "Hướng dẫn các mùa"
     },
     "all": "Tất cả",
     "nightWatch": "Đội Tuần Đêm",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Không tìm thấy trang",
     "notFoundText": "Trang này không tồn tại hoặc đã được di chuyển.",
     "backHome": "Về trang chủ",
-    "ogAlt": "Bảy Vương Miện — trang fan Game of Thrones"
+    "ogAlt": "Bảy Vương Miện — trang fan Game of Thrones",
+    "noHouse": "Không gia tộc"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Nữ hoàng khéo léo, biết cách chinh phục dân chúng.",
     "oberyn-martell": "Độc Xà Đỏ của Dorne.",
     "viserys-targaryen": "Vị vua yêu hòa bình, bị giằng xé giữa gia đình và vương quốc.",
-    "corlys-velaryon": "Rắn Biển, nhà hàng hải giàu nhất Westeros."
+    "corlys-velaryon": "Rắn Biển, nhà hàng hải giàu nhất Westeros.",
+    "bronn": "Lính đánh thuê vô liêm sỉ nhưng hài hước, phục vụ kẻ trả giá cao nhất. Cuối cùng anh làm giàu nhờ phục vụ nhà Lannister.",
+    "varys": "Con Nhện, bậc thầy về tin đồn và gián điệp của vương quốc. Hắn tuyên bố phụng sự vương quốc trước các chủ nhân của mình.",
+    "jaqen-h-ghar": "Người Không Mặt ở Braavos, có thể thay đổi gương mặt. Ông truyền cho Arya nghệ thuật giết người.",
+    "hodor": "Người giữ ngựa tốt bụng của Winterfell, chỉ nói đúng một từ. Số phận của anh hé lộ một bí mật xúc động.",
+    "ygritte": "Cô gái Hoang Dã tóc đỏ cá tính mạnh mẽ, nói với Jon Snow rằng theo cô, «anh chẳng biết gì cả».",
+    "tormund-fleau-des-geants": "Thủ lĩnh Hoang Dã vừa to lớn vừa lắm lời, lòng dũng cảm giúp ông giành được sự kính trọng của Jon Snow.",
+    "khal-drogo": "Khal Dothraki quyền lực, chồng của Daenerys, cái chết của ông buộc cô phải tự tạo nên huyền thoại của mình.",
+    "missandei": "Cựu nô lệ, thông dịch viên và cố vấn của Daenerys, sự thông thái khiến cô trở nên quý giá.",
+    "ver-gris": "Chỉ huy của Unsullied, trung thành với Daenerys, tìm thấy tự do và tình yêu bên cô.",
+    "podrick-payne": "Người hầu kín đáo và tận tụy của Tyrion rồi Brienne, lòng trung thành của anh biến thành sự dũng cảm thực sự.",
+    "gilly": "Cô gái Hoang Dã trú ẩn ở Castle Black cùng con trai, trở nên thân thiết với Samwell.",
+    "ramsay-bolton": "Đứa con hoang độc ác của nhà Bolton, khét tiếng vì sự tàn bạo với tù nhân.",
+    "roose-bolton": "Lãnh chúa Dreadfort lạnh lùng như băng, phản bội Robb Stark trong Đám cưới Đỏ.",
+    "walder-frey": "Lãnh chúa già của The Twins, hay thù dai và đông con cháu, kẻ chịu trách nhiệm cho vụ thảm sát Đám cưới Đỏ.",
+    "lysa-arryn": "Góa phụ của Jon Arryn và chị gái Catelyn, nỗi hoang tưởng nhốt bà ở Eyrie cùng con trai.",
+    "olenna-tyrell": "Nữ Hoàng Gai, bà của Margaery, miệng lưỡi sắc sảo và trí tuệ đáng gờm.",
+    "tommen-baratheon": "Em trai của Joffrey, vị vua hiền lành dễ bị ảnh hưởng, kẹt giữa mẹ mình và Đức Tin Chiến Binh.",
+    "euron-greyjoy": "Chú của Theon, tên cướp biển phô trương của Quần đảo Sắt tự xưng sở hữu hạm đội lớn nhất thế giới.",
+    "yara-greyjoy": "Con gái của Balon và là thuyền trưởng gan dạ của Quần đảo Sắt, liên minh với Daenerys.",
+    "roi-de-la-nuit": "Thủ lĩnh của Bóng Trắng và người chết, hắn dẫn đội quân băng giá tiến xuống phương Nam.",
+    "lyanna-mormont": "Nữ lãnh chúa trẻ của Đảo Gấu, khẳng định mình bằng sự thẳng thắn và quyết tâm.",
+    "barristan-selmy": "Cựu Lord Commander của Ngự Lâm Quân, hiệp sĩ trọng danh dự phục vụ Daenerys ở Meereen.",
+    "brynden-tully": "Cá Đen, chú của Catelyn và người bảo vệ kiên cường Riverrun.",
+    "rhaenys-targaryen": "Nữ hoàng chưa từng làm nữ hoàng, kỵ sĩ của con rồng Meleys, bị Đại Hội Đồng gạt khỏi ngai vàng.",
+    "otto-hightower": "Cánh Tay Phải đầy tham vọng, cha của Alicent, đẩy con gái mình lên ngai vàng.",
+    "criston-cole": "Hiệp sĩ Ngự Lâm Quân, trung thành với Alicent và phe Xanh, lòng kiêu hãnh bị tổn thương của ông đẩy nhanh chiến tranh.",
+    "aegon-ii-targaryen": "Con trai cả của Alicent và Viserys, được phe Xanh đội vương miện, bị Rhaenyra tranh chấp.",
+    "aemond-targaryen": "Hoàng tử một mắt, kỵ sĩ của con rồng Vhagar, chiến binh đáng sợ của phe Xanh.",
+    "helaena-targaryen": "Em gái và vợ của Aegon II, nhạy cảm và bất an, những linh ảnh của bà dường như báo trước tương lai.",
+    "mysaria": "Vũ nữ trở thành gián điệp ở khu ổ chuột của King's Landing, được biết đến với tên Giun Trắng."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "Bảy Vương Miện — Trang fan Game of Thrones: lịch sử, gia tộc, nhân vật",
-      "description": "Trang fan không chính thức về Game of Thrones: lịch sử Westeros, các đại gia tộc, 31 nhân vật, phim HBO và sách. Có sẵn trong 20 ngôn ngữ."
+      "description": "Trang fan không chính thức về Game of Thrones: lịch sử Westeros, các gia tộc, 61 nhân vật, địa danh, trận chiến, tôn giáo, sinh vật, phim và sách."
     },
     "history": {
       "title": "Lịch sử Westeros — Dòng thời gian đầy đủ | Bảy Vương Miện",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Nhân vật Game of Thrones và House of the Dragon | Bảy Vương Miện",
-      "description": "31 nhân vật của Game of Thrones và House of the Dragon: gia tộc, diễn viên và chân dung, có thể lọc theo gia tộc."
+      "description": "61 nhân vật của Game of Thrones và House of the Dragon: gia tộc, diễn viên và chân dung, có thể lọc theo gia tộc."
     },
     "series": {
-      "title": "Phim — Game of Thrones | Bảy Vương Miện",
-      "description": "Ngày phát sóng, các mùa và dàn diễn viên của loạt phim HBO trong vũ trụ Game of Thrones, kèm các phần sắp ra mắt."
+      "title": "Phim: Game of Thrones, House of the Dragon | Bảy Vương Miện",
+      "description": "Game of Thrones, House of the Dragon và A Knight of the Seven Kingdoms: ngày phát sóng, dàn diễn viên và hướng dẫn từng mùa."
     },
     "books": {
       "title": "Các cuốn sách — Game of Thrones | Bảy Vương Miện",
       "description": "Các tiểu thuyết và truyện ngắn của George R. R. Martin làm nên Game of Thrones, cùng tình trạng hai tập chưa ra mắt."
+    },
+    "places": {
+      "title": "Địa danh và lâu đài ở Westeros và Essos | Bảy Vương Miện",
+      "description": "21 địa danh nổi bật của Game of Thrones: Winterfell, King's Landing, Casterly Rock, Bức Tường, Braavos, Meereen… cùng vùng đất và lịch sử."
+    },
+    "battles": {
+      "title": "Những trận chiến lớn của Game of Thrones | Bảy Vương Miện",
+      "description": "Trident, Blackwater, trận chiến của Những Đứa Con Hoang, Winterfell… 14 trận chiến đã thay đổi vận mệnh Westeros."
+    },
+    "beliefs": {
+      "title": "Tôn giáo và truyền thống của Game of Thrones | Bảy Vương Miện",
+      "description": "Thất Thần, các vị thần cổ, Chúa Ánh Sáng, Thần Chết Đuối: giải thích tín ngưỡng của Westeros và Essos."
+    },
+    "creatures": {
+      "title": "Sinh vật Game of Thrones: rồng, sói, Bóng Trắng | Bảy Vương Miện",
+      "description": "Rồng, sói khổng lồ, Bóng Trắng, người khổng lồ, Con của Rừng: các sinh vật trong vũ trụ Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "Phương Bắc",
+      "desc": "Thủ phủ của nhà Stark từ hàng thiên niên kỷ, pháo đài được xây trên những suối nước nóng. Đây cũng là chiến trường của cuộc chiến chống lại người chết."
+    },
+    {
+      "name": "Bức Tường",
+      "region": "Phương Bắc",
+      "desc": "Bức tường băng cao khoảng 210 mét ngăn cách Bảy Vương Quốc với vùng đất hoang ở Cực Bắc. Đội Tuần Đêm đã canh giữ nó qua nhiều thế kỷ."
+    },
+    {
+      "name": "Castle Black",
+      "region": "Bức Tường",
+      "desc": "Pháo đài chính của Đội Tuần Đêm, dưới chân Bức Tường. Tại đây Jon Snow tuyên thệ, rồi trở thành Lord Commander."
+    },
+    {
+      "name": "Dreadfort",
+      "region": "Phương Bắc",
+      "desc": "Thành trì của nhà Bolton, nổi tiếng vì sự tàn ác của các lãnh chúa và những tù nhân bị lột da. Theon Greyjoy bị giam giữ ở đây."
+    },
+    {
+      "name": "King's Landing",
+      "region": "Vùng Vương Miện",
+      "desc": "Kinh đô của Bảy Vương Quốc, nơi có Red Keep và Ngai Sắt. Đây là trung tâm của mọi âm mưu chốn cung đình."
+    },
+    {
+      "name": "Dragonstone",
+      "region": "Vùng Vương Miện",
+      "desc": "Hòn đảo núi lửa nơi nhà Targaryen định cư trước Cuộc Chinh Phục. Daenerys trở về đây cùng những con rồng để giành lại vương quốc."
+    },
+    {
+      "name": "Casterly Rock",
+      "region": "Tây Địa",
+      "desc": "Pháo đài đục vào vách đá, thủ phủ của nhà Lannister, nổi tiếng với các mỏ vàng."
+    },
+    {
+      "name": "Riverrun",
+      "region": "Vùng Sông Nước",
+      "desc": "Lâu đài của nhà Tully, nằm ở nơi hai dòng sông giao nhau, với phòng thủ tự nhiên khiến việc bao vây rất khó khăn."
+    },
+    {
+      "name": "The Twins",
+      "region": "Vùng Sông Nước",
+      "desc": "Hai tòa tháp nối với nhau bằng một cây cầu kiểm soát lối qua sông Trident. Nơi này thuộc về Walder Frey và là hiện trường của Đám cưới Đỏ."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "Vùng Sông Nước",
+      "desc": "Pháo đài đổ nát khổng lồ, từng là lớn nhất Westeros, với những ngọn tháp bị rồng thiêu cháy được cho là bị nguyền rủa."
+    },
+    {
+      "name": "Eyrie",
+      "region": "The Vale",
+      "desc": "Pháo đài của nhà Arryn nằm trên sườn núi, được coi là bất khả xâm phạm. Tù nhân bị ném xuống qua Cánh Cửa Mặt Trăng."
+    },
+    {
+      "name": "Highgarden",
+      "region": "The Reach",
+      "desc": "Lâu đài của nhà Tyrell, bao quanh bởi những khu vườn và đất đai màu mỡ nuôi sống phần lớn vương quốc."
+    },
+    {
+      "name": "Oldtown",
+      "region": "The Reach",
+      "desc": "Thành phố cổ nhất Westeros, nơi đặt Citadel đào tạo các maester, và là thủ phủ của nhà Hightower."
+    },
+    {
+      "name": "Storm's End",
+      "region": "Vùng Bão Tố",
+      "desc": "Lâu đài của nhà Baratheon, được cho là xây để chống chọi với bão biển. Stannis bị vây hãm tại đây trong cuộc nổi loạn."
+    },
+    {
+      "name": "Sunspear",
+      "region": "Dorne",
+      "desc": "Thủ phủ của Dorne và là nơi ở của nhà Martell, nơi có những tục lệ kế vị khác với phần còn lại của vương quốc."
+    },
+    {
+      "name": "Pyke",
+      "region": "Quần đảo Sắt",
+      "desc": "Hòn đảo bị sóng biển vỗ ghềnh, do nhà Greyjoy cai trị. Cư dân là những thủy thủ lão luyện sống bằng cướp bóc và đột kích."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "Thành quốc của các Chúa Rồng, bị Đại Họa hủy diệt. Tàn tích và thép Valyria của nó nuôi dưỡng mọi truyền thuyết."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Thành phố tự do xây trên các hòn đảo, với Titan khổng lồ và Ngân hàng Sắt. Arya gia nhập Ngôi Nhà Đen và Trắng tại đây."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Thành phố bên Vịnh Nô Lệ, nơi Daenerys xóa bỏ chế độ nô lệ và những bước đầu tiên làm nữ hoàng."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Thành phố thương mại với những bức tường huyền thoại, nơi Daenerys tìm đồng minh và gặp Ngôi Nhà của Những Kẻ Bất Tử."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "Biển Dothraki",
+      "desc": "Thành phố thiêng của người Dothraki, không có tường thành, nơi mọi góa phụ của các khal đến sống giữa các dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "Cánh Đồng Lửa",
+      "year": "Năm 1 AC",
+      "sides": "Targaryen đối đầu Lannister và nhà Gardener",
+      "desc": "Aegon và các chị em tấn công quân đội của the Reach và Tây Địa trên lưng rồng. Hàng nghìn người chết trong biển lửa, và các vị vua phải cúi đầu."
+    },
+    {
+      "name": "Redgrass Field",
+      "year": "Khoảng 196 AC",
+      "sides": "Daeron II đối đầu Daemon Blackfyre",
+      "desc": "Trận chiến quyết định của cuộc nổi loạn Blackfyre đầu tiên, nơi gã con hoang nổi loạn bị đánh bại. Nó để lại dấu ấn lâu dài lên triều đại Targaryen."
+    },
+    {
+      "name": "Trident",
+      "year": "283 AC",
+      "sides": "Phe nổi dậy đối đầu Rhaegar Targaryen",
+      "desc": "Robert Baratheon giết hoàng tử Rhaegar trong trận đấu tay đôi, mở cho phe nổi dậy con đường tiến vào King's Landing."
+    },
+    {
+      "name": "Cuộc cướp phá King's Landing",
+      "year": "283 AC",
+      "sides": "Lannister đối đầu Targaryen",
+      "desc": "Quân của Tywin tiến vào kinh thành và cướp phá nó. Jaime giết vua Aerys, kẻ được gọi là Vua Điên."
+    },
+    {
+      "name": "Whispering Wood",
+      "year": "298 AC",
+      "sides": "Robb Stark đối đầu Lannister",
+      "desc": "Chiến thắng lớn đầu tiên của Robb, khi anh gài bẫy quân đội của Jaime Lannister dù ít quân hơn."
+    },
+    {
+      "name": "Blackwater",
+      "year": "299 AC",
+      "sides": "Stannis đối đầu Lannister",
+      "desc": "Stannis tấn công King's Landing từ biển, nhưng Tyrion châm lửa hoang lên dòng sông. Quân tiếp viện của Tywin và nhà Tyrell cứu được thành phố."
+    },
+    {
+      "name": "Đám cưới Đỏ",
+      "year": "299 AC",
+      "sides": "Frey và Bolton đối đầu Stark",
+      "desc": "Hơn cả một trận chiến, đó là một cuộc thảm sát: Robb, Catelyn và các chư hầu bị sát hại trong tiệc cưới."
+    },
+    {
+      "name": "Castle Black",
+      "year": "300 AC",
+      "sides": "Đội Tuần Đêm đối đầu người Hoang Dã",
+      "desc": "Jon Snow và Đội Tuần Đêm chống lại đội quân của Mance Rayder đang tìm cách vượt qua Bức Tường."
+    },
+    {
+      "name": "Meereen",
+      "year": "Mùa 6",
+      "sides": "Daenerys đối đầu các chủ nô",
+      "desc": "Daenerys trở về trên lưng con rồng Drogon và hủy diệt hạm đội của các chủ nô đến vây hãm thành phố cùng đồng minh của chúng."
+    },
+    {
+      "name": "Trận chiến của Những Đứa Con Hoang",
+      "year": "Mùa 6",
+      "sides": "Jon và Sansa đối đầu Ramsay Bolton",
+      "desc": "Dưới chân Winterfell, Jon sắp bị nghiền nát thì các hiệp sĩ của the Vale lật ngược thế trận. Nhà Stark giành lại mái nhà của mình."
+    },
+    {
+      "name": "Cuộc cướp phá the Reach",
+      "year": "Mùa 7",
+      "sides": "Daenerys đối đầu Lannister",
+      "desc": "Daenerys và Drogon tấn công đoàn xe tiếp tế của nhà Lannister, lần đầu cho thấy sức mạnh của một con rồng trong chiến tranh."
+    },
+    {
+      "name": "Trận chiến Winterfell",
+      "year": "Mùa 8",
+      "sides": "Người sống đối đầu người chết",
+      "desc": "Các đạo quân của Westeros đối đầu Vua Đêm. Chiến thắng của Arya chấm dứt mối đe dọa từ Bóng Trắng."
+    },
+    {
+      "name": "Sự sụp đổ của King's Landing",
+      "year": "Mùa 8",
+      "sides": "Daenerys đối đầu Cersei",
+      "desc": "Daenerys hủy diệt hạm đội của Cersei, rồi cả thành phố, bất chấp tiếng chuông đầu hàng. Kinh đô bị thiêu thành tro."
+    },
+    {
+      "name": "Vũ điệu của Rồng",
+      "year": "129–131 AC",
+      "sides": "Phe Đen đối đầu phe Xanh",
+      "desc": "Nội chiến giữa những người ủng hộ Rhaenyra và Aegon II, nơi những con rồng cũng giao chiến với nhau. Nó đã tàn phá nhà Targaryen."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "Tín ngưỡng Thất Thần",
+      "desc": "Tôn giáo chính ở miền nam Westeros: một vị thần với bảy gương mặt (Cha, Mẹ, Thiếu Nữ, Chiến Binh, Thợ Rèn, Lão Bà và Kẻ Lạ). Các septon và septa của nó điều tiết nhịp sống chốn cung đình."
+    },
+    {
+      "name": "Các Thần Cổ",
+      "desc": "Tín ngưỡng của Người Đầu Tiên và Con của Rừng, thờ những cây barral có khắc hình mặt người. Nhà Stark và người Hoang Dã vẫn trung thành với nó."
+    },
+    {
+      "name": "Chúa Ánh Sáng",
+      "desc": "Vị thần lửa đến từ Essos, được các tư tế đỏ như Melisandre thờ phụng, những người tin vào cuộc chiến vĩnh cửu giữa ánh sáng và bóng tối."
+    },
+    {
+      "name": "Thần Chết Đuối",
+      "desc": "Vị thần của Quần đảo Sắt, được nhà Greyjoy tôn thờ. Tín đồ của ngài thực hiện lễ rửa tội bằng cách chết đuối, rồi trở về được hiến dâng."
+    },
+    {
+      "name": "Thần Muôn Mặt",
+      "desc": "Thần Chết ở Braavos, được những Người Không Mặt phụng sự. Câu châm ngôn «Valar Morghulis» nhắc rằng mọi người đều phải chết."
+    },
+    {
+      "name": "Đại Chiến Mã",
+      "desc": "Vị thần của người Dothraki, được thể hiện bằng một con ngựa khổng lồ. Các khal gắn liền với ngài và các dân tộc du mục tin vào ngài."
+    },
+    {
+      "name": "Đức Tin Chiến Binh",
+      "desc": "Phong trào vũ trang của Tín ngưỡng Thất Thần, do Cersei Lannister khôi phục. Những Chim Sẻ áp đặt công lý của họ ở King's Landing dưới sự lãnh đạo của Đại Chim Sẻ."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Rồng",
+      "desc": "Những con thú lửa giúp nhà Targaryen chinh phục Westeros. Tuyệt chủng suốt một thế kỷ, chúng hồi sinh nhờ Daenerys, người nuôi Drogon, Rhaegal và Viserion."
+    },
+    {
+      "name": "Sói khổng lồ (direwolf)",
+      "desc": "Những con sói khổng lồ, biểu tượng của nhà Stark. Mỗi đứa trẻ nhà Stark nhận một con ở Winterfell, như Ghost của Jon hay Nymeria của Arya."
+    },
+    {
+      "name": "Bóng Trắng",
+      "desc": "Những sinh vật băng giá đến từ Cực Bắc, có khả năng hồi sinh người chết. Trong phim, thủ lĩnh của chúng là Vua Đêm."
+    },
+    {
+      "name": "Xác sống (wight)",
+      "desc": "Những xác chết được Bóng Trắng hồi sinh, tạo thành đội quân người chết. Chỉ lửa, obsidian và thép Valyria mới tiêu diệt được chúng."
+    },
+    {
+      "name": "Người khổng lồ và voi ma mút",
+      "desc": "Dân tộc có vóc dáng rất cao lớn sống bên kia Bức Tường. Họ là đồng minh của người Hoang Dã và chiến đấu cùng những con ma mút."
+    },
+    {
+      "name": "Con của Rừng",
+      "desc": "Dân tộc cổ xưa và nhỏ bé, cư dân đầu tiên của Westeros, làm chủ thứ phép thuật gắn liền với cây barral."
+    },
+    {
+      "name": "Con Quạ Ba Mắt",
+      "desc": "Sinh vật huyền bí có ký ức bao trùm toàn bộ quá khứ. Bran trở thành người kế vị sau khi du hành qua bên kia Bức Tường."
+    },
+    {
+      "name": "Quạ đưa thư",
+      "desc": "Loài chim được các maester huấn luyện để mang thư giữa các lâu đài, thường báo hiệu những tin nghiêm trọng."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Mùa 1",
+        "m": "2011 · 10 tập",
+        "d": "Ned Stark trở thành Cánh Tay Phải của Nhà Vua và khám phá một bí mật đe dọa ngai vàng. Ở bên kia thế giới, Daenerys kết hôn với một lãnh chúa Dothraki."
+      },
+      {
+        "t": "Mùa 2",
+        "m": "2012 · 10 tập",
+        "d": "Cuộc chiến Năm Vua bùng nổ: Robb Stark, Stannis, Renly và Balon Greyjoy chống lại Joffrey. Trận Blackwater khép lại mùa phim."
+      },
+      {
+        "t": "Mùa 3",
+        "m": "2013 · 10 tập",
+        "d": "Nhà Lannister chiếm thế thượng phong trong khi Daenerys giải phóng Unsullied. Đám cưới Đỏ đảo lộn cuộc chiến."
+      },
+      {
+        "t": "Mùa 4",
+        "m": "2014 · 10 tập",
+        "d": "Đám cưới của Joffrey hóa thành bi kịch, Tyrion bị xét xử. Ở phương Bắc, Đội Tuần Đêm chuẩn bị đón đợt tấn công của người Hoang Dã."
+      },
+      {
+        "t": "Mùa 5",
+        "m": "2015 · 10 tập",
+        "d": "Cersei dựa vào Đức Tin Chiến Binh rồi trở thành nạn nhân của nó, Jon được bầu làm Lord Commander. Daenerys chật vật cai trị Meereen."
+      },
+      {
+        "t": "Mùa 6",
+        "m": "2016 · 10 tập",
+        "d": "Jon sống lại và nhà Stark chiếm lại Winterfell. Cersei cho nổ tung Đại Thánh Đường."
+      },
+      {
+        "t": "Mùa 7",
+        "m": "2017 · 7 tập",
+        "d": "Daenerys đổ bộ lên Westeros và liên minh với Jon. Các đạo quân của người sống chuẩn bị đối đầu người chết."
+      },
+      {
+        "t": "Mùa 8",
+        "m": "2019 · 6 tập",
+        "d": "Trận chiến Winterfell chấm dứt Đêm Dài, rồi cuộc tranh giành Ngai Sắt khép lại ở King's Landing."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Mùa 1",
+        "m": "2022 · 10 tập",
+        "d": "Vua Viserys chỉ định Rhaenyra làm người thừa kế, nhưng triều đình chia rẽ về việc kế vị. Căng thẳng giữa con gái ông và hoàng hậu Alicent tăng dần theo năm tháng."
+      },
+      {
+        "t": "Mùa 2",
+        "m": "2024 · 8 tập",
+        "d": "Nội chiến bùng nổ giữa phe Đen và phe Xanh. Những con rồng trở thành vũ khí quyết định của cuộc xung đột."
+      },
+      {
+        "t": "Mùa 3",
+        "m": "2026 · 8 tập",
+        "d": "Vũ điệu của Rồng tiếp diễn, với những liên minh hình thành rồi tan vỡ. Mùa thứ tư và cũng là mùa cuối cùng được công bố cho năm 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Mùa 1",
+        "m": "2026 · 6 tập",
+        "d": "Ser Duncan the Tall, hiệp sĩ lang thang, nhận cậu bé Egg làm người hầu và rong ruổi khắp Westeros, xa những âm mưu lớn. Mùa 2 được mong đợi vào năm 2027."
+      }
+    ]
   }
 }

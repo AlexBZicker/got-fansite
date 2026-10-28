@@ -12,7 +12,11 @@
       "maisons": "Casas",
       "personnages": "Personagens",
       "series": "Séries",
-      "livres": "Livros"
+      "livres": "Livros",
+      "lieux": "Lugares",
+      "batailles": "Batalhas",
+      "croyances": "Crenças",
+      "creatures": "Criaturas"
     },
     "titles": {
       "histoire": "A história de Westeros",
@@ -20,7 +24,12 @@
       "personnages": "Personagens",
       "series": "Séries",
       "livres": "Os livros",
-      "sources": "Fontes"
+      "sources": "Fontes",
+      "lieux": "Lugares e castelos",
+      "batailles": "As grandes batalhas",
+      "croyances": "Religiões e tradições",
+      "creatures": "Criaturas",
+      "saisons": "Guia das temporadas"
     },
     "all": "Todos",
     "nightWatch": "Patrulha da Noite",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Página não encontrada",
     "notFoundText": "Esta página não existe ou foi movida.",
     "backHome": "Voltar ao início",
-    "ogAlt": "As Sete Coroas — site de fãs de Game of Thrones"
+    "ogAlt": "As Sete Coroas — site de fãs de Game of Thrones",
+    "noHouse": "Sem casa"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Rainha habilidosa que sabe conquistar o povo.",
     "oberyn-martell": "A Víbora Vermelha de Dorne.",
     "viserys-targaryen": "Rei pacífico, dividido entre sua família e o reino.",
-    "corlys-velaryon": "A Serpente do Mar, o navegador mais rico de Westeros."
+    "corlys-velaryon": "A Serpente do Mar, o navegador mais rico de Westeros.",
+    "bronn": "Mercenário sem escrúpulos, mas divertido, que serve a quem pagar melhor. Acaba enriquecendo a serviço dos Lannister.",
+    "varys": "A Aranha, mestre dos rumores e dos espiões do reino. Afirma servir ao reino antes de servir a seus senhores.",
+    "jaqen-h-ghar": "Homem sem Rosto de Braavos, capaz de mudar de face. Inicia Arya na arte de matar.",
+    "hodor": "Cavalariço de Winterfell de grande coração, que diz uma única palavra. Seu destino revela um segredo comovente.",
+    "ygritte": "Selvagem ruiva de gênio forte, que ensina a Jon Snow que, segundo ela, \"ele não sabe de nada\".",
+    "tormund-fleau-des-geants": "Chefe selvagem tão imponente quanto tagarela, cuja coragem lhe rende a estima de Jon Snow.",
+    "khal-drogo": "Poderoso khal dothraki, marido de Daenerys, cuja morte a obriga a forjar sua própria lenda.",
+    "missandei": "Ex-escrava, intérprete e conselheira de Daenerys, cuja sabedoria a torna preciosa.",
+    "ver-gris": "Comandante dos Imaculados, leal a Daenerys, que encontra ao lado dela a liberdade e o amor.",
+    "podrick-payne": "Escudeiro discreto e dedicado de Tyrion e depois de Brienne, cuja lealdade se transforma em verdadeira coragem.",
+    "gilly": "Selvagem refugiada em Castelo Negro com seu filho, que se aproxima de Samwell.",
+    "ramsay-bolton": "Bastardo cruel da casa Bolton, conhecido por sua brutalidade com os prisioneiros.",
+    "roose-bolton": "Senhor do Forte do Pavor de calma glacial, que trai Robb Stark no Casamento Vermelho.",
+    "walder-frey": "Velho senhor dos Gêmeos, rancoroso e prolífico, responsável pelo massacre do Casamento Vermelho.",
+    "lysa-arryn": "Viúva de Jon Arryn e irmã de Catelyn, cuja paranoia a prende no Ninho da Águia com o filho.",
+    "olenna-tyrell": "A Rainha dos Espinhos, avó de Margaery, de língua afiada e inteligência temível.",
+    "tommen-baratheon": "Irmão caçula de Joffrey, rei gentil e influenciável, preso entre a mãe e a Fé Militante.",
+    "euron-greyjoy": "Tio de Theon, pirata exuberante das Ilhas de Ferro que afirma possuir a maior frota do mundo.",
+    "yara-greyjoy": "Filha de Balon e intrépida capitã das Ilhas de Ferro, que se alia a Daenerys.",
+    "roi-de-la-nuit": "Líder dos Caminhantes Brancos e dos mortos, conduz o exército de gelo rumo ao sul.",
+    "lyanna-mormont": "Jovem senhora da Ilha dos Ursos, que se impõe por sua franqueza e determinação.",
+    "barristan-selmy": "Ex-lorde comandante da Guarda Real, cavaleiro de honra que serve Daenerys em Meereen.",
+    "brynden-tully": "O Peixe Negro, tio de Catelyn e defensor obstinado de Correrrio.",
+    "rhaenys-targaryen": "A Rainha que Nunca Foi, cavaleira do dragão Meleys, afastada do trono pelo Grande Conselho.",
+    "otto-hightower": "Mão do Rei ambiciosa, pai de Alicent, que empurra a filha em direção ao trono.",
+    "criston-cole": "Cavaleiro da Guarda Real, leal a Alicent e aos Verdes, cujo orgulho ferido precipita a guerra.",
+    "aegon-ii-targaryen": "Filho mais velho de Alicent e Viserys, coroado pelos Verdes, a quem Rhaenyra contesta.",
+    "aemond-targaryen": "Príncipe de um olho só, cavaleiro do dragão Vhagar, guerreiro temível do lado dos Verdes.",
+    "helaena-targaryen": "Irmã e esposa de Aegon II, de sensibilidade inquieta, cujas visões parecem anunciar o futuro.",
+    "mysaria": "Dançarina que virou espiã nos submundos de Porto Real, conhecida como Verme Branco."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "As Sete Coroas — Site de fãs de Game of Thrones: história e casas",
-      "description": "Site de fãs não oficial de Game of Thrones: história de Westeros, grandes casas, 31 personagens, séries da HBO e livros. Disponível em 20 idiomas."
+      "description": "Site de fãs não oficial de Game of Thrones: história de Westeros, casas, 61 personagens, lugares, batalhas, religiões, criaturas, séries e livros."
     },
     "history": {
       "title": "História de Westeros — Cronologia completa | As Sete Coroas",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Personagens de Game of Thrones e House of the Dragon",
-      "description": "31 personagens de Game of Thrones e House of the Dragon: casa, ator ou atriz e retrato, com filtro por casa."
+      "description": "61 personagens de Game of Thrones e House of the Dragon: casa, ator ou atriz e retrato, com filtro por casa."
     },
     "series": {
-      "title": "Séries: Game of Thrones, House of the Dragon, A Knight…",
-      "description": "Datas de exibição, temporadas e elenco das séries da HBO do universo de Game of Thrones, com os próximos lançamentos."
+      "title": "Séries e temporadas de Game of Thrones | As Sete Coroas",
+      "description": "Game of Thrones, House of the Dragon e A Knight of the Seven Kingdoms: datas, elenco e guia de cada temporada."
     },
     "books": {
       "title": "Os livros: As Crônicas de Gelo e Fogo, Fogo & Sangue, Dunk & Egg",
       "description": "Os romances e novelas de George R. R. Martin que deram origem a Game of Thrones, com a situação dos dois volumes ainda por publicar."
+    },
+    "places": {
+      "title": "Lugares e castelos de Westeros e Essos | As Sete Coroas",
+      "description": "21 lugares marcantes de Game of Thrones: Winterfell, Porto Real, Rochedo Casterly, a Muralha, Braavos, Meereen… com região e história."
+    },
+    "battles": {
+      "title": "As grandes batalhas de Game of Thrones | As Sete Coroas",
+      "description": "O Tridente, a Água Negra, a batalha dos Bastardos, Winterfell… as 14 batalhas que mudaram o destino de Westeros."
+    },
+    "beliefs": {
+      "title": "Religiões e tradições de Game of Thrones | As Sete Coroas",
+      "description": "Os Sete, os Deuses Antigos, o Senhor da Luz, o Deus Afogado: as crenças de Westeros e Essos explicadas."
+    },
+    "creatures": {
+      "title": "Criaturas de Game of Thrones: dragões, metalobos | As Sete Coroas",
+      "description": "Dragões, metalobos, Caminhantes Brancos, gigantes, Filhos da Floresta: as criaturas do universo de Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "O Norte",
+      "desc": "Sede da casa Stark há milênios, a fortaleza foi construída sobre fontes termais. É também o cenário da batalha contra os mortos."
+    },
+    {
+      "name": "A Muralha",
+      "region": "O Norte",
+      "desc": "Uma muralha de gelo com cerca de 210 metros de altura que separa os Sete Reinos das terras selvagens do Extremo Norte. A Patrulha da Noite a defende há séculos."
+    },
+    {
+      "name": "Castelo Negro",
+      "region": "A Muralha",
+      "desc": "Fortaleza central da Patrulha da Noite, ao pé da Muralha. Foi ali que Jon Snow fez seus votos e depois se tornou Lorde Comandante."
+    },
+    {
+      "name": "Forte do Pavor",
+      "region": "O Norte",
+      "desc": "Bastião da casa Bolton, conhecido pela crueldade de seus senhores e de seus esfolados. Theon Greyjoy é mantido prisioneiro ali."
+    },
+    {
+      "name": "Porto Real",
+      "region": "As Terras da Coroa",
+      "desc": "Capital dos Sete Reinos, onde se erguem a Fortaleza Vermelha e o Trono de Ferro. É o centro de todas as intrigas da corte."
+    },
+    {
+      "name": "Pedra do Dragão",
+      "region": "As Terras da Coroa",
+      "desc": "Ilha vulcânica onde os Targaryen se instalaram antes da Conquista. Daenerys volta para lá com seus dragões para reconquistar seu reino."
+    },
+    {
+      "name": "Rochedo Casterly",
+      "region": "As Terras do Oeste",
+      "desc": "Fortaleza talhada na falésia, sede da casa Lannister, famosa por suas minas de ouro."
+    },
+    {
+      "name": "Correrrio",
+      "region": "As Terras Fluviais",
+      "desc": "Castelo dos Tully, na confluência de dois rios, cujas defesas naturais o tornam difícil de sitiar."
+    },
+    {
+      "name": "Os Gêmeos",
+      "region": "As Terras Fluviais",
+      "desc": "Duas torres ligadas por uma ponte que controla a travessia do Tridente. Pertence a Walder Frey e é o cenário do Casamento Vermelho."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "As Terras Fluviais",
+      "desc": "Gigantesca fortaleza em ruínas, outrora a maior de Westeros, cujas torres calcinadas pelos dragões são tidas como amaldiçoadas."
+    },
+    {
+      "name": "Ninho da Águia",
+      "region": "O Vale de Arryn",
+      "desc": "Fortaleza dos Arryn empoleirada na encosta de uma montanha, considerada inexpugnável. Os prisioneiros são lançados pela Porta da Lua."
+    },
+    {
+      "name": "Jardim de Cima",
+      "region": "A Campina",
+      "desc": "Castelo da casa Tyrell, cercado de jardins e terras férteis que alimentam boa parte do reino."
+    },
+    {
+      "name": "Vilavelha",
+      "region": "A Campina",
+      "desc": "A cidade mais antiga de Westeros, sede da Cidadela, onde se formam os meistres, e da casa Hightower."
+    },
+    {
+      "name": "Ponta Tempestade",
+      "region": "As Terras da Tempestade",
+      "desc": "Castelo dos Baratheon, construído, segundo dizem, para resistir às tempestades do mar. Stannis é sitiado ali durante a rebelião."
+    },
+    {
+      "name": "Lança do Sol",
+      "region": "Dorne",
+      "desc": "Capital de Dorne e sede da casa Martell, onde vigoram costumes de sucessão diferentes dos do resto do reino."
+    },
+    {
+      "name": "Pyke",
+      "region": "As Ilhas de Ferro",
+      "desc": "Ilha açoitada pelo mar onde reina a casa Greyjoy. Seus habitantes, mestres da navegação, vivem de pilhagens e ataques."
+    },
+    {
+      "name": "Valíria",
+      "region": "Essos",
+      "desc": "Cidade-estado dos senhores dos dragões, destruída pela Destruição. Suas ruínas e seu aço valiriano alimentam todas as lendas."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Cidade livre construída sobre ilhas, com seu colossal Titã e seu Banco de Ferro. Arya se une ali à Casa do Preto e Branco."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Cidade da Baía dos Escravos onde Daenerys abole a escravidão e dá seus primeiros passos como rainha."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Cidade mercante de muralhas lendárias, onde Daenerys procura aliados e encontra a Casa dos Imortais."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "O Mar Dothraki",
+      "desc": "Cidade sagrada dos dothraki, sem muralhas, onde todas as viúvas dos khals vão viver entre as dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "O Campo de Fogo",
+      "year": "Ano 1 DC",
+      "sides": "Targaryen contra Lannister e Jardineiro",
+      "desc": "Aegon e suas irmãs atacam, montados em dragões, o exército da Campina e do Oeste. Milhares de homens morrem nas chamas, e os reis se curvam."
+    },
+    {
+      "name": "O Campo de Grama Vermelha",
+      "year": "Por volta de 196 DC",
+      "sides": "Daeron II contra Daemon Blackfyre",
+      "desc": "Batalha decisiva da primeira rebelião Blackfyre, na qual o bastardo rebelde é derrotado. Marca duradouramente a dinastia Targaryen."
+    },
+    {
+      "name": "O Tridente",
+      "year": "283 DC",
+      "sides": "Rebeldes contra Rhaegar Targaryen",
+      "desc": "Robert Baratheon mata o príncipe Rhaegar em combate singular, abrindo aos rebeldes o caminho para Porto Real."
+    },
+    {
+      "name": "O saque de Porto Real",
+      "year": "283 DC",
+      "sides": "Lannister contra Targaryen",
+      "desc": "As tropas de Tywin entram na capital e a saqueiam. Jaime mata o rei Aerys, conhecido como o Rei Louco."
+    },
+    {
+      "name": "O Bosque dos Sussurros",
+      "year": "298 DC",
+      "sides": "Robb Stark contra Lannister",
+      "desc": "Primeira grande vitória de Robb, que encurrala o exército de Jaime Lannister com forças inferiores em número."
+    },
+    {
+      "name": "A Água Negra",
+      "year": "299 DC",
+      "sides": "Stannis contra Lannister",
+      "desc": "Stannis ataca Porto Real pelo mar, mas Tyrion incendeia o rio com fogovivo. A chegada de Tywin e dos Tyrell salva a cidade."
+    },
+    {
+      "name": "O Casamento Vermelho",
+      "year": "299 DC",
+      "sides": "Frey e Bolton contra Stark",
+      "desc": "Mais que uma batalha, um massacre: Robb, Catelyn e seus vassalos são assassinados durante um banquete de casamento."
+    },
+    {
+      "name": "Castelo Negro",
+      "year": "300 DC",
+      "sides": "Patrulha da Noite contra selvagens",
+      "desc": "Jon Snow e a Patrulha da Noite resistem ao exército de Mance Rayder, que tenta atravessar a Muralha."
+    },
+    {
+      "name": "Meereen",
+      "year": "Temporada 6",
+      "sides": "Daenerys contra os mestres",
+      "desc": "Daenerys volta em seu dragão Drogon e destrói a frota dos mestres, que haviam chegado com seus aliados para sitiar a cidade."
+    },
+    {
+      "name": "A batalha dos Bastardos",
+      "year": "Temporada 6",
+      "sides": "Jon e Sansa contra Ramsay Bolton",
+      "desc": "Aos pés de Winterfell, Jon está prestes a ser esmagado até que os cavaleiros do Vale viram a batalha. A casa Stark retoma seu lar."
+    },
+    {
+      "name": "O saque da Campina",
+      "year": "Temporada 7",
+      "sides": "Daenerys contra Lannister",
+      "desc": "Daenerys e Drogon atacam o comboio de suprimentos dos Lannister, mostrando pela primeira vez o poder de um dragão em guerra."
+    },
+    {
+      "name": "A batalha de Winterfell",
+      "year": "Temporada 8",
+      "sides": "Os vivos contra os mortos",
+      "desc": "Os exércitos de Westeros enfrentam o Rei da Noite. A vitória de Arya põe fim à ameaça dos Caminhantes Brancos."
+    },
+    {
+      "name": "A queda de Porto Real",
+      "year": "Temporada 8",
+      "sides": "Daenerys contra Cersei",
+      "desc": "Daenerys destrói a frota de Cersei e depois a cidade, apesar do toque do sino da rendição. A capital é reduzida a cinzas."
+    },
+    {
+      "name": "A Dança dos Dragões",
+      "year": "129–131 DC",
+      "sides": "Pretos contra Verdes",
+      "desc": "Guerra civil entre os partidários de Rhaenyra e os de Aegon II, na qual dragões também se enfrentam. Ela dizima os Targaryen."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "A Fé dos Sete",
+      "desc": "Religião principal do sul de Westeros: uma divindade de sete faces (o Pai, a Mãe, a Donzela, o Guerreiro, o Ferreiro, a Velha e o Estranho). Seus septões e seus septos ditam o ritmo da vida na corte."
+    },
+    {
+      "name": "Os Deuses Antigos",
+      "desc": "Culto dos Primeiros Homens e dos Filhos da Floresta, prestado às árvores-represeiro de rosto esculpido. Os Stark e os selvagens continuam fiéis a ele."
+    },
+    {
+      "name": "O Senhor da Luz",
+      "desc": "Deus do fogo vindo de Essos, adorado por sacerdotes vermelhos como Melisandre, que acreditam em uma guerra eterna entre a luz e as trevas."
+    },
+    {
+      "name": "O Deus Afogado",
+      "desc": "Divindade das Ilhas de Ferro, venerada pelos Greyjoy. Seus fiéis praticam o batismo por afogamento, do qual retornam consagrados."
+    },
+    {
+      "name": "O Deus de Muitas Faces",
+      "desc": "Deus da morte em Braavos, servido pelos Homens sem Rosto. Seu lema, \"Valar Morghulis\", lembra que todos os homens devem morrer."
+    },
+    {
+      "name": "O Grande Garanhão",
+      "desc": "Deus dos dothraki, representado por um cavalo gigantesco. Os khals estão ligados a ele e os povos nômades acreditam nele."
+    },
+    {
+      "name": "A Fé Militante",
+      "desc": "Movimento armado da Fé dos Sete, restabelecido por Cersei Lannister. Os Pardais impõem sua justiça em Porto Real sob a liderança do Alto Pardal."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Os dragões",
+      "desc": "Feras de fogo que permitiram aos Targaryen conquistar Westeros. Extintos havia um século, renascem graças a Daenerys, que cria Drogon, Rhaegal e Viserion."
+    },
+    {
+      "name": "Os metalobos",
+      "desc": "Lobos gigantes, emblema dos Stark. Cada criança Stark recebe um em Winterfell, como Fantasma para Jon ou Nymeria para Arya."
+    },
+    {
+      "name": "Os Caminhantes Brancos",
+      "desc": "Criaturas de gelo vindas do Extremo Norte, capazes de reerguer os mortos. Na série, seu líder é o Rei da Noite."
+    },
+    {
+      "name": "Os mortos-vivos",
+      "desc": "Cadáveres reerguidos pelos Caminhantes Brancos que formam o exército dos mortos. Só o fogo, a obsidiana e o aço valiriano dão conta deles."
+    },
+    {
+      "name": "Os gigantes e os mamutes",
+      "desc": "Povo de tamanho enorme que vive além da Muralha. São aliados dos selvagens e lutam com seus mamutes."
+    },
+    {
+      "name": "Os Filhos da Floresta",
+      "desc": "Povo antigo e pequeno, primeiro ocupante de Westeros, mestre de uma magia ligada às árvores-represeiro."
+    },
+    {
+      "name": "O Corvo de Três Olhos",
+      "desc": "Ser místico cuja memória abrange todo o passado. Bran se torna seu sucessor depois de viajar para além da Muralha."
+    },
+    {
+      "name": "Os corvos mensageiros",
+      "desc": "Aves adestradas pelos meistres para levar cartas entre os castelos, muitas vezes anunciando notícias graves."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Temporada 1",
+        "m": "2011 · 10 episódios",
+        "d": "Ned Stark se torna Mão do Rei e descobre um segredo que ameaça o trono. Do outro lado do mundo, Daenerys se casa com um senhor dothraki."
+      },
+      {
+        "t": "Temporada 2",
+        "m": "2012 · 10 episódios",
+        "d": "Eclode a Guerra dos Cinco Reis: Robb Stark, Stannis, Renly e Balon Greyjoy se opõem a Joffrey. A Água Negra encerra a temporada."
+      },
+      {
+        "t": "Temporada 3",
+        "m": "2013 · 10 episódios",
+        "d": "Os Lannister levam vantagem enquanto Daenerys liberta os Imaculados. O Casamento Vermelho transforma a guerra."
+      },
+      {
+        "t": "Temporada 4",
+        "m": "2014 · 10 episódios",
+        "d": "O casamento de Joffrey termina em tragédia e Tyrion é julgado. No Norte, a Patrulha da Noite se prepara para o ataque dos selvagens."
+      },
+      {
+        "t": "Temporada 5",
+        "m": "2015 · 10 episódios",
+        "d": "Cersei se apoia na Fé Militante antes de se tornar sua vítima, e Jon é eleito Lorde Comandante. Daenerys tem dificuldade para governar Meereen."
+      },
+      {
+        "t": "Temporada 6",
+        "m": "2016 · 10 episódios",
+        "d": "Jon volta à vida e a casa Stark retoma Winterfell. Cersei faz explodir o Grande Septo."
+      },
+      {
+        "t": "Temporada 7",
+        "m": "2017 · 7 episódios",
+        "d": "Daenerys desembarca em Westeros e se alia a Jon. Os exércitos dos vivos se preparam para enfrentar os mortos."
+      },
+      {
+        "t": "Temporada 8",
+        "m": "2019 · 6 episódios",
+        "d": "A batalha de Winterfell põe fim à Longa Noite, e depois a luta pelo Trono de Ferro termina em Porto Real."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Temporada 1",
+        "m": "2022 · 10 episódios",
+        "d": "O rei Viserys designa Rhaenyra como herdeira, mas a corte se divide sobre sua sucessão. As tensões entre sua filha e a rainha Alicent crescem ao longo dos anos."
+      },
+      {
+        "t": "Temporada 2",
+        "m": "2024 · 8 episódios",
+        "d": "Eclode a guerra civil entre Pretos e Verdes. Os dragões se tornam a arma decisiva do conflito."
+      },
+      {
+        "t": "Temporada 3",
+        "m": "2026 · 8 episódios",
+        "d": "A Dança dos Dragões continua, com alianças que se formam e se desfazem. Uma quarta e última temporada está prevista para 2028."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Temporada 1",
+        "m": "2026 · 6 episódios",
+        "d": "Ser Duncan, o Alto, cavaleiro errante, toma o jovem Egg como escudeiro e atravessa Westeros, longe das grandes intrigas. Uma temporada 2 é esperada para 2027."
+      }
+    ]
   }
 }

@@ -54,7 +54,7 @@ const bg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
   <rect width="1200" height="630" fill="url(#g)"/>
   <rect x="24" y="24" width="1152" height="582" fill="none" stroke="${GOLD}" stroke-opacity=".45" stroke-width="2"/>
   <text x="600" y="400" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" letter-spacing="8" fill="${GOLD}">LES SEPT COURONNES</text>
-  <text x="600" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#cfc9bb">Fan site Game of Thrones · 20 langues</text>
+  <text x="600" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#cfc9bb">Fan site · Histoire, maisons, personnages et séries</text>
   <text x="600" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" letter-spacing="4" fill="${GOLD}" fill-opacity=".8">got.alexbzicker.fr</text>
 </svg>`
 await sharp(Buffer.from(bg)).composite([{ input: logoPng, top: 130, left: 220 }]).png().toFile(`${pub}og-image.png`)

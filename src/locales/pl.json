@@ -12,7 +12,11 @@
       "maisons": "Rody",
       "personnages": "Postaci",
       "series": "Seriale",
-      "livres": "Książki"
+      "livres": "Książki",
+      "lieux": "Miejsca",
+      "batailles": "Bitwy",
+      "croyances": "Wierzenia",
+      "creatures": "Stworzenia"
     },
     "titles": {
       "histoire": "Historia Westeros",
@@ -20,7 +24,12 @@
       "personnages": "Postaci",
       "series": "Seriale",
       "livres": "Książki",
-      "sources": "Źródła"
+      "sources": "Źródła",
+      "lieux": "Miejsca i zamki",
+      "batailles": "Wielkie bitwy",
+      "croyances": "Religie i tradycje",
+      "creatures": "Stworzenia",
+      "saisons": "Przewodnik po sezonach"
     },
     "all": "Wszystkie",
     "nightWatch": "Nocna Straż",
@@ -41,7 +50,8 @@
     "notFoundTitle": "Nie znaleziono strony",
     "notFoundText": "Ta strona nie istnieje lub została przeniesiona.",
     "backHome": "Powrót na stronę główną",
-    "ogAlt": "Siedem Koron – fanowska strona o Grze o tron"
+    "ogAlt": "Siedem Koron – fanowska strona o Grze o tron",
+    "noHouse": "Bez rodu"
   },
   "houses": {
     "stark": {
@@ -121,7 +131,37 @@
     "margaery-tyrell": "Zręczna królowa, która potrafi zdobyć lud.",
     "oberyn-martell": "Czerwona Żmija z Dorne.",
     "viserys-targaryen": "Pokojowy król, rozdarty między rodziną a królestwem.",
-    "corlys-velaryon": "Morski Wąż, najbogatszy żeglarz Westeros."
+    "corlys-velaryon": "Morski Wąż, najbogatszy żeglarz Westeros.",
+    "bronn": "Pozbawiony skrupułów, ale zabawny najemnik, który służy temu, kto płaci najlepiej. W służbie Lannisterów w końcu się wzbogaca.",
+    "varys": "Pająk, mistrz plotek i szpiegów królestwa. Twierdzi, że służy królestwu, a nie swoim panom.",
+    "jaqen-h-ghar": "Człowiek Bez Twarzy z Braavos, zdolny zmieniać twarz. Wtajemnicza Aryę w sztukę zabijania.",
+    "hodor": "Poczciwy stajenny z Winterfell, który mówi tylko jedno słowo. Jego los skrywa wzruszającą tajemnicę.",
+    "ygritte": "Rudowłosa dzika o mocnym charakterze, która uczy Jona Snow, że jej zdaniem „nic nie wie”.",
+    "tormund-fleau-des-geants": "Wódz dzikich, równie imponujący, co gadatliwy, którego odwaga zjednuje mu szacunek Jona Snow.",
+    "khal-drogo": "Potężny dothracki khal i mąż Daenerys, którego śmierć zmusza ją do stworzenia własnej legendy.",
+    "missandei": "Była niewolnica, tłumaczka i doradczyni Daenerys, której mądrość czyni ją nieocenioną.",
+    "ver-gris": "Dowódca Nieskalanych, lojalny wobec Daenerys, który znajduje u niej wolność i miłość.",
+    "podrick-payne": "Dyskretny i oddany giermek Tyriona, a potem Brienne, którego lojalność przeradza się w prawdziwą odwagę.",
+    "gilly": "Dzika, która znalazła schronienie w Czarnym Zamku wraz z synem i staje się bliska Samwellowi.",
+    "ramsay-bolton": "Okrutny bękart rodu Boltonów, znany z brutalności wobec więźniów.",
+    "roose-bolton": "Lodowato spokojny pan Dreadfort, który zdradza Robba Starka podczas Czerwonego Wesela.",
+    "walder-frey": "Stary pan Bliźniaków, mściwy i płodny, odpowiedzialny za rzeź podczas Czerwonego Wesela.",
+    "lysa-arryn": "Wdowa po Jonie Arrynie i siostra Catelyn, której paranoja zamyka ją z synem w Orlim Gnieździe.",
+    "olenna-tyrell": "Królowa Cierni, babka Margaery, o ostrym języku i budzącym grozę umyśle.",
+    "tommen-baratheon": "Młodszy brat Joffreya, łagodny i podatny na wpływy król, rozdarty między matką a Wojującą Wiarą.",
+    "euron-greyjoy": "Wuj Theona, wylewny pirat z Żelaznych Wysp, który twierdzi, że posiada największą flotę na świecie.",
+    "yara-greyjoy": "Córka Balona i nieustraszona kapitan z Żelaznych Wysp, która sprzymierza się z Daenerys.",
+    "roi-de-la-nuit": "Przywódca Białych Wędrowców i umarłych, który prowadzi lodową armię na południe.",
+    "lyanna-mormont": "Młoda lady Wyspy Niedźwiedziej, która zyskuje poważanie szczerością i determinacją.",
+    "barristan-selmy": "Były lord dowódca Gwardii Królewskiej, honorowy rycerz, który służy Daenerys w Meereen.",
+    "brynden-tully": "Czarna Ryba, wuj Catelyn i zaciekły obrońca Riverrun.",
+    "rhaenys-targaryen": "Królowa, która nie była, jeźdźczyni smoka Meleys, odsunięta od tronu przez Wielką Radę.",
+    "otto-hightower": "Ambitny Namiestnik Króla i ojciec Alicent, który pcha córkę ku tronowi.",
+    "criston-cole": "Rycerz Gwardii Królewskiej, lojalny wobec Alicent i Zielonych, którego zraniona duma przyspiesza wojnę.",
+    "aegon-ii-targaryen": "Najstarszy syn Alicent i Viserysa, koronowany przez Zielonych, którego prawa kwestionuje Rhaenyra.",
+    "aemond-targaryen": "Jednooki książę, jeździec smoka Vhagara i groźny wojownik obozu Zielonych.",
+    "helaena-targaryen": "Siostra i żona Aegona II, o niespokojnej wrażliwości, której wizje zdają się zapowiadać przyszłość.",
+    "mysaria": "Tancerka, która została szpiegiem w nizinach społecznych Królewskiej Przystani, znana jako Biały Robak."
   },
   "series": {
     "got": {
@@ -162,7 +202,7 @@
   "seo": {
     "home": {
       "title": "Siedem Koron – fanowska strona o Game of Thrones: historia, rody",
-      "description": "Nieoficjalna fanowska strona o Game of Thrones: historia Westeros, wielkie rody, 31 postaci, seriale HBO i książki. Dostępna w 20 językach."
+      "description": "Nieoficjalna strona fanów Game of Thrones: historia Westeros, rody, 61 postaci, miejsca, bitwy, religie, stworzenia, seriale i książki."
     },
     "history": {
       "title": "Historia Westeros – pełna chronologia | Siedem Koron",
@@ -174,15 +214,31 @@
     },
     "characters": {
       "title": "Postacie z Game of Thrones i House of the Dragon | Siedem Koron",
-      "description": "31 postaci z Game of Thrones i House of the Dragon: ród, aktor lub aktorka i portret, z filtrowaniem według rodu."
+      "description": "61 postaci z Game of Thrones i House of the Dragon: ród, aktor lub aktorka i portret, z filtrowaniem według rodów."
     },
     "series": {
-      "title": "Seriale — Game of Thrones | Siedem Koron",
-      "description": "Daty emisji, sezony i obsada seriali HBO ze świata Game of Thrones, wraz z nadchodzącymi premierami."
+      "title": "Seriale i sezony Game of Thrones | Siedem Koron",
+      "description": "Game of Thrones, House of the Dragon i A Knight of the Seven Kingdoms: daty, obsada i przewodnik po każdym sezonie."
     },
     "books": {
       "title": "Książki: Pieśń Lodu i Ognia, Ogień i krew, Dunk & Egg | Siedem Koron",
       "description": "Powieści i opowiadania George'a R. R. Martina, na których opiera się Game of Thrones, wraz ze statusem dwóch tomów, które wciąż się nie ukazały."
+    },
+    "places": {
+      "title": "Miejsca i zamki Westeros i Essos | Siedem Koron",
+      "description": "21 najważniejszych miejsc z Game of Thrones: Winterfell, Królewska Przystań, Casterly Rock, Mur, Braavos, Meereen… z regionem i historią."
+    },
+    "battles": {
+      "title": "Wielkie bitwy w Game of Thrones | Siedem Koron",
+      "description": "Trójząb, Czarna Woda, Bitwa Bękartów, Winterfell… 14 bitew, które zmieniły losy Westeros."
+    },
+    "beliefs": {
+      "title": "Religie i tradycje w Game of Thrones | Siedem Koron",
+      "description": "Siedmiu, Dawni Bogowie, Pan Światła, Utopiony Bóg: wierzenia Westeros i Essos wyjaśnione."
+    },
+    "creatures": {
+      "title": "Stworzenia z Game of Thrones: smoki, wilkory | Siedem Koron",
+      "description": "Smoki, wilkory, Biali Wędrowcy, olbrzymy, Dzieci Lasu: stworzenia ze świata Game of Thrones."
     }
   },
   "history": {
@@ -384,5 +440,330 @@
         ]
       }
     }
+  },
+  "places": [
+    {
+      "name": "Winterfell",
+      "region": "Północ",
+      "desc": "Od tysiącleci siedziba rodu Starków, twierdza zbudowana nad gorącymi źródłami. Jest też areną bitwy z umarłymi."
+    },
+    {
+      "name": "Mur",
+      "region": "Północ",
+      "desc": "Lodowa ściana o wysokości około 210 metrów, oddzielająca Siedem Królestw od dzikich ziem dalekiej Północy. Straż Nocy broni jej od stuleci."
+    },
+    {
+      "name": "Czarny Zamek",
+      "region": "Mur",
+      "desc": "Główna twierdza Straży Nocy u stóp Muru. To tu Jon Snow składa przysięgę, a potem zostaje Lordem Dowódcą."
+    },
+    {
+      "name": "Dreadfort",
+      "region": "Północ",
+      "desc": "Bastion rodu Boltonów, znany z okrucieństwa jego panów i ich obdzieranych ze skóry ofiar. Przetrzymywany jest tam Theon Greyjoy."
+    },
+    {
+      "name": "Królewska Przystań",
+      "region": "Ziemie Korony",
+      "desc": "Stolica Siedmiu Królestw, w której wznoszą się Czerwona Twierdza i Żelazny Tron. Jest ośrodkiem wszystkich dworskich intryg."
+    },
+    {
+      "name": "Smocza Skała",
+      "region": "Ziemie Korony",
+      "desc": "Wulkaniczna wyspa, na której Targaryenowie osiedlają się przed Podbojem. Daenerys wraca tam ze swoimi smokami, by odzyskać królestwo."
+    },
+    {
+      "name": "Casterly Rock",
+      "region": "Zachodnie Ziemie",
+      "desc": "Twierdza wykuta w klifie, siedziba rodu Lannisterów, słynąca ze złotych kopalni."
+    },
+    {
+      "name": "Riverrun",
+      "region": "Ziemie Rzeczne",
+      "desc": "Zamek Tullych u zbiegu dwóch rzek, trudny do oblężenia dzięki naturalnym umocnieniom."
+    },
+    {
+      "name": "Bliźniaki",
+      "region": "Ziemie Rzeczne",
+      "desc": "Dwie wieże połączone mostem, który kontroluje przeprawę przez Trójząb. Miejsce należy do Waldera Freya i jest areną Czerwonego Wesela."
+    },
+    {
+      "name": "Harrenhal",
+      "region": "Ziemie Rzeczne",
+      "desc": "Ogromna zrujnowana twierdza, niegdyś największa w Westeros, której spalone przez smoki wieże uchodzą za przeklęte."
+    },
+    {
+      "name": "Orle Gniazdo",
+      "region": "Dolina",
+      "desc": "Twierdza Arrynów na zboczu góry, uchodząca za nie do zdobycia. Więźniów wyrzuca się stamtąd przez Księżycowe Drzwi."
+    },
+    {
+      "name": "Wysogród",
+      "region": "Reach",
+      "desc": "Zamek rodu Tyrellów, otoczony ogrodami i żyznymi ziemiami, które żywią znaczną część królestwa."
+    },
+    {
+      "name": "Oldtown",
+      "region": "Reach",
+      "desc": "Najstarsze miasto Westeros, siedziba Cytadeli, w której kształci się maesterów, oraz rodu Hightowerów."
+    },
+    {
+      "name": "Koniec Burzy",
+      "region": "Kraina Burzy",
+      "desc": "Zamek Baratheonów, zbudowany podobno tak, by oprzeć się morskim sztormom. Stannis jest tam oblegany podczas buntu."
+    },
+    {
+      "name": "Słoneczna Włócznia",
+      "region": "Dorne",
+      "desc": "Stolica Dorne i siedziba rodu Martellów, gdzie obowiązują zasady dziedziczenia inne niż w reszcie królestwa."
+    },
+    {
+      "name": "Pyke",
+      "region": "Żelazne Wyspy",
+      "desc": "Smagana przez morze wyspa, na której rządzi ród Greyjoyów. Jej mieszkańcy, doświadczeni żeglarze, żyją z grabieży i najazdów."
+    },
+    {
+      "name": "Valyria",
+      "region": "Essos",
+      "desc": "Miasto-państwo władców smoków, zniszczone przez Zagładę. Jego ruiny i valyriańska stal karmią wszystkie legendy."
+    },
+    {
+      "name": "Braavos",
+      "region": "Essos",
+      "desc": "Wolne miasto zbudowane na wyspach, z kolosalnym Tytanem i Żelaznym Bankiem. Arya dołącza tam do Domu Czerni i Bieli."
+    },
+    {
+      "name": "Meereen",
+      "region": "Essos",
+      "desc": "Miasto w Zatoce Niewolniczej, w którym Daenerys znosi niewolnictwo i stawia pierwsze kroki jako królowa."
+    },
+    {
+      "name": "Qarth",
+      "region": "Essos",
+      "desc": "Kupieckie miasto o legendarnych murach, gdzie Daenerys szuka sojuszników i trafia do Domu Nieśmiertelnych."
+    },
+    {
+      "name": "Vaes Dothrak",
+      "region": "Morze Dothraków",
+      "desc": "Święte miasto Dothraków, bez murów, w którym wszystkie wdowy po khalach przychodzą żyć wśród dosh khaleen."
+    }
+  ],
+  "battles": [
+    {
+      "name": "Pole Ognia",
+      "year": "Rok 1 p.p.",
+      "sides": "Targaryenowie przeciwko Lannisterom i Gardenerom",
+      "desc": "Aegon i jego siostry atakują na smokach armię Reach i Zachodnich Ziem. Kilka tysięcy ludzi ginie w płomieniach, a królowie klękają."
+    },
+    {
+      "name": "Pole Czerwonej Trawy",
+      "year": "Ok. 196 p.p.",
+      "sides": "Daeron II przeciwko Daemonowi Blackfyre'owi",
+      "desc": "Rozstrzygająca bitwa pierwszego buntu Blackfyre'ów, w której zbuntowany bękart zostaje pokonany. Na trwałe naznacza dynastię Targaryenów."
+    },
+    {
+      "name": "Trójząb",
+      "year": "283 p.p.",
+      "sides": "Rebelianci przeciwko Rhaegarowi Targaryenowi",
+      "desc": "Robert Baratheon zabija księcia Rhaegara w pojedynku, otwierając rebeliantom drogę do Królewskiej Przystani."
+    },
+    {
+      "name": "Splądrowanie Królewskiej Przystani",
+      "year": "283 p.p.",
+      "sides": "Lannisterowie przeciwko Targaryenom",
+      "desc": "Wojska Tywina wkraczają do stolicy i ją plądrują. Jaime zabija króla Aerysa, zwanego Szalonym Królem."
+    },
+    {
+      "name": "Szepczący Las",
+      "year": "298 p.p.",
+      "sides": "Robb Stark przeciwko Lannisterom",
+      "desc": "Pierwsze wielkie zwycięstwo Robba, który mniej licznymi siłami zwabia w pułapkę armię Jaimego Lannistera."
+    },
+    {
+      "name": "Czarna Woda",
+      "year": "299 p.p.",
+      "sides": "Stannis przeciwko Lannisterom",
+      "desc": "Stannis atakuje Królewską Przystań od strony morza, ale Tyrion podpala rzekę dzikim ogniem. Posiłki Tywina i Tyrellów ratują miasto."
+    },
+    {
+      "name": "Czerwone Wesele",
+      "year": "299 p.p.",
+      "sides": "Freyowie i Boltonowie przeciwko Starkom",
+      "desc": "Więcej niż bitwa, to rzeź: Robb, Catelyn i ich chorążowie zostają zamordowani podczas weselnej uczty."
+    },
+    {
+      "name": "Czarny Zamek",
+      "year": "300 p.p.",
+      "sides": "Straż Nocy przeciwko dzikim",
+      "desc": "Jon Snow i Straż Nocy opierają się armii Mance'a Raydera, która próbuje sforsować Mur."
+    },
+    {
+      "name": "Meereen",
+      "year": "Sezon 6",
+      "sides": "Daenerys przeciwko panom",
+      "desc": "Daenerys wraca na smoku Drogonie i niszczy flotę panów, którzy z sojusznikami przybyli oblegać miasto."
+    },
+    {
+      "name": "Bitwa Bękartów",
+      "year": "Sezon 6",
+      "sides": "Jon i Sansa przeciwko Ramsayowi Boltonowi",
+      "desc": "Pod Winterfell Jon jest bliski zmiażdżenia, zanim rycerze Doliny odwracają losy bitwy. Ród Starków odzyskuje swój dom."
+    },
+    {
+      "name": "Splądrowanie Reach",
+      "year": "Sezon 7",
+      "sides": "Daenerys przeciwko Lannisterom",
+      "desc": "Daenerys i Drogon atakują konwój z zaopatrzeniem Lannisterów, po raz pierwszy ukazując siłę smoka na wojnie."
+    },
+    {
+      "name": "Bitwa o Winterfell",
+      "year": "Sezon 8",
+      "sides": "Żywi przeciwko umarłym",
+      "desc": "Armie Westeros stają naprzeciw Króla Nocy. Zwycięstwo Aryi kładzie kres zagrożeniu ze strony Białych Wędrowców."
+    },
+    {
+      "name": "Upadek Królewskiej Przystani",
+      "year": "Sezon 8",
+      "sides": "Daenerys przeciwko Cersei",
+      "desc": "Daenerys niszczy flotę Cersei, a potem miasto, mimo dzwonów kapitulacji. Stolica zostaje obrócona w popiół."
+    },
+    {
+      "name": "Taniec Smoków",
+      "year": "129–131 p.p.",
+      "sides": "Czarni przeciwko Zielonym",
+      "desc": "Wojna domowa między zwolennikami Rhaenyry a stronnikami Aegona II, w której starcie ze sobą wchodzą także smoki. Dziesiątkuje Targaryenów."
+    }
+  ],
+  "beliefs": [
+    {
+      "name": "Wiara Siedmiu",
+      "desc": "Główna religia południa Westeros: jedno bóstwo o siedmiu obliczach (Ojciec, Matka, Dziewica, Wojowniczka, Kowal, Starucha i Nieznajomy). Jej septonowie i septy wyznaczają rytm życia dworu."
+    },
+    {
+      "name": "Dawni Bogowie",
+      "desc": "Kult Pierwszych Ludzi i Dzieci Lasu, oddawany czardrzewom z rzeźbionymi twarzami. Starkowie i dzicy pozostają mu wierni."
+    },
+    {
+      "name": "Pan Światła",
+      "desc": "Bóg ognia z Essos, czczony przez czerwonych kapłanów takich jak Melisandre, którzy wierzą w wieczną wojnę między światłem a ciemnością."
+    },
+    {
+      "name": "Utopiony Bóg",
+      "desc": "Bóstwo Żelaznych Wysp, czczone przez Greyjoyów. Jego wyznawcy przechodzą chrzest przez utopienie, z którego wracają poświęceni."
+    },
+    {
+      "name": "Bóg o Tysiącu Twarzy",
+      "desc": "Bóg śmierci w Braavos, któremu służą Ludzie Bez Twarzy. Jego dewiza, „Valar Morghulis”, przypomina, że wszyscy ludzie muszą umrzeć."
+    },
+    {
+      "name": "Wielki Ogier",
+      "desc": "Bóg Dothraków, przedstawiany jako gigantyczny koń. Khalowie są z nim związani, a ludy koczownicze w niego wierzą."
+    },
+    {
+      "name": "Wojująca Wiara",
+      "desc": "Zbrojny ruch Wiary Siedmiu, przywrócony przez Cersei Lannister. Pod przywództwem Najwyższego Wróbla Wróble wymierzają własną sprawiedliwość w Królewskiej Przystani."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Smoki",
+      "desc": "Ogniste bestie, dzięki którym Targaryenowie podbili Westeros. Wymarłe od stulecia, odradzają się dzięki Daenerys, która wychowuje Drogona, Rhaegala i Viseriona."
+    },
+    {
+      "name": "Wilkory",
+      "desc": "Gigantyczne wilki, godło Starków. Każde dziecko Starków dostaje jednego w Winterfell, jak Duch dla Jona czy Nymeria dla Aryi."
+    },
+    {
+      "name": "Biali Wędrowcy",
+      "desc": "Lodowe istoty z dalekiej Północy, zdolne wskrzeszać umarłych. W serialu ich przywódcą jest Król Nocy."
+    },
+    {
+      "name": "Upiory",
+      "desc": "Trupy wskrzeszone przez Białych Wędrowców, tworzące armię umarłych. Tylko ogień, obsydian i valyriańska stal mogą je pokonać."
+    },
+    {
+      "name": "Olbrzymy i mamuty",
+      "desc": "Bardzo wysoki lud żyjący za Murem. Są sojusznikami dzikich i walczą wraz ze swoimi mamutami."
+    },
+    {
+      "name": "Dzieci Lasu",
+      "desc": "Prastary, niewielki lud i pierwsi mieszkańcy Westeros, mistrzowie magii związanej z czardrzewami."
+    },
+    {
+      "name": "Trójoki Kruk",
+      "desc": "Mistyczna istota, której pamięć obejmuje całą przeszłość. Bran zostaje jego następcą po podróży za Mur."
+    },
+    {
+      "name": "Kruki pocztowe",
+      "desc": "Ptaki tresowane przez maesterów, by nosiły listy między zamkami, często zwiastujące poważne wieści."
+    }
+  ],
+  "seasons": {
+    "got": [
+      {
+        "t": "Sezon 1",
+        "m": "2011 · 10 odcinków",
+        "d": "Ned Stark zostaje Namiestnikiem Króla i odkrywa sekret zagrażający tronowi. Na drugim końcu świata Daenerys poślubia dothrackiego wodza."
+      },
+      {
+        "t": "Sezon 2",
+        "m": "2012 · 10 odcinków",
+        "d": "Wybucha wojna Pięciu Królów: Robb Stark, Stannis, Renly i Balon Greyjoy występują przeciwko Joffreyowi. Czarna Woda wieńczy sezon."
+      },
+      {
+        "t": "Sezon 3",
+        "m": "2013 · 10 odcinków",
+        "d": "Lannisterowie biorą górę, podczas gdy Daenerys uwalnia Nieskalanych. Czerwone Wesele wywraca wojnę do góry nogami."
+      },
+      {
+        "t": "Sezon 4",
+        "m": "2014 · 10 odcinków",
+        "d": "Wesele Joffreya kończy się tragedią, Tyrion staje przed sądem. Na Północy Straż Nocy przygotowuje się na atak dzikich."
+      },
+      {
+        "t": "Sezon 5",
+        "m": "2015 · 10 odcinków",
+        "d": "Cersei opiera się na Wojującej Wierze, zanim sama pada jej ofiarą, Jon zostaje wybrany Lordem Dowódcą. Daenerys z trudem rządzi Meereen."
+      },
+      {
+        "t": "Sezon 6",
+        "m": "2016 · 10 odcinków",
+        "d": "Jon wraca do życia, a ród Starków odzyskuje Winterfell. Cersei wysadza w powietrze Wielką Septę."
+      },
+      {
+        "t": "Sezon 7",
+        "m": "2017 · 7 odcinków",
+        "d": "Daenerys ląduje w Westeros i sprzymierza się z Jonem. Armie żywych szykują się do starcia z umarłymi."
+      },
+      {
+        "t": "Sezon 8",
+        "m": "2019 · 6 odcinków",
+        "d": "Bitwa o Winterfell kończy Długą Noc, a walka o Żelazny Tron dobiega końca w Królewskiej Przystani."
+      }
+    ],
+    "hotd": [
+      {
+        "t": "Sezon 1",
+        "m": "2022 · 10 odcinków",
+        "d": "Król Viserys wyznacza Rhaenyrę na następczynię, ale dwór dzieli się w kwestii sukcesji. Napięcia między jego córką a królową Alicent narastają z biegiem lat."
+      },
+      {
+        "t": "Sezon 2",
+        "m": "2024 · 8 odcinków",
+        "d": "Wybucha wojna domowa między Czarnymi a Zielonymi. Smoki stają się rozstrzygającą bronią w konflikcie."
+      },
+      {
+        "t": "Sezon 3",
+        "m": "2026 · 8 odcinków",
+        "d": "Taniec Smoków trwa, a sojusze zawiązują się i rozpadają. Czwarty i ostatni sezon zapowiedziano na 2028 rok."
+      }
+    ],
+    "aknight": [
+      {
+        "t": "Sezon 1",
+        "m": "2026 · 6 odcinków",
+        "d": "Ser Duncan Wysoki, wędrowny rycerz, bierze młodego Egga na giermka i przemierza Westeros, z dala od wielkich intryg. Sezon 2 oczekiwany jest w 2027 roku."
+      }
+    ]
   }
 }
