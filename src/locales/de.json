@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Deutsch",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Die Sieben Kronen",
+    "tagline": "Inoffizielle Fanseite zum Game-of-Thrones-Universum: Geschichte Westeros', Häuser, Figuren und Serien.",
+    "spoiler": "Die dargestellten Informationen können Spoiler enthalten.",
+    "nav": {
+      "histoire": "Geschichte",
+      "maisons": "Häuser",
+      "personnages": "Figuren",
+      "series": "Serien",
+      "livres": "Bücher"
+    },
+    "titles": {
+      "histoire": "Die Geschichte von Westeros",
+      "maisons": "Die Großen Häuser",
+      "personnages": "Figuren",
+      "series": "Serien",
+      "livres": "Die Bücher",
+      "sources": "Quellen"
+    },
+    "all": "Alle",
+    "nightWatch": "Nachtwache",
+    "redPriestess": "Rote Priesterin",
+    "language": "Sprache",
+    "rights": "Alle Rechte vorbehalten.",
+    "disclaimer": "Inoffizielle Fanseite, ohne Verbindung zu HBO oder George R. R. Martin. Game of Thrones ist eine Marke der jeweiligen Rechteinhaber.",
+    "images": "Bilder (Schauspieler, Wappen, Logos): Wikipedia / Wikimedia Commons, freie Lizenzen",
+    "home": "Startseite",
+    "discover": "Entdecken",
+    "era": "Epoche",
+    "events": "Ereignisse",
+    "prevEra": "Vorherige Epoche",
+    "nextEra": "Nächste Epoche",
+    "allEras": "Alle Epochen",
+    "breadcrumb": "Brotkrümelnavigation",
+    "skipToContent": "Zum Inhalt springen",
+    "notFoundTitle": "Seite nicht gefunden",
+    "notFoundText": "Diese Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zurück zur Startseite",
+    "ogAlt": "Die Sieben Kronen – Game-of-Thrones-Fansite"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · Der Norden",
+      "words": "„Der Winter naht“",
+      "desc": "Grauer Schattenwolf auf weißem Grund. Haus der Ehre und der Pflicht."
+    },
+    "lannister": {
+      "seat": "Casterlystein · Das Westerland",
+      "words": "„Hört mich brüllen!“",
+      "desc": "Goldener Löwe auf rotem Grund. Das reichste der Häuser."
+    },
+    "targaryen": {
+      "seat": "Drachenstein / Königsmund",
+      "words": "„Feuer und Blut“",
+      "desc": "Roter dreiköpfiger Drache auf schwarzem Grund. Dynastie der Drachenherren."
+    },
+    "baratheon": {
+      "seat": "Sturmkap / Drachenstein",
+      "words": "„Unser ist der Zorn“",
+      "desc": "Schwarzer gekrönter Hirsch auf goldenem Grund."
+    },
+    "greyjoy": {
+      "seat": "Pyke · Die Eiseninseln",
+      "words": "„Wir säen nicht“",
+      "desc": "Goldener Kraken auf schwarzem Grund. Volk von Seeräubern."
+    },
+    "martell": {
+      "seat": "Sonnspeer · Dorne",
+      "words": "„Ungebeugt, ungezähmt, ungebrochen“",
+      "desc": "Sonne und Speer. Das einzige Haus, das nie von den Drachen erobert wurde."
+    },
+    "tyrell": {
+      "seat": "Rosengarten · Die Weite",
+      "words": "„Stark im Wachsen“",
+      "desc": "Goldene Rose auf grünem Grund. Fruchtbares und mächtiges Haus."
+    },
+    "tully": {
+      "seat": "Schnellwasser · Die Flusslande",
+      "words": "„Familie, Pflicht, Ehre“",
+      "desc": "Springende silberne Forelle."
+    },
+    "arryn": {
+      "seat": "Hohe Warte · Das Grüne Tal",
+      "words": "„Hoch wie die Ehre“",
+      "desc": "Falke und Mondsichel."
+    }
+  },
+  "chars": {
+    "jon-snow": "Bastard von Winterfell, geschworener Bruder der Nachtwache, später König des Nordens.",
+    "daenerys-targaryen": "Die Mutter der Drachen, im Exil lebende Erbin des Eisernen Throns.",
+    "tyrion-lannister": "Brillanter, zynischer Lannister, der dank seines Verstandes überlebt.",
+    "cersei-lannister": "Unbarmherzige Königin, die für die Ihren und ihre Macht zu allem bereit ist.",
+    "jaime-lannister": "Der Königsmörder, ein Ritter, dessen Ehre hart auf die Probe gestellt wird.",
+    "arya-stark": "Jüngere Stark-Tochter, die zur Assassinin wurde, mit einer Liste von Namen, die es auszustreichen gilt.",
+    "sansa-stark": "Vom Opfer des Hofes zur politischen Strategin des Nordens.",
+    "ned-stark": "Lord von Winterfell und Hand des Königs, unnachgiebig in Fragen der Ehre.",
+    "bran-stark": "Der Dreiäugige Rabe, lebendiges Gedächtnis der Welt.",
+    "brienne-de-torth": "Treue und unerschrockene Ritterin, ihrem Wort verpflichtet.",
+    "theon-greyjoy": "Mündel der Starks, hin- und hergerissen zwischen zwei Loyalitäten.",
+    "petyr-baelish": "„Littlefinger“, Meister der Manipulation.",
+    "stannis-baratheon": "Hartnäckiger Thronanwärter, streng und unerbittlich.",
+    "rhaenyra-targaryen": "Designierte Erbin von König Viserys I.",
+    "daemon-targaryen": "Kriegerprinz, unberechenbar und auf seine Weise loyal.",
+    "alicent-hightower": "Königin und Rivalin von Rhaenyra, Galionsfigur der Grünen.",
+    "robb-stark": "Ältester Sohn Neds, zum König des Nordens ausgerufen.",
+    "catelyn-stark": "Neds Gemahlin, eine Mutter, die für ihre Kinder alles tun würde.",
+    "joffrey-baratheon": "Grausamer und launischer junger König.",
+    "robert-baratheon": "Der König auf dem Eisernen Thron, Sieger der Rebellion.",
+    "tywin-lannister": "Patriarch von Casterlystein, besessen vom Erbe seines Hauses.",
+    "samwell-tarly": "Leidenschaftlicher Leser und treuer Freund von Jon.",
+    "davos-mervault": "Der Zwiebelritter, loyaler Berater von Stannis.",
+    "melisandre": "Priesterin des Herrn des Lichts.",
+    "sandor-clegane": "Der Hund, brutaler Krieger mit einem unauffälligen Ehrenkodex.",
+    "gregor-clegane": "Der Berg, blutrünstiger Koloss.",
+    "jorah-mormont": "Verbannter Ritter, treuer Berater von Daenerys.",
+    "margaery-tyrell": "Geschickte Königin, die das Volk für sich zu gewinnen weiß.",
+    "oberyn-martell": "Die Rote Viper von Dorne.",
+    "viserys-targaryen": "Friedlicher König, hin- und hergerissen zwischen seiner Familie und dem Reich.",
+    "corlys-velaryon": "Die Meeresschlange, reichster Seefahrer von Westeros."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17. Apr. 2011 – 19. Mai 2019 · 8 Staffeln, 73 Folgen",
+      "desc": "Adaption von Das Lied von Eis und Feuer von George R. R. Martin, geschaffen von David Benioff und D. B. Weiss."
+    },
+    "hotd": {
+      "tag": "HBO · seit Aug. 2022",
+      "desc": "Prequel über den Targaryen-Bürgerkrieg, 172 Jahre vor GoT. Staffel 1 (2022), 2 (2024) und 3 (2026) ausgestrahlt; Staffel 4, als letzte geplant, wird 2028 erwartet."
+    },
+    "aknight": {
+      "tag": "HBO · seit Jan. 2026 · 6 Folgen",
+      "desc": "Ser Duncan der Große (Peter Claffey) und sein Knappe Egg (Dexter Sol Ansell), nach den Novellen um Dunk & Egg. Staffel 2 bestellt, erwartet für 2027."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "Das Lied von Eis und Feuer",
+      "tag": "George R. R. Martin · seit 1996",
+      "desc": "Originalsaga (A Song of Ice and Fire): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. Zwei Bände stehen noch aus, ohne Termin: The Winds of Winter und A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Feuer und Blut",
+      "tag": "2018",
+      "desc": "Geschichte der Targaryen-Dynastie, Grundlage von House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Novellen · 1998–2017",
+      "desc": "Die Abenteuer von Ser Duncan dem Großen und Egg, ein Jahrhundert vor GoT."
+    },
+    "worldoficeandfire": {
+      "title": "Die Welt von Eis und Feuer",
+      "tag": "2014",
+      "desc": "Atlas und bebilderte Enzyklopädie der Geschichte von Westeros und Essos."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Die Sieben Kronen – Game-of-Thrones-Fansite: Geschichte, Häuser",
+      "description": "Inoffizielle Game-of-Thrones-Fansite: Geschichte von Westeros, große Häuser, 31 Figuren, HBO-Serien und Bücher. In 20 Sprachen verfügbar."
+    },
+    "history": {
+      "title": "Geschichte von Westeros – Komplette Chronik | Die Sieben Kronen",
+      "description": "Vom Zeitalter der Helden bis zur Langen Nacht: 5 Epochen und 40 Ereignisse, um die Geschichte von Westeros und des Eisernen Throns zu verstehen."
+    },
+    "houses": {
+      "title": "Die Großen Häuser: Stark, Lannister, Targaryen | Die Sieben Kronen",
+      "description": "Wahlsprüche, Sitze und Wappen der 9 großen Häuser von Game of Thrones: Stark, Lannister, Targaryen, Baratheon, Greyjoy, Martell, Tyrell, Tully und Arryn."
+    },
+    "characters": {
+      "title": "Figuren: Game of Thrones & House of the Dragon | Die Sieben Kronen",
+      "description": "31 Figuren aus Game of Thrones und House of the Dragon: Haus, Darsteller bzw. Darstellerin und Porträt, nach Haus filterbar."
+    },
+    "series": {
+      "title": "Serien — Game of Thrones | Die Sieben Kronen",
+      "description": "Sendetermine, Staffeln und Besetzung der HBO-Serien aus dem Universum von Game of Thrones, samt den nächsten Starts."
+    },
+    "books": {
+      "title": "Die Bücher — Game of Thrones | Die Sieben Kronen",
+      "description": "Die Romane und Novellen von George R. R. Martin, auf denen Game of Thrones beruht, mit dem Stand der beiden noch ausstehenden Bände."
+    }
+  },
+  "history": {
+    "intro": "Von der Morgendämmerung der Zeit bis zum Fall des Eisernen Throns: fünf Epochen, um die Geschichte von Westeros nachzuverfolgen, von der Legende der Ersten Menschen bis zu den Kriegen, die das Reich neu gezeichnet haben.",
+    "eras": {
+      "origins": {
+        "name": "Die Frühzeit",
+        "period": "Vor Jahr 1 n. E.",
+        "intro": "Vor den Königen und Drachen gehört Westeros den Kindern des Waldes und den Ersten Menschen. Die Andalen, die Rhoynar und der Untergang Valyrias bereiten die Bühne für die Eroberung.",
+        "events": [
+          {
+            "t": "Die Kinder des Waldes und die Ersten Menschen",
+            "d": "Die Ersten Menschen überqueren den Arm von Dorne und fällen die heiligen Wehrholzbäume der Kinder des Waldes. Nach Jahrhunderten des Krieges ermöglicht der Pakt der Gesichterinsel beiden Völkern das Zusammenleben."
+          },
+          {
+            "t": "Die erste Lange Nacht",
+            "d": "Ein endloser Winter senkt sich über die Welt, und die Weißen Wanderer strömen aus dem hohen Norden herab. Der Letzte Held schlägt sie mit Hilfe der Kinder des Waldes zurück, die sie der Serie zufolge einst zu ihrer eigenen Verteidigung erschaffen hatten."
+          },
+          {
+            "t": "Der Bau der Mauer",
+            "d": "Brandon der Erbauer errichtet die Mauer aus Eis, rund 210 Meter hoch und 480 Kilometer lang, um das Reich zu schützen. Seither hält die Nachtwache dort Wacht."
+          },
+          {
+            "t": "Die Invasion der Andalen",
+            "d": "Mit Eisenwaffen und im Glauben an die Sieben überqueren die Andalen die Meerenge und erobern fast den gesamten Süden des Kontinents. Der Norden unter den Stark-Königen widersteht ihnen und bewahrt die alten Götter."
+          },
+          {
+            "t": "Nymeria und die Rhoynar in Dorne",
+            "d": "Von Valyria aus ihrer Heimat vertrieben, führt Prinzessin Nymeria ihre Rhoynar-Schiffe nach Dorne und heiratet Mors Martell. Dorne bewahrt seither ganz eigene Bräuche, etwa das gleiche Erbrecht für Töchter und Söhne."
+          },
+          {
+            "t": "Die Targaryen lassen sich auf Drachenstein nieder",
+            "d": "In Voraussicht der Katastrophe verlässt Aenar Targaryen mit seiner Familie und seinen Drachen Valyria und zieht auf die Insel Drachenstein. Diese Entscheidung rettet sein Haus."
+          },
+          {
+            "t": "Die Verdammnis von Valyria",
+            "d": "Etwa 114 Jahre vor der Eroberung vernichtet eine Katastrophe das allmächtige Valyria und seine Drachenmeister. Die Targaryen gehören zu den wenigen Familien, die überleben."
+          },
+          {
+            "t": "Westeros vor der Einigung",
+            "d": "Der Kontinent ist in rivalisierende Königreiche geteilt: den Norden, das Grüne Tal, die Eiseninseln, die Flusslande, das Westerland, die Weite, die Sturmlande und Dorne. Jedes hat seine eigenen Könige, Kriege und wechselnden Bündnisse."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "Die Targaryen-Dynastie",
+        "period": "Jahr 1 – 283 n. E.",
+        "intro": "Fast drei Jahrhunderte lang herrschen die Drachenlords vom Eisernen Thron aus. Ruhm, Bürgerkriege und Wahnsinn prägen ihre Dynastie.",
+        "events": [
+          {
+            "t": "Aegons Eroberung (Jahr 1 n. E.)",
+            "d": "Aegon Targaryen und seine Schwestern Visenya und Rhaenys unterwerfen auf ihren Drachen sechs der sieben Königreiche. Der Eiserne Thron wird aus den Schwertern der Besiegten geschmiedet, die Balerions Feueratem eingeschmolzen hat."
+          },
+          {
+            "t": "Maegor der Grausame und die Rote Burg",
+            "d": "Aegons Sohn Maegor I. regiert mit Schrecken und baut Maegors Feste, den Kern der Roten Burg von Königsmund. Seine Herrschaft gilt als eine der finstersten der Dynastie."
+          },
+          {
+            "t": "Der Große Rat (Jahr 101 n. E.)",
+            "d": "Die mächtigsten Lords des Reiches wählen Viserys statt seiner Cousine Rhaenys zum Nachfolger von König Jaehaerys. Dieser Präzedenzfall wird die nächste Thronfolge schwer belasten."
+          },
+          {
+            "t": "Viserys I., Rhaenyra und Alicent",
+            "d": "Unter der friedlichen Herrschaft von Viserys spaltet sich der Hof zwischen seiner Tochter Rhaenyra, der designierten Erbin, und der neuen Königin Alicent Hightower. Diese Rivalitäten kündigen den Krieg an."
+          },
+          {
+            "t": "Der Tanz der Drachen (129–131 n. E.)",
+            "d": "Nach Viserys' Tod streiten Rhaenyra und ihr Halbbruder Aegon II. um den Thron: der Bürgerkrieg der Schwarzen gegen die Grünen, erzählt in House of the Dragon. Viele Drachen kommen dabei um."
+          },
+          {
+            "t": "Der Niedergang der Drachen",
+            "d": "Nach dem Tanz sterben die Drachen einer nach dem anderen, da es an Pflege und lebensfähigen Gelegen fehlt. Der letzte erlischt um 153 n. E., und die Magie der Targaryen schwindet."
+          },
+          {
+            "t": "Dunk & Egg und die Blackfyre-Rebellion (um 196 n. E.)",
+            "d": "Daemon Blackfyre, der bastardgeborene Sohn des Königs, erhebt sich gegen seinen Halbbruder König Daeron II. und verliert die Schlacht auf dem Rotgrasfeld. In jener Zeit ziehen der fahrende Ritter Dunk und sein Knappe Egg durchs Land."
+          },
+          {
+            "t": "Aerys II., der Irre König (262–283 n. E.)",
+            "d": "Aerys II. versinkt allmählich in Paranoia und Grausamkeit, fasziniert vom Wildfeuer. Seine Herrschaft führt zur Revolte der mächtigsten Lords des Reiches."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Roberts Rebellion",
+        "period": "Jahr 281 – 289 n. E.",
+        "intro": "Ein Turnier, eine Entführung und ein allzu paranoider König: Robert Baratheons Rebellion beendet die Targaryen-Dynastie und erschüttert das Gleichgewicht der großen Häuser.",
+        "events": [
+          {
+            "t": "Das Turnier von Harrenhal (Jahr 281 n. E.)",
+            "d": "Prinz Rhaegar Targaryen krönt Lyanna Stark zur Schönheitskönigin, sehr zum Missfallen ihres Verlobten Robert Baratheon. Diese Episode ist als Funke des Konflikts in Erinnerung geblieben."
+          },
+          {
+            "t": "Lyanna Stark verschwindet",
+            "d": "Lyanna wird der offiziellen Version zufolge von Rhaegar entführt. Ihr Vater Rickard und ihr Bruder Brandon fordern in Königsmund Gerechtigkeit: König Aerys lässt beide hinrichten."
+          },
+          {
+            "t": "Die Banner werden erhoben",
+            "d": "Eddard Stark, Robert Baratheon und Jon Arryn weigern sich, Aerys zu gehorchen, der ihre Köpfe fordert, und rufen ihre Fahnenlords zu den Waffen. Bald schließen sich ihnen die Tully an."
+          },
+          {
+            "t": "Die Schlacht am Dreizack",
+            "d": "An der Furt des Dreizacks stellt sich Robert Baratheon Prinz Rhaegar, dem Erben der Targaryen, und tötet ihn im Zweikampf. Dieser Sieg öffnet den Rebellen den Weg nach Königsmund."
+          },
+          {
+            "t": "Die Plünderung von Königsmund",
+            "d": "Tywin Lannister lässt seine Truppen in die Hauptstadt einmarschieren, offiziell, um den König zu verteidigen. Jaime Lannister tötet Aerys, um zu verhindern, dass dieser die Stadt niederbrennt, und Rhaegars Kinder werden ermordet."
+          },
+          {
+            "t": "Robert wird zum König gekrönt",
+            "d": "Robert Baratheon besteigt den Eisernen Thron und heiratet Cersei Lannister, um das Bündnis mit dem reichen Haus von Casterlystein zu besiegeln. Ned Stark kehrt nach Winterfell zurück."
+          },
+          {
+            "t": "Das Exil von Viserys und Daenerys",
+            "d": "Die letzten lebenden Targaryen, die Kinder Viserys und Daenerys, fliehen nach Essos und leben von Exil zu Exil. Daenerys wird auf Drachenstein geboren, während ein Sturm die Insel verwüstet."
+          },
+          {
+            "t": "Die Greyjoy-Rebellion (Jahr 289 n. E.)",
+            "d": "Balon Greyjoy, König der Eiseninseln, versucht, die Unabhängigkeit zurückzugewinnen. Von Robert niedergeschlagen, kostet die Rebellion seine älteren Söhne das Leben, und sein jüngster, Theon, wächst als Geisel bei den Starks auf."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "Der Krieg der Fünf Könige",
+        "period": "Jahr 298 – 300 n. E.",
+        "intro": "Der Tod eines Königs entfacht den größten Konflikt, den Westeros seit Jahrhunderten erlebt hat: Fünf Prätendenten bekämpfen sich inmitten von Intrigen, Verrat und Schlachten.",
+        "events": [
+          {
+            "t": "Ned Stark wird Hand des Königs",
+            "d": "Nach Jon Arryns Tod bittet Robert seinen alten Freund Ned, seine Hand zu werden. In Königsmund entdeckt Ned die Geheimnisse des Hofes, vor allem die Wahrheit über die Kinder der Königin."
+          },
+          {
+            "t": "Roberts Tod und Neds Hinrichtung",
+            "d": "Der König stirbt nach einem Jagdunfall, und Joffrey besteigt den Thron. Ned wird wegen Verrats verhaftet und enthauptet, was die Starks in den Krieg stürzt."
+          },
+          {
+            "t": "Die fünf Könige",
+            "d": "Joffrey, Robb Stark, Renly und Stannis Baratheon sowie Balon Greyjoy erklären sich allesamt zu Königen. Das Reich zerreißt sich zwischen Bündnissen, Verrat und Schlachten."
+          },
+          {
+            "t": "Die Schlacht am Schwarzwasser",
+            "d": "Stannis belagert Königsmund von der See her, doch Tyrion Lannister setzt den Fluss mit Wildfeuer in Brand. Das Eintreffen von Tywin und den Tyrell rettet die Stadt."
+          },
+          {
+            "t": "Die Rote Hochzeit",
+            "d": "Bei einer Hochzeit auf Walder Freys Burg werden Robb Stark, seine Mutter Catelyn und ein großer Teil seines Heeres niedergemetzelt. Diese Episode gehört zu den berühmtesten der ganzen Saga."
+          },
+          {
+            "t": "Joffreys Hochzeit und Tywins Tod",
+            "d": "Joffrey stirbt auf seiner eigenen Hochzeit durch Gift, und Tyrion wird des Verbrechens beschuldigt. Tyrion entkommt und tötet seinen Vater Tywin, wodurch das Haus Lannister ohne wirkliches Oberhaupt zurückbleibt."
+          },
+          {
+            "t": "Daenerys in Essos",
+            "d": "Daenerys, nun Mutter dreier Drachen, befreit die Sklaven von Astapor, Yunkai und Meereen. Sie lernt zu regieren, aber auch, auf eigene Kosten, die Grenzen der Macht."
+          },
+          {
+            "t": "Die Bedrohung an der Mauer",
+            "d": "Mance Rayder sammelt die Wildlinge nördlich der Mauer, auf der Flucht vor den Weißen Wanderern. Jon Snow und die Nachtwache verteidigen die Schwarze Festung in einer entscheidenden Schlacht."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "Die Lange Nacht und danach",
+        "period": "Nach dem Krieg der Fünf Könige",
+        "intro": "Während sich die Häuser gegenseitig zerfleischen, marschiert die wahre Bedrohung nach Süden. Der Krieg gegen die Toten und dann der Kampf um den Eisernen Thron besiegeln das Schicksal von Westeros.",
+        "events": [
+          {
+            "t": "Jon Snow, Lord Kommandant",
+            "d": "Zum Lord Kommandanten der Nachtwache gewählt, öffnet Jon die Mauer für die Wildlinge. Seine Brüder erstechen ihn wegen Verrats, doch Melisandre holt ihn ins Leben zurück."
+          },
+          {
+            "t": "Die Schlacht der Bastarde",
+            "d": "Jon und Sansa erobern Winterfell in einem schrecklichen Kampf von Ramsay Bolton zurück. Jon wird von den Lords der Region zum König des Nordens ausgerufen."
+          },
+          {
+            "t": "Cersei zerstört die Große Septe",
+            "d": "Um ihrem Prozess zu entgehen, lässt Cersei die Große Septe von Baelor mit Wildfeuer in die Luft sprengen und tötet damit ihre Feinde. König Tommen nimmt sich das Leben, und Cersei lässt sich zur Königin krönen."
+          },
+          {
+            "t": "Daenerys erreicht Westeros",
+            "d": "Daenerys landet mit ihren Drachen, ihrem Heer und ihren Verbündeten auf Drachenstein. Dort trifft sie Jon, mit dem sie sich gegen die Bedrohung aus dem Norden verbündet."
+          },
+          {
+            "t": "Die Schlacht um Winterfell",
+            "d": "Die Lebenden stellen sich dem Heer der Toten des Nachtkönigs. Arya Stark tötet den Nachtkönig und beendet die Lange Nacht."
+          },
+          {
+            "t": "Der Fall von Königsmund",
+            "d": "Daenerys, durch ihre Verluste an den Rand des Wahnsinns getrieben, verbrennt Königsmund mit ihrem Drachen, obwohl sich die Stadt ergeben hat. Die Stadt wird zu Asche."
+          },
+          {
+            "t": "Das Ende von Daenerys",
+            "d": "Jon Snow, innerlich zerrissen, ersticht Daenerys, und der Drache Drogon trägt ihren Leichnam davon. Tyrion und die Lords von Westeros versammeln sich, um über die Zukunft des Reiches zu entscheiden."
+          },
+          {
+            "t": "Bran der Gebrochene und der unabhängige Norden",
+            "d": "Bran Stark wird auserwählt, über die Sechs Königslande zu herrschen, während der Norden unter Königin Sansa unabhängig wird. Jon kehrt zur Nachtwache zurück und zieht dann weiter jenseits der Mauer."
+          }
+        ]
+      }
+    }
+  }
+}

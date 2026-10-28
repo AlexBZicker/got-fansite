@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Bahasa Indonesia",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Tujuh Mahkota",
+    "tagline": "Situs penggemar tidak resmi untuk semesta Game of Thrones: sejarah Westeros, wangsa, karakter, dan serial.",
+    "spoiler": "Informasi yang ditampilkan dapat mengandung spoiler.",
+    "nav": {
+      "histoire": "Sejarah",
+      "maisons": "Wangsa",
+      "personnages": "Karakter",
+      "series": "Serial",
+      "livres": "Buku"
+    },
+    "titles": {
+      "histoire": "Sejarah Westeros",
+      "maisons": "Wangsa-Wangsa Besar",
+      "personnages": "Karakter",
+      "series": "Serial",
+      "livres": "Buku-buku",
+      "sources": "Sumber"
+    },
+    "all": "Semua",
+    "nightWatch": "Night's Watch",
+    "redPriestess": "Pendeta Wanita Merah",
+    "language": "Bahasa",
+    "rights": "Hak cipta dilindungi undang-undang.",
+    "disclaimer": "Situs penggemar tidak resmi, tidak berafiliasi dengan HBO maupun George R. R. Martin. Game of Thrones adalah merek dagang milik para pemegang haknya.",
+    "images": "Gambar (aktor, lambang, logo): Wikipedia / Wikimedia Commons, lisensi bebas",
+    "home": "Beranda",
+    "discover": "Jelajahi",
+    "era": "Era",
+    "events": "peristiwa",
+    "prevEra": "Era sebelumnya",
+    "nextEra": "Era berikutnya",
+    "allEras": "Semua era",
+    "breadcrumb": "Navigasi jejak",
+    "skipToContent": "Lompat ke konten",
+    "notFoundTitle": "Halaman tidak ditemukan",
+    "notFoundText": "Halaman ini tidak ada atau telah dipindahkan.",
+    "backHome": "Kembali ke beranda",
+    "ogAlt": "Tujuh Mahkota — situs penggemar Game of Thrones"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · Utara",
+      "words": "«Musim dingin akan tiba»",
+      "desc": "Direwolf abu-abu di atas latar putih. Wangsa kehormatan dan kewajiban."
+    },
+    "lannister": {
+      "seat": "Casterly Rock · Wilayah Barat",
+      "words": "«Dengar Aku Mengaum»",
+      "desc": "Singa emas di atas latar merah. Wangsa terkaya."
+    },
+    "targaryen": {
+      "seat": "Dragonstone / King's Landing",
+      "words": "«Api dan Darah»",
+      "desc": "Naga merah berkepala tiga di atas latar hitam. Dinasti para penguasa naga."
+    },
+    "baratheon": {
+      "seat": "Storm's End / Dragonstone",
+      "words": "«Kamilah Kemurkaan»",
+      "desc": "Rusa jantan hitam bermahkota di atas latar emas."
+    },
+    "greyjoy": {
+      "seat": "Pyke · Kepulauan Besi",
+      "words": "«Kami Tidak Menabur»",
+      "desc": "Kraken emas di atas latar hitam. Bangsa perompak laut."
+    },
+    "martell": {
+      "seat": "Sunspear · Dorne",
+      "words": "«Tak Tertundukkan, Tak Terbungkuk, Tak Terpatahkan»",
+      "desc": "Matahari dan tombak. Satu-satunya wangsa yang tak pernah ditaklukkan naga."
+    },
+    "tyrell": {
+      "seat": "Highgarden · The Reach",
+      "words": "«Tumbuh Kuat»",
+      "desc": "Mawar emas di atas latar hijau. Wangsa yang subur dan berkuasa."
+    },
+    "tully": {
+      "seat": "Riverrun · Wilayah Sungai",
+      "words": "«Keluarga, Kewajiban, Kehormatan»",
+      "desc": "Ikan trout perak yang melompat."
+    },
+    "arryn": {
+      "seat": "Eyrie · The Vale",
+      "words": "«Setinggi Kehormatan»",
+      "desc": "Elang dan bulan sabit."
+    }
+  },
+  "chars": {
+    "jon-snow": "Anak haram Winterfell, saudara sumpah Night's Watch, lalu Raja di Utara.",
+    "daenerys-targaryen": "Ibu Para Naga, pewaris Takhta Besi yang diasingkan.",
+    "tyrion-lannister": "Lannister yang cerdas dan sinis, bertahan hidup berkat kecerdikannya.",
+    "cersei-lannister": "Ratu tanpa belas kasihan, rela melakukan apa saja demi melindungi keluarga dan kekuasaannya.",
+    "jaime-lannister": "Si Pembunuh Raja, ksatria yang kehormatannya diuji dengan keras.",
+    "arya-stark": "Putri bungsu Stark yang menjadi pembunuh, dengan daftar nama yang harus dicoret.",
+    "sansa-stark": "Dari korban istana menjadi ahli strategi politik Utara.",
+    "ned-stark": "Penguasa Winterfell dan Tangan Raja, kaku soal kehormatan.",
+    "bran-stark": "Gagak Bermata Tiga, ingatan hidup dunia.",
+    "brienne-de-torth": "Ksatria wanita yang setia dan garang, teguh pada janjinya.",
+    "theon-greyjoy": "Anak asuh Stark yang terbelah antara dua kesetiaan.",
+    "petyr-baelish": "«Littlefinger», ahli manipulasi.",
+    "stannis-baratheon": "Pengklaim takhta yang keras kepala, tegas dan tak kenal kompromi.",
+    "rhaenyra-targaryen": "Pewaris yang ditunjuk Raja Viserys I.",
+    "daemon-targaryen": "Pangeran prajurit, tak terduga dan setia dengan caranya sendiri.",
+    "alicent-hightower": "Ratu dan rival Rhaenyra, tokoh kubu Hijau.",
+    "robb-stark": "Putra sulung Ned, dinobatkan sebagai Raja di Utara.",
+    "catelyn-stark": "Istri Ned, seorang ibu yang rela berbuat apa saja demi anak-anaknya.",
+    "joffrey-baratheon": "Raja muda yang kejam dan berubah-ubah.",
+    "robert-baratheon": "Raja Takhta Besi, pemenang Pemberontakan.",
+    "tywin-lannister": "Kepala keluarga Casterly Rock, terobsesi pada warisan wangsanya.",
+    "samwell-tarly": "Pembaca yang bersemangat dan sahabat setia Jon.",
+    "davos-mervault": "Ksatria Bawang, penasihat setia Stannis.",
+    "melisandre": "Pendeta wanita Penguasa Cahaya.",
+    "sandor-clegane": "Si Anjing Pemburu, prajurit brutal dengan kode kehormatan tersembunyi.",
+    "gregor-clegane": "Si Gunung, raksasa haus darah.",
+    "jorah-mormont": "Ksatria buangan, penasihat setia Daenerys.",
+    "margaery-tyrell": "Ratu cerdik yang tahu cara merebut hati rakyat.",
+    "oberyn-martell": "Ular Merah dari Dorne.",
+    "viserys-targaryen": "Raja cinta damai, terbelah antara keluarga dan kerajaan.",
+    "corlys-velaryon": "Ular Laut, pelaut terkaya di Westeros."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17 Apr 2011 – 19 Mei 2019 · 8 musim, 73 episode",
+      "desc": "Adaptasi A Song of Ice and Fire karya George R. R. Martin, dibuat oleh David Benioff dan D. B. Weiss."
+    },
+    "hotd": {
+      "tag": "HBO · sejak Agu 2022",
+      "desc": "Prekuel tentang perang saudara Targaryen, 172 tahun sebelum GoT. Musim 1 (2022), 2 (2024), dan 3 (2026) telah tayang; musim 4, yang direncanakan sebagai penutup, dijadwalkan pada 2028."
+    },
+    "aknight": {
+      "tag": "HBO · sejak Jan 2026 · 6 episode",
+      "desc": "Ser Duncan si Jangkung (Peter Claffey) dan pengawalnya Egg (Dexter Sol Ansell), berdasarkan novelet Dunk & Egg. Musim 2 sudah dipesan, dijadwalkan 2027."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "A Song of Ice and Fire",
+      "tag": "George R. R. Martin · sejak 1996",
+      "desc": "Saga aslinya (Le Trône de Fer dalam bahasa Prancis): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. Dua buku lagi belum terbit, tanpa tanggal: The Winds of Winter dan A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Fire & Blood",
+      "tag": "2018",
+      "desc": "Sejarah dinasti Targaryen, dasar dari House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Novelet · 1998–2017",
+      "desc": "Petualangan Ser Duncan si Jangkung dan Egg, seabad sebelum GoT."
+    },
+    "worldoficeandfire": {
+      "title": "The World of Ice & Fire",
+      "tag": "2014",
+      "desc": "Atlas dan ensiklopedia bergambar tentang sejarah Westeros dan Essos."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Tujuh Mahkota — Situs Game of Thrones: sejarah, wangsa, karakter",
+      "description": "Situs penggemar tidak resmi Game of Thrones: sejarah Westeros, wangsa-wangsa besar, 31 karakter, serial HBO, dan buku. Tersedia dalam 20 bahasa."
+    },
+    "history": {
+      "title": "Sejarah Westeros — Linimasa Lengkap | Tujuh Mahkota",
+      "description": "Dari Zaman Para Pahlawan hingga Malam Panjang: 5 era dan 40 peristiwa untuk memahami sejarah Westeros dan Takhta Besi."
+    },
+    "houses": {
+      "title": "Wangsa Besar Westeros: Stark, Lannister, Targaryen… | Tujuh Mahkota",
+      "description": "Semboyan, kediaman, dan lambang 9 wangsa besar Game of Thrones: Stark, Lannister, Targaryen, Baratheon, Greyjoy, Martell, Tyrell, Tully, dan Arryn."
+    },
+    "characters": {
+      "title": "Karakter Game of Thrones dan House of the Dragon | Tujuh Mahkota",
+      "description": "31 karakter Game of Thrones dan House of the Dragon: wangsa, pemeran, dan profil singkat, dapat disaring menurut wangsa."
+    },
+    "series": {
+      "title": "Serial — Game of Thrones | Tujuh Mahkota",
+      "description": "Jadwal tayang, musim, dan pemeran serial HBO dalam semesta Game of Thrones, lengkap dengan rilis mendatang."
+    },
+    "books": {
+      "title": "Buku: A Song of Ice and Fire, Fire & Blood, Dunk & Egg | Tujuh Mahkota",
+      "description": "Novel dan novelet George R. R. Martin yang menjadi sumber Game of Thrones, beserta status dua buku yang belum terbit."
+    }
+  },
+  "history": {
+    "intro": "Dari fajar zaman hingga runtuhnya Takhta Besi: lima era untuk menelusuri sejarah Westeros, dari legenda Manusia Pertama hingga perang yang menata ulang kerajaan.",
+    "eras": {
+      "origins": {
+        "name": "Zaman Kuno",
+        "period": "Sebelum tahun 1 AC",
+        "intro": "Sebelum para raja dan naga, Westeros dimiliki Anak-anak Hutan dan Manusia Pertama. Bangsa Andal, bangsa Rhoynar, dan runtuhnya Valyria menyiapkan panggung bagi Penaklukan.",
+        "events": [
+          {
+            "t": "Anak-anak Hutan dan Manusia Pertama",
+            "d": "Manusia Pertama menyeberangi Lengan Dorne dan menebangi pohon-pohon heart tree keramat milik Anak-anak Hutan. Setelah berabad-abad berperang, Perjanjian Pulau Wajah memungkinkan kedua bangsa hidup berdampingan."
+          },
+          {
+            "t": "Malam Panjang yang pertama",
+            "d": "Musim dingin tak berkesudahan menimpa dunia dan para White Walker menyerbu dari Utara Jauh. Sang Pahlawan Terakhir memukul mundur mereka dengan bantuan Anak-anak Hutan, yang menurut serialnya telah menciptakan mereka untuk membela diri."
+          },
+          {
+            "t": "Pembangunan Tembok",
+            "d": "Brandon si Pembangun mendirikan Tembok Es, setinggi sekitar 210 meter dan sepanjang 480 kilometer, untuk melindungi kerajaan. Sejak itu Night's Watch menjaga pertahanannya."
+          },
+          {
+            "t": "Invasi bangsa Andal",
+            "d": "Bersenjata besi dan setia kepada Tujuh Dewa, bangsa Andal menyeberangi selat dan menaklukkan hampir seluruh selatan benua. Utara, di bawah raja-raja Stark, melawan mereka dan tetap memegang para dewa lama."
+          },
+          {
+            "t": "Nymeria dan bangsa Rhoynar di Dorne",
+            "d": "Terusir dari tanahnya oleh Valyria, Putri Nymeria membawa kapal-kapal Rhoynar ke Dorne dan menikahi Mors Martell. Sejak itu Dorne mempertahankan adat yang sangat berbeda, seperti hak waris yang setara bagi putri dan putra."
+          },
+          {
+            "t": "Para Targaryen menetap di Dragonstone",
+            "d": "Mengantisipasi bencana, Aenar Targaryen meninggalkan Valyria bersama keluarga dan naga-naganya menuju Pulau Dragonstone. Keputusan ini akan menyelamatkan wangsanya."
+          },
+          {
+            "t": "Bencana Valyria",
+            "d": "Sekitar 114 tahun sebelum Penaklukan, sebuah bencana menghancurkan Valyria yang maha kuasa beserta para penguasa naganya. Para Targaryen adalah salah satu dari sedikit keluarga yang selamat."
+          },
+          {
+            "t": "Westeros sebelum penyatuan",
+            "d": "Benua terbagi menjadi kerajaan-kerajaan yang saling bersaing: Utara, Vale, Kepulauan Besi, Wilayah Sungai, Wilayah Barat, The Reach, Wilayah Badai, dan Dorne. Masing-masing punya raja, perang, dan aliansi yang berubah-ubah."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "Dinasti Targaryen",
+        "period": "Tahun 1 – 283 AC",
+        "intro": "Selama hampir tiga abad, para penguasa naga memerintah dari Takhta Besi. Kejayaan, perang saudara, dan kegilaan mewarnai dinasti mereka.",
+        "events": [
+          {
+            "t": "Penaklukan Aegon (tahun 1 AC)",
+            "d": "Aegon Targaryen dan saudari-saudarinya Visenya dan Rhaenys, menunggangi naga mereka, menundukkan enam dari tujuh kerajaan. Takhta Besi ditempa dari pedang-pedang pihak yang kalah, dilebur oleh api Balerion."
+          },
+          {
+            "t": "Maegor si Kejam dan Red Keep",
+            "d": "Putra Aegon, Maegor I, memerintah dengan teror dan membangun Benteng Maegor, inti dari Red Keep di King's Landing. Masa pemerintahannya tetap menjadi salah satu yang tergelap dalam dinasti ini."
+          },
+          {
+            "t": "Dewan Agung (tahun 101 AC)",
+            "d": "Para lord besar kerajaan memilih Viserys ketimbang sepupunya Rhaenys untuk menggantikan Raja Jaehaerys. Preseden ini akan sangat membebani suksesi berikutnya."
+          },
+          {
+            "t": "Viserys I, Rhaenyra, dan Alicent",
+            "d": "Di bawah pemerintahan Viserys yang damai, istana terpecah antara putrinya Rhaenyra, sang pewaris yang ditunjuk, dan ratu baru Alicent Hightower. Persaingan ini menjadi pertanda perang."
+          },
+          {
+            "t": "Tarian Naga (129–131 AC)",
+            "d": "Saat Viserys wafat, Rhaenyra dan saudara tirinya Aegon II memperebutkan takhta: perang saudara antara Kubu Hitam dan Kubu Hijau, yang dikisahkan dalam House of the Dragon. Banyak naga tewas di dalamnya."
+          },
+          {
+            "t": "Merosotnya para naga",
+            "d": "Setelah Tarian itu, naga-naga mati satu demi satu, karena kurang perawatan dan tak ada telur yang bisa menetas. Naga terakhir mati sekitar tahun 153 AC, dan sihir Targaryen melemah."
+          },
+          {
+            "t": "Dunk & Egg dan Pemberontakan Blackfyre (sekitar 196 AC)",
+            "d": "Daemon Blackfyre, putra haram sang raja, memberontak melawan saudara tirinya, Raja Daeron II, dan kalah dalam Pertempuran Padang Rumput Merah. Pada masa itu, ksatria pengembara Dunk dan pengawalnya Egg menjelajahi jalan-jalan."
+          },
+          {
+            "t": "Aerys II, Raja Gila (262–283 AC)",
+            "d": "Aerys II perlahan tenggelam dalam paranoia dan kekejaman, terpikat pada wildfire. Pemerintahannya memicu pemberontakan para lord terbesar kerajaan."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Pemberontakan Robert",
+        "period": "Tahun 281 – 289 AC",
+        "intro": "Sebuah turnamen, sebuah penculikan, dan seorang raja yang terlalu paranoid: pemberontakan Robert Baratheon mengakhiri dinasti Targaryen dan mengguncang keseimbangan wangsa-wangsa besar.",
+        "events": [
+          {
+            "t": "Turnamen Harrenhal (tahun 281 AC)",
+            "d": "Pangeran Rhaegar Targaryen memahkotai Lyanna Stark sebagai ratu kecantikan, membuat tunangannya Robert Baratheon murka. Peristiwa itu dikenang sebagai pemicu konflik."
+          },
+          {
+            "t": "Lyanna Stark menghilang",
+            "d": "Lyanna diculik, menurut versi resmi, oleh Rhaegar. Ayahnya Rickard dan kakaknya Brandon datang ke King's Landing menuntut keadilan, dan Raja Aerys menghukum mati keduanya."
+          },
+          {
+            "t": "Panji-panji dikibarkan",
+            "d": "Eddard Stark, Robert Baratheon, dan Jon Arryn menolak menuruti Aerys yang menuntut kepala mereka, lalu memanggil para bawahan mereka. Wangsa Tully segera bergabung dengan para pemberontak."
+          },
+          {
+            "t": "Pertempuran Trident",
+            "d": "Di Arung Trident, Robert Baratheon menghadapi dan membunuh Pangeran Rhaegar, pewaris Targaryen, dalam duel satu lawan satu. Kemenangan ini membuka jalan bagi para pemberontak menuju King's Landing."
+          },
+          {
+            "t": "Penjarahan King's Landing",
+            "d": "Tywin Lannister memasukkan pasukannya ke ibu kota, dengan dalih membela sang raja. Jaime Lannister membunuh Aerys untuk mencegahnya membakar kota, dan anak-anak Rhaegar dibantai."
+          },
+          {
+            "t": "Robert dinobatkan menjadi raja",
+            "d": "Robert Baratheon naik ke Takhta Besi dan menikahi Cersei Lannister untuk meneguhkan aliansi dengan wangsa Casterly Rock yang kaya. Ned Stark kembali ke Winterfell."
+          },
+          {
+            "t": "Pengasingan Viserys dan Daenerys",
+            "d": "Para Targaryen terakhir yang masih hidup, anak-anak Viserys dan Daenerys, melarikan diri ke Essos dan hidup berpindah dari satu pengasingan ke pengasingan lain. Daenerys lahir di Dragonstone saat badai melanda pulau itu."
+          },
+          {
+            "t": "Pemberontakan Greyjoy (tahun 289 AC)",
+            "d": "Balon Greyjoy, Raja Kepulauan Besi, mencoba merebut kembali kemerdekaannya. Dihancurkan oleh Robert, pemberontakan itu merenggut nyawa putra-putra sulungnya dan membuat Theon, si bungsu, tumbuh sebagai sandera di keluarga Stark."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "Perang Lima Raja",
+        "period": "Tahun 298 – 300 AC",
+        "intro": "Kematian seorang raja memicu konflik terbesar yang pernah dialami Westeros dalam berabad-abad: lima penuntut takhta saling berhadapan di tengah intrik, pengkhianatan, dan pertempuran.",
+        "events": [
+          {
+            "t": "Ned Stark menjadi Tangan Raja",
+            "d": "Setelah Jon Arryn wafat, Robert meminta sahabat lamanya, Ned, menjadi Tangannya. Di King's Landing, Ned mengungkap rahasia istana, termasuk kebenaran tentang anak-anak sang ratu."
+          },
+          {
+            "t": "Kematian Robert dan hukuman mati Ned",
+            "d": "Sang raja tewas akibat kecelakaan berburu, dan Joffrey naik takhta. Ned ditangkap karena pengkhianatan lalu dipenggal, yang menyeret keluarga Stark ke dalam perang."
+          },
+          {
+            "t": "Lima raja",
+            "d": "Joffrey, Robb Stark, Renly dan Stannis Baratheon, lalu Balon Greyjoy, semuanya memproklamasikan diri sebagai raja. Kerajaan terkoyak oleh aliansi, pengkhianatan, dan pertempuran."
+          },
+          {
+            "t": "Pertempuran Blackwater",
+            "d": "Stannis mengepung King's Landing dari laut, tetapi Tyrion Lannister menyulut sungai dengan wildfire. Kedatangan Tywin dan wangsa Tyrell menyelamatkan kota."
+          },
+          {
+            "t": "Pernikahan Berdarah",
+            "d": "Dalam sebuah pesta pernikahan di kediaman Walder Frey, Robb Stark, ibunya Catelyn, dan sebagian besar pasukannya dibantai. Peristiwa ini termasuk yang paling terkenal dalam seluruh saga."
+          },
+          {
+            "t": "Pernikahan Joffrey dan kematian Tywin",
+            "d": "Joffrey tewas diracun pada pesta pernikahannya sendiri, dan Tyrion dituduh melakukan kejahatan itu. Tyrion kabur dan membunuh ayahnya, Tywin, sehingga wangsa Lannister tanpa pemimpin sejati."
+          },
+          {
+            "t": "Daenerys di Essos",
+            "d": "Daenerys, kini ibu bagi tiga naga, membebaskan para budak di Astapor, Yunkai, dan Meereen. Ia belajar memerintah, sekaligus belajar dengan susah payah tentang batas kekuasaan."
+          },
+          {
+            "t": "Ancaman dari Tembok",
+            "d": "Mance Rayder menghimpun para Wildling di utara Tembok, melarikan diri dari para White Walker. Jon Snow dan Night's Watch mempertahankan Castle Black dalam pertempuran yang menentukan."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "Malam Panjang dan sesudahnya",
+        "period": "Setelah Perang Lima Raja",
+        "intro": "Saat wangsa-wangsa saling mencabik, ancaman sesungguhnya bergerak ke selatan. Perang melawan para mayat, lalu perebutan Takhta Besi, menentukan nasib Westeros.",
+        "events": [
+          {
+            "t": "Jon Snow, Lord Commander",
+            "d": "Terpilih sebagai Lord Commander Night's Watch, Jon membuka Tembok bagi para Wildling. Saudara-saudaranya menikamnya karena dianggap berkhianat, tetapi Melisandre menghidupkannya kembali."
+          },
+          {
+            "t": "Pertempuran Para Bajingan",
+            "d": "Jon dan Sansa merebut kembali Winterfell dari Ramsay Bolton dalam pertempuran yang mengerikan. Jon dinyatakan sebagai Raja di Utara oleh para lord wilayah itu."
+          },
+          {
+            "t": "Cersei menghancurkan Great Sept",
+            "d": "Demi lolos dari pengadilannya, Cersei meledakkan Great Sept of Baelor dengan wildfire, menewaskan musuh-musuhnya. Raja Tommen bunuh diri, dan Cersei memahkotai dirinya sebagai ratu."
+          },
+          {
+            "t": "Daenerys tiba di Westeros",
+            "d": "Daenerys mendarat di Dragonstone bersama naga-naga, pasukan, dan sekutunya. Di sana ia bertemu Jon, yang bersekutu dengannya melawan ancaman dari Utara."
+          },
+          {
+            "t": "Pertempuran Winterfell",
+            "d": "Pihak yang hidup menghadapi pasukan mayat milik Night King. Arya Stark membunuh Night King dan mengakhiri Malam Panjang."
+          },
+          {
+            "t": "Jatuhnya King's Landing",
+            "d": "Daenerys, yang terdorong ke ambang kegilaan oleh kehilangan-kehilangannya, membakar King's Landing dengan naganya meski kota itu sudah menyerah. Kota itu menjadi abu."
+          },
+          {
+            "t": "Akhir hidup Daenerys",
+            "d": "Jon Snow, dengan hati tercabik, menikam Daenerys, dan naga Drogon membawa jasadnya pergi. Tyrion dan para lord Westeros berkumpul untuk memutuskan masa depan kerajaan."
+          },
+          {
+            "t": "Bran si Patah dan Utara yang merdeka",
+            "d": "Bran Stark dipilih untuk memerintah Enam Kerajaan, sementara Utara menjadi merdeka di bawah Ratu Sansa. Jon kembali ke Night's Watch, lalu ke seberang Tembok."
+          }
+        ]
+      }
+    }
+  }
+}

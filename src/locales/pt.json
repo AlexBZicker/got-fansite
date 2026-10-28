@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Português",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "As Sete Coroas",
+    "tagline": "Site de fãs não oficial do universo de Game of Thrones: história de Westeros, casas, personagens e séries.",
+    "spoiler": "As informações apresentadas podem conter spoilers.",
+    "nav": {
+      "histoire": "História",
+      "maisons": "Casas",
+      "personnages": "Personagens",
+      "series": "Séries",
+      "livres": "Livros"
+    },
+    "titles": {
+      "histoire": "A história de Westeros",
+      "maisons": "As Grandes Casas",
+      "personnages": "Personagens",
+      "series": "Séries",
+      "livres": "Os livros",
+      "sources": "Fontes"
+    },
+    "all": "Todos",
+    "nightWatch": "Patrulha da Noite",
+    "redPriestess": "Sacerdotisa vermelha",
+    "language": "Idioma",
+    "rights": "Todos os direitos reservados.",
+    "disclaimer": "Site de fãs não oficial, sem vínculo com a HBO nem com George R. R. Martin. Game of Thrones é uma marca de seus respectivos titulares.",
+    "images": "Imagens (atores, brasões, logotipos): Wikipédia / Wikimedia Commons, licenças livres",
+    "home": "Início",
+    "discover": "Descobrir",
+    "era": "Era",
+    "events": "eventos",
+    "prevEra": "Era anterior",
+    "nextEra": "Próxima era",
+    "allEras": "Todas as eras",
+    "breadcrumb": "Trilha de navegação",
+    "skipToContent": "Ir para o conteúdo",
+    "notFoundTitle": "Página não encontrada",
+    "notFoundText": "Esta página não existe ou foi movida.",
+    "backHome": "Voltar ao início",
+    "ogAlt": "As Sete Coroas — site de fãs de Game of Thrones"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · O Norte",
+      "words": "“O inverno está chegando”",
+      "desc": "Metalobo cinzento sobre campo branco. Casa de honra e dever."
+    },
+    "lannister": {
+      "seat": "Rochedo Casterly · As Terras do Oeste",
+      "words": "“Ouçam-me rugir!”",
+      "desc": "Leão dourado sobre campo carmesim. A mais rica das casas."
+    },
+    "targaryen": {
+      "seat": "Pedra do Dragão / Porto Real",
+      "words": "“Fogo e Sangue”",
+      "desc": "Dragão vermelho de três cabeças sobre campo negro. Dinastia dos senhores dos dragões."
+    },
+    "baratheon": {
+      "seat": "Ponta Tempestade / Pedra do Dragão",
+      "words": "“A fúria é nossa”",
+      "desc": "Cervo coroado negro sobre campo dourado."
+    },
+    "greyjoy": {
+      "seat": "Pyke · As Ilhas de Ferro",
+      "words": "“Nós não semeamos”",
+      "desc": "Kraken dourado sobre campo negro. Povo de saqueadores dos mares."
+    },
+    "martell": {
+      "seat": "Lança do Sol · Dorne",
+      "words": "“Invictos, Inflexíveis, Inquebráveis”",
+      "desc": "Sol e lança. A única casa jamais conquistada pelos dragões."
+    },
+    "tyrell": {
+      "seat": "Jardim de Cima · A Campina",
+      "words": "“Crescendo fortes”",
+      "desc": "Rosa dourada sobre campo verde. Casa fértil e poderosa."
+    },
+    "tully": {
+      "seat": "Correrrio · As Terras Fluviais",
+      "words": "“Família, Dever, Honra”",
+      "desc": "Truta de prata saltitante."
+    },
+    "arryn": {
+      "seat": "Ninho da Águia · O Vale",
+      "words": "“Tão alto quanto a honra”",
+      "desc": "Falcão e lua crescente."
+    }
+  },
+  "chars": {
+    "jon-snow": "Bastardo de Winterfell, irmão juramentado da Patrulha da Noite e depois Rei do Norte.",
+    "daenerys-targaryen": "A Mãe dos Dragões, herdeira exilada do Trono de Ferro.",
+    "tyrion-lannister": "Um Lannister brilhante e cínico, que sobrevive graças à sua inteligência.",
+    "cersei-lannister": "Rainha impiedosa, disposta a tudo para proteger os seus e seu poder.",
+    "jaime-lannister": "O Regicida, cavaleiro cuja honra é posta duramente à prova.",
+    "arya-stark": "A caçula dos Stark que se tornou assassina, com uma lista de nomes a riscar.",
+    "sansa-stark": "De vítima da corte a estrategista política do Norte.",
+    "ned-stark": "Senhor de Winterfell e Mão do Rei, rígido em questões de honra.",
+    "bran-stark": "O Corvo de Três Olhos, memória viva do mundo.",
+    "brienne-de-torth": "Cavaleira leal e feroz, fiel à sua palavra.",
+    "theon-greyjoy": "Pupilo dos Stark dividido entre duas lealdades.",
+    "petyr-baelish": "“Mindinho”, mestre da manipulação.",
+    "stannis-baratheon": "Pretendente obstinado ao trono, duro e rigoroso.",
+    "rhaenyra-targaryen": "Herdeira designada do rei Viserys I.",
+    "daemon-targaryen": "Príncipe guerreiro, imprevisível e leal à sua maneira.",
+    "alicent-hightower": "Rainha e rival de Rhaenyra, figura do lado dos Verdes.",
+    "robb-stark": "Filho mais velho de Ned, proclamado Rei do Norte.",
+    "catelyn-stark": "Esposa de Ned, mãe capaz de tudo por seus filhos.",
+    "joffrey-baratheon": "Jovem rei cruel e caprichoso.",
+    "robert-baratheon": "O rei do Trono de Ferro, vencedor da Rebelião.",
+    "tywin-lannister": "Patriarca do Rochedo Casterly, obcecado pelo legado de sua casa.",
+    "samwell-tarly": "Leitor apaixonado e amigo fiel de Jon.",
+    "davos-mervault": "O Cavaleiro da Cebola, leal conselheiro de Stannis.",
+    "melisandre": "Sacerdotisa do Senhor da Luz.",
+    "sandor-clegane": "O Cão de Caça, guerreiro brutal com um discreto código de honra.",
+    "gregor-clegane": "A Montanha, colosso sanguinário.",
+    "jorah-mormont": "Cavaleiro exilado, fiel conselheiro de Daenerys.",
+    "margaery-tyrell": "Rainha habilidosa que sabe conquistar o povo.",
+    "oberyn-martell": "A Víbora Vermelha de Dorne.",
+    "viserys-targaryen": "Rei pacífico, dividido entre sua família e o reino.",
+    "corlys-velaryon": "A Serpente do Mar, o navegador mais rico de Westeros."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17 abr. 2011 – 19 mai. 2019 · 8 temporadas, 73 episódios",
+      "desc": "Adaptação de A Song of Ice and Fire, de George R. R. Martin, criada por David Benioff e D. B. Weiss."
+    },
+    "hotd": {
+      "tag": "HBO · desde ago. 2022",
+      "desc": "Prequel sobre a guerra civil dos Targaryen, 172 anos antes de GoT. As temporadas 1 (2022), 2 (2024) e 3 (2026) já foram ao ar; a temporada 4, prevista como a última, é esperada para 2028."
+    },
+    "aknight": {
+      "tag": "HBO · desde jan. 2026 · 6 episódios",
+      "desc": "Ser Duncan, o Alto (Peter Claffey), e seu escudeiro Egg (Dexter Sol Ansell), baseada nas novelas de Dunk & Egg. Segunda temporada encomendada, prevista para 2027."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "As Crônicas de Gelo e Fogo",
+      "tag": "George R. R. Martin · desde 1996",
+      "desc": "A saga original: A Guerra dos Tronos, A Fúria dos Reis, A Tormenta de Espadas, O Festim dos Corvos, A Dança dos Dragões. Faltam dois volumes, sem data de lançamento: The Winds of Winter e A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Fogo & Sangue",
+      "tag": "2018",
+      "desc": "História da dinastia Targaryen, base de House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Novelas · 1998–2017",
+      "desc": "As aventuras de Ser Duncan, o Alto, e Egg, um século antes de GoT."
+    },
+    "worldoficeandfire": {
+      "title": "O Mundo de Gelo e Fogo",
+      "tag": "2014",
+      "desc": "Atlas e enciclopédia ilustrada da história de Westeros e Essos."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "As Sete Coroas — Site de fãs de Game of Thrones: história e casas",
+      "description": "Site de fãs não oficial de Game of Thrones: história de Westeros, grandes casas, 31 personagens, séries da HBO e livros. Disponível em 20 idiomas."
+    },
+    "history": {
+      "title": "História de Westeros — Cronologia completa | As Sete Coroas",
+      "description": "Da Era dos Heróis à Longa Noite: 5 eras e 40 eventos para entender a história de Westeros e do Trono de Ferro."
+    },
+    "houses": {
+      "title": "As Grandes Casas de Westeros: Stark, Lannister… | As Sete Coroas",
+      "description": "Lemas, sedes e brasões das 9 grandes casas de Game of Thrones: Stark, Lannister, Targaryen, Baratheon, Greyjoy, Martell, Tyrell, Tully e Arryn."
+    },
+    "characters": {
+      "title": "Personagens de Game of Thrones e House of the Dragon",
+      "description": "31 personagens de Game of Thrones e House of the Dragon: casa, ator ou atriz e retrato, com filtro por casa."
+    },
+    "series": {
+      "title": "Séries: Game of Thrones, House of the Dragon, A Knight…",
+      "description": "Datas de exibição, temporadas e elenco das séries da HBO do universo de Game of Thrones, com os próximos lançamentos."
+    },
+    "books": {
+      "title": "Os livros: As Crônicas de Gelo e Fogo, Fogo & Sangue, Dunk & Egg",
+      "description": "Os romances e novelas de George R. R. Martin que deram origem a Game of Thrones, com a situação dos dois volumes ainda por publicar."
+    }
+  },
+  "history": {
+    "intro": "Da aurora dos tempos à queda do Trono de Ferro: cinco eras para acompanhar a história de Westeros, da lenda dos Primeiros Homens às guerras que redesenharam o reino.",
+    "eras": {
+      "origins": {
+        "name": "Os tempos antigos",
+        "period": "Antes do ano 1 DC",
+        "intro": "Antes dos reis e dos dragões, Westeros pertence aos Filhos da Floresta e aos Primeiros Homens. Os Andais, os Rhoynar e a queda de Valíria preparam o cenário da Conquista.",
+        "events": [
+          {
+            "t": "Os Filhos da Floresta e os Primeiros Homens",
+            "d": "Os Primeiros Homens atravessam o Braço de Dorne e derrubam as sagradas árvores-represeiro dos Filhos da Floresta. Após séculos de guerra, o Pacto da Ilha dos Rostos permite que os dois povos convivam."
+          },
+          {
+            "t": "A primeira Longa Noite",
+            "d": "Um inverno interminável cai sobre o mundo e os Caminhantes Brancos descem do Extremo Norte. O Último Herói os faz recuar com a ajuda dos Filhos da Floresta, que, segundo a série, os haviam criado para se defender."
+          },
+          {
+            "t": "A construção da Muralha",
+            "d": "Brandon, o Construtor, ergue a Muralha de gelo, com cerca de 210 metros de altura e 480 quilômetros de extensão, para proteger o reino. A Patrulha da Noite a defende desde então."
+          },
+          {
+            "t": "A invasão dos Andais",
+            "d": "Armados de ferro e fiéis aos Sete, os Andais cruzam o estreito e conquistam quase todo o sul do continente. O Norte, comandado pelos reis Stark, resiste a eles e conserva os antigos deuses."
+          },
+          {
+            "t": "Nymeria e os Rhoynar em Dorne",
+            "d": "Expulsa de suas terras por Valíria, a princesa Nymeria leva seus navios rhoynar até Dorne e se casa com Mors Martell. Desde então, Dorne preserva costumes bem particulares, como a herança igual entre filhas e filhos."
+          },
+          {
+            "t": "Os Targaryen se instalam em Pedra do Dragão",
+            "d": "Prevendo a catástrofe, Aenar Targaryen deixa Valíria com a família e seus dragões rumo à ilha de Pedra do Dragão. Essa decisão salvará sua casa."
+          },
+          {
+            "t": "A Destruição de Valíria",
+            "d": "Cerca de 114 anos antes da Conquista, uma catástrofe destrói a todo-poderosa Valíria e seus senhores dos dragões. Os Targaryen são uma das poucas famílias que sobrevivem."
+          },
+          {
+            "t": "Westeros antes da unificação",
+            "d": "O continente está dividido em reinos rivais: o Norte, o Vale, as Ilhas de Ferro, as Terras Fluviais, as Terras do Oeste, a Campina, as Terras da Tempestade e Dorne. Cada um tem seus reis, suas guerras e suas alianças mutáveis."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "A dinastia Targaryen",
+        "period": "Anos 1 – 283 DC",
+        "intro": "Por quase três séculos, os senhores dos dragões reinam a partir do Trono de Ferro. Glória, guerras civis e loucura marcam sua dinastia.",
+        "events": [
+          {
+            "t": "A Conquista de Aegon (ano 1 DC)",
+            "d": "Aegon Targaryen e suas irmãs Visenya e Rhaenys, montados em seus dragões, subjugam seis dos sete reinos. O Trono de Ferro é forjado com as espadas dos vencidos, derretidas pelo sopro de Balerion."
+          },
+          {
+            "t": "Maegor, o Cruel, e a Fortaleza Vermelha",
+            "d": "Filho de Aegon, Maegor I reina pelo terror e constrói a Fortaleza de Maegor, núcleo da Fortaleza Vermelha de Porto Real. Seu reinado continua sendo um dos mais sombrios da dinastia."
+          },
+          {
+            "t": "O Grande Conselho (ano 101 DC)",
+            "d": "Os grandes senhores do reino escolhem Viserys, em vez de sua prima Rhaenys, para suceder o rei Jaehaerys. Esse precedente pesará muito na sucessão seguinte."
+          },
+          {
+            "t": "Viserys I, Rhaenyra e Alicent",
+            "d": "Sob o pacífico reinado de Viserys, a corte se divide entre sua filha Rhaenyra, designada herdeira, e a nova rainha Alicent Hightower. Essas rivalidades anunciam a guerra."
+          },
+          {
+            "t": "A Dança dos Dragões (129–131 DC)",
+            "d": "Com a morte de Viserys, Rhaenyra e seu meio-irmão Aegon II disputam o trono: é a guerra civil dos Negros contra os Verdes, contada em House of the Dragon. Muitos dragões perecem nela."
+          },
+          {
+            "t": "O declínio dos dragões",
+            "d": "Depois da Dança, os dragões morrem um após o outro, por falta de cuidados e de ninhadas viáveis. O último se extingue por volta de 153 DC, e a magia dos Targaryen enfraquece."
+          },
+          {
+            "t": "Dunk & Egg e a Rebelião Blackfyre (por volta de 196 DC)",
+            "d": "Daemon Blackfyre, filho bastardo do rei, se rebela contra seu meio-irmão, o rei Daeron II, e perde a batalha do Campo da Relva Vermelha. Nessa época, o cavaleiro errante Dunk e seu escudeiro Egg percorrem as estradas."
+          },
+          {
+            "t": "Aerys II, o Rei Louco (262–283 DC)",
+            "d": "Aerys II afunda aos poucos na paranoia e na crueldade, fascinado pelo fogovivo. Seu reinado leva à revolta dos maiores senhores do reino."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "A Rebelião de Robert",
+        "period": "Anos 281 – 289 DC",
+        "intro": "Um torneio, um sequestro e um rei paranoico demais: a rebelião de Robert Baratheon põe fim à dinastia Targaryen e abala o equilíbrio das grandes casas.",
+        "events": [
+          {
+            "t": "O torneio de Harrenhal (ano 281 DC)",
+            "d": "O príncipe Rhaegar Targaryen coroa Lyanna Stark rainha do amor e da beleza, para grande desgosto de seu noivo, Robert Baratheon. Esse episódio ficou na memória de todos como a centelha do conflito."
+          },
+          {
+            "t": "Lyanna Stark desaparece",
+            "d": "Lyanna é sequestrada, segundo a versão oficial, por Rhaegar. Seu pai Rickard e seu irmão Brandon vão a Porto Real exigir justiça: o rei Aerys manda executar os dois."
+          },
+          {
+            "t": "Os estandartes se erguem",
+            "d": "Eddard Stark, Robert Baratheon e Jon Arryn se recusam a obedecer a Aerys, que exige suas cabeças, e convocam seus vassalos. Os Tully logo se juntam aos rebeldes."
+          },
+          {
+            "t": "A batalha do Tridente",
+            "d": "No vau do Tridente, Robert Baratheon enfrenta o príncipe Rhaegar, herdeiro dos Targaryen, e o mata em combate singular. Essa vitória abre aos rebeldes o caminho para Porto Real."
+          },
+          {
+            "t": "O saque de Porto Real",
+            "d": "Tywin Lannister leva suas tropas para dentro da capital, oficialmente para defender o rei. Jaime Lannister mata Aerys para impedir que ele queime a cidade, e os filhos de Rhaegar são massacrados."
+          },
+          {
+            "t": "Robert coroado rei",
+            "d": "Robert Baratheon sobe ao Trono de Ferro e se casa com Cersei Lannister para selar a aliança com a rica casa de Rochedo Casterly. Ned Stark volta a Winterfell."
+          },
+          {
+            "t": "O exílio de Viserys e Daenerys",
+            "d": "Os últimos Targaryen vivos, as crianças Viserys e Daenerys, fogem para Essos e vivem de exílio em exílio. Daenerys nasceu em Pedra do Dragão durante a tempestade que devastou a ilha."
+          },
+          {
+            "t": "A rebelião Greyjoy (ano 289 DC)",
+            "d": "Balon Greyjoy, rei das Ilhas de Ferro, tenta recuperar a independência. Esmagada por Robert, a rebelião custa a vida de seus filhos mais velhos e faz com que Theon, o caçula, cresça como refém dos Stark."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "A Guerra dos Cinco Reis",
+        "period": "Anos 298 – 300 DC",
+        "intro": "A morte de um rei desencadeia o maior conflito que Westeros conhece em séculos: cinco pretendentes se enfrentam em meio a intrigas, traições e batalhas.",
+        "events": [
+          {
+            "t": "Ned Stark se torna Mão do Rei",
+            "d": "Com a morte de Jon Arryn, Robert pede a seu velho amigo Ned que seja sua Mão. Em Porto Real, Ned descobre os segredos da corte, em especial a verdade sobre os filhos da rainha."
+          },
+          {
+            "t": "A morte de Robert e a execução de Ned",
+            "d": "O rei morre após um acidente de caça, e Joffrey sobe ao trono. Ned é preso por traição e decapitado, o que lança os Stark na guerra."
+          },
+          {
+            "t": "Os cinco reis",
+            "d": "Joffrey, Robb Stark, Renly e Stannis Baratheon e depois Balon Greyjoy se proclamam reis. O reino se dilacera entre alianças, traições e batalhas."
+          },
+          {
+            "t": "A batalha da Água Negra",
+            "d": "Stannis cerca Porto Real pelo mar, mas Tyrion Lannister incendeia o rio com fogovivo. A chegada de Tywin e dos Tyrell salva a cidade."
+          },
+          {
+            "t": "O Casamento Vermelho",
+            "d": "Durante um casamento na casa de Walder Frey, Robb Stark, sua mãe Catelyn e grande parte de seu exército são massacrados. Esse episódio é um dos mais famosos de toda a saga."
+          },
+          {
+            "t": "O casamento de Joffrey e a morte de Tywin",
+            "d": "Joffrey morre envenenado no próprio casamento, e Tyrion é acusado do crime. Tyrion escapa e mata o pai, Tywin, deixando a casa Lannister sem um verdadeiro líder."
+          },
+          {
+            "t": "Daenerys em Essos",
+            "d": "Daenerys, agora mãe de três dragões, liberta os escravizados de Astapor, Yunkai e Meereen. Ela aprende a governar, mas também, à sua custa, os limites do poder."
+          },
+          {
+            "t": "A ameaça da Muralha",
+            "d": "Mance Rayder reúne os selvagens ao norte da Muralha, fugindo dos Caminhantes Brancos. Jon Snow e a Patrulha da Noite defendem Castelo Negro em uma batalha decisiva."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "A Longa Noite e o depois",
+        "period": "Após a Guerra dos Cinco Reis",
+        "intro": "Enquanto as casas se dilaceram, a verdadeira ameaça marcha para o sul. A guerra contra os mortos e, depois, a luta pelo Trono de Ferro selam o destino de Westeros.",
+        "events": [
+          {
+            "t": "Jon Snow, Lorde Comandante",
+            "d": "Eleito Lorde Comandante da Patrulha da Noite, Jon abre a Muralha aos selvagens. Seus irmãos o apunhalam por traição, mas Melisandre o traz de volta à vida."
+          },
+          {
+            "t": "A batalha dos Bastardos",
+            "d": "Jon e Sansa retomam Winterfell de Ramsay Bolton em um confronto terrível. Jon é proclamado Rei do Norte pelos senhores da região."
+          },
+          {
+            "t": "Cersei destrói o Grande Septo",
+            "d": "Para escapar de seu julgamento, Cersei faz explodir o Grande Septo de Baelor com fogovivo, matando seus inimigos. O rei Tommen se suicida, e Cersei se faz coroar rainha."
+          },
+          {
+            "t": "Daenerys chega a Westeros",
+            "d": "Daenerys desembarca em Pedra do Dragão com seus dragões, seu exército e seus aliados. Lá ela conhece Jon, com quem se alia contra a ameaça do Norte."
+          },
+          {
+            "t": "A batalha de Winterfell",
+            "d": "Os vivos enfrentam o exército dos mortos do Rei da Noite. Arya Stark mata o Rei da Noite e põe fim à Longa Noite."
+          },
+          {
+            "t": "A queda de Porto Real",
+            "d": "Daenerys, levada à beira da loucura por suas perdas, queima Porto Real com seu dragão apesar da rendição da cidade. A cidade é reduzida a cinzas."
+          },
+          {
+            "t": "O fim de Daenerys",
+            "d": "Jon Snow, dilacerado, apunhala Daenerys, e o dragão Drogon leva seu corpo. Tyrion e os senhores de Westeros se reúnem para decidir o futuro do reino."
+          },
+          {
+            "t": "Bran, o Quebrado, e o Norte independente",
+            "d": "Bran Stark é escolhido para governar os Seis Reinos, enquanto o Norte se torna independente sob a rainha Sansa. Jon volta à Patrulha da Noite e depois segue para além da Muralha."
+          }
+        ]
+      }
+    }
+  }
+}

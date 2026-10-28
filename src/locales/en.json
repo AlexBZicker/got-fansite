@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "English",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "The Seven Crowns",
+    "tagline": "Unofficial fan site for the Game of Thrones universe: the history of Westeros, houses, characters and series.",
+    "spoiler": "The information presented may contain spoilers.",
+    "nav": {
+      "histoire": "History",
+      "maisons": "Houses",
+      "personnages": "Characters",
+      "series": "Series",
+      "livres": "Books"
+    },
+    "titles": {
+      "histoire": "The History of Westeros",
+      "maisons": "The Great Houses",
+      "personnages": "Characters",
+      "series": "Series",
+      "livres": "The Books",
+      "sources": "Sources"
+    },
+    "all": "All",
+    "nightWatch": "Night's Watch",
+    "redPriestess": "Red Priestess",
+    "language": "Language",
+    "rights": "All rights reserved.",
+    "disclaimer": "Unofficial fan site, not affiliated with HBO or George R. R. Martin. Game of Thrones is a trademark of its respective owners.",
+    "images": "Images (actors, coats of arms, logos): Wikipedia / Wikimedia Commons, free licenses",
+    "home": "Home",
+    "discover": "Discover",
+    "era": "Era",
+    "events": "events",
+    "prevEra": "Previous era",
+    "nextEra": "Next era",
+    "allEras": "All eras",
+    "breadcrumb": "Breadcrumb",
+    "skipToContent": "Skip to content",
+    "notFoundTitle": "Page not found",
+    "notFoundText": "This page does not exist or has been moved.",
+    "backHome": "Back to home",
+    "ogAlt": "The Seven Crowns — Game of Thrones fan site"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · The North",
+      "words": "“Winter Is Coming”",
+      "desc": "Grey direwolf on a white field. House of honor and duty."
+    },
+    "lannister": {
+      "seat": "Casterly Rock · The Westerlands",
+      "words": "“Hear Me Roar!”",
+      "desc": "Golden lion on a crimson field. The wealthiest of the houses."
+    },
+    "targaryen": {
+      "seat": "Dragonstone / King's Landing",
+      "words": "“Fire and Blood”",
+      "desc": "Red three-headed dragon on a black field. Dynasty of the dragonlords."
+    },
+    "baratheon": {
+      "seat": "Storm's End / Dragonstone",
+      "words": "“Ours Is the Fury”",
+      "desc": "Black crowned stag on a golden field."
+    },
+    "greyjoy": {
+      "seat": "Pyke · The Iron Islands",
+      "words": "“We Do Not Sow”",
+      "desc": "Golden kraken on a black field. A people of seaborne raiders."
+    },
+    "martell": {
+      "seat": "Sunspear · Dorne",
+      "words": "“Unbowed, Unbent, Unbroken”",
+      "desc": "Sun and spear. The only house never conquered by the dragons."
+    },
+    "tyrell": {
+      "seat": "Highgarden · The Reach",
+      "words": "“Growing Strong”",
+      "desc": "Golden rose on a green field. A fertile and powerful house."
+    },
+    "tully": {
+      "seat": "Riverrun · The Riverlands",
+      "words": "“Family, Duty, Honor”",
+      "desc": "Leaping silver trout."
+    },
+    "arryn": {
+      "seat": "The Eyrie · The Vale",
+      "words": "“As High as Honor”",
+      "desc": "Falcon and crescent moon."
+    }
+  },
+  "chars": {
+    "jon-snow": "Bastard of Winterfell, sworn brother of the Night's Watch, later King in the North.",
+    "daenerys-targaryen": "The Mother of Dragons, exiled heir to the Iron Throne.",
+    "tyrion-lannister": "A brilliant, cynical Lannister who survives by his wits.",
+    "cersei-lannister": "A ruthless queen who will do anything to protect her own and her power.",
+    "jaime-lannister": "The Kingslayer, a knight whose honor is put to the test.",
+    "arya-stark": "The youngest Stark turned assassin, with a list of names to cross off.",
+    "sansa-stark": "From court victim to political strategist of the North.",
+    "ned-stark": "Lord of Winterfell and Hand of the King, rigid about honor.",
+    "bran-stark": "The Three-Eyed Raven, living memory of the world.",
+    "brienne-de-torth": "A loyal and fierce knight, true to her word.",
+    "theon-greyjoy": "A Stark ward torn between two loyalties.",
+    "petyr-baelish": "“Littlefinger”, master manipulator.",
+    "stannis-baratheon": "A stubborn claimant to the throne, harsh and exacting.",
+    "rhaenyra-targaryen": "Designated heir of King Viserys I.",
+    "daemon-targaryen": "A warrior prince, unpredictable and loyal in his own way.",
+    "alicent-hightower": "Queen and rival of Rhaenyra, a leading figure of the Greens.",
+    "robb-stark": "Ned's eldest son, proclaimed King in the North.",
+    "catelyn-stark": "Ned's wife, a mother who would do anything for her children.",
+    "joffrey-baratheon": "A cruel and capricious young king.",
+    "robert-baratheon": "The king of the Iron Throne, victor of the Rebellion.",
+    "tywin-lannister": "Patriarch of Casterly Rock, obsessed with his house's legacy.",
+    "samwell-tarly": "A passionate reader and Jon's faithful friend.",
+    "davos-mervault": "The Onion Knight, Stannis's loyal advisor.",
+    "melisandre": "Priestess of the Lord of Light.",
+    "sandor-clegane": "The Hound, a brutal warrior with a quiet code of honor.",
+    "gregor-clegane": "The Mountain, a bloodthirsty giant.",
+    "jorah-mormont": "An exiled knight, Daenerys's faithful advisor.",
+    "margaery-tyrell": "A shrewd queen who knows how to win over the people.",
+    "oberyn-martell": "The Red Viper of Dorne.",
+    "viserys-targaryen": "A peaceful king, torn between his family and the realm.",
+    "corlys-velaryon": "The Sea Snake, the richest seafarer in Westeros."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · Apr 17, 2011 – May 19, 2019 · 8 seasons, 73 episodes",
+      "desc": "Adaptation of A Song of Ice and Fire by George R. R. Martin, created by David Benioff and D. B. Weiss."
+    },
+    "hotd": {
+      "tag": "HBO · since Aug 2022",
+      "desc": "Prequel about the Targaryen civil war, 172 years before GoT. Seasons 1 (2022), 2 (2024) and 3 (2026) have aired; season 4, planned as the last, is expected in 2028."
+    },
+    "aknight": {
+      "tag": "HBO · since Jan 2026 · 6 episodes",
+      "desc": "Ser Duncan the Tall (Peter Claffey) and his squire Egg (Dexter Sol Ansell), based on the Dunk & Egg novellas. Season 2 ordered, expected in 2027."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "A Song of Ice and Fire",
+      "tag": "George R. R. Martin · since 1996",
+      "desc": "The original saga: A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. Two volumes remain to be published, with no date: The Winds of Winter and A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Fire & Blood",
+      "tag": "2018",
+      "desc": "History of the Targaryen dynasty, the basis of House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Novellas · 1998–2017",
+      "desc": "The adventures of Ser Duncan the Tall and Egg, a century before GoT."
+    },
+    "worldoficeandfire": {
+      "title": "The World of Ice & Fire",
+      "tag": "2014",
+      "desc": "Atlas and illustrated encyclopedia of the history of Westeros and Essos."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "The Seven Crowns — Game of Thrones Fan Site: History & Houses",
+      "description": "Unofficial Game of Thrones fan site: history of Westeros, great houses, 31 characters, HBO series and books. Available in 20 languages."
+    },
+    "history": {
+      "title": "History of Westeros — Full Timeline | The Seven Crowns",
+      "description": "From the Age of Heroes to the Long Night: 5 eras and 40 events to understand the history of Westeros and the Iron Throne."
+    },
+    "houses": {
+      "title": "The Great Houses of Westeros: Stark, Lannister… | The Seven Crowns",
+      "description": "Words, seats and sigils of the 9 great houses of Game of Thrones: Stark, Lannister, Targaryen, Baratheon, Greyjoy, Martell, Tyrell, Tully and Arryn."
+    },
+    "characters": {
+      "title": "Game of Thrones & House of the Dragon Characters | The Seven Crowns",
+      "description": "31 characters from Game of Thrones and House of the Dragon: house, actor or actress and portrait, filterable by house."
+    },
+    "series": {
+      "title": "Series: Game of Thrones, House of the Dragon, A Knight…",
+      "description": "Air dates, seasons and cast of the HBO series set in the Game of Thrones universe, with upcoming releases."
+    },
+    "books": {
+      "title": "The Books: A Song of Ice and Fire, Fire & Blood, Dunk & Egg",
+      "description": "The novels and novellas by George R. R. Martin behind Game of Thrones, with the status of the two volumes still to come."
+    }
+  },
+  "history": {
+    "intro": "From the dawn of time to the fall of the Iron Throne: five eras tracing the history of Westeros, from the legend of the First Men to the wars that reshaped the realm.",
+    "eras": {
+      "origins": {
+        "name": "The Ancient Times",
+        "period": "Before 1 AC",
+        "intro": "Before kings and dragons, Westeros belongs to the Children of the Forest and the First Men. The Andals, the Rhoynar and the Doom of Valyria set the stage for the Conquest.",
+        "events": [
+          {
+            "t": "The Children of the Forest and the First Men",
+            "d": "The First Men cross the Arm of Dorne and cut down the sacred weirwood trees of the Children of the Forest. After centuries of war, the Pact of the Isle of Faces lets the two peoples live side by side."
+          },
+          {
+            "t": "The First Long Night",
+            "d": "An endless winter falls upon the world and the White Walkers sweep down from the Far North. The Last Hero drives them back with the help of the Children of the Forest, who, according to the series, had created them to defend themselves."
+          },
+          {
+            "t": "The Building of the Wall",
+            "d": "Brandon the Builder raises the Wall of ice, about 210 meters high and 480 kilometers long, to protect the realm. The Night's Watch has defended it ever since."
+          },
+          {
+            "t": "The Andal Invasion",
+            "d": "Armed with iron and faithful to the Seven, the Andals cross the narrow sea and conquer nearly the whole south of the continent. The North, led by the Stark kings, resists them and keeps the old gods."
+          },
+          {
+            "t": "Nymeria and the Rhoynar in Dorne",
+            "d": "Driven from her lands by Valyria, Princess Nymeria leads her Rhoynar ships to Dorne and marries Mors Martell. Dorne has kept its own distinct customs ever since, such as equal inheritance between daughters and sons."
+          },
+          {
+            "t": "The Targaryens settle on Dragonstone",
+            "d": "Foreseeing catastrophe, Aenar Targaryen leaves Valyria with his family and his dragons for the island of Dragonstone. This decision will save his house."
+          },
+          {
+            "t": "The Doom of Valyria",
+            "d": "About 114 years before the Conquest, a catastrophe destroys the all-powerful Valyria and its dragonlords. The Targaryens are one of the few families to survive."
+          },
+          {
+            "t": "Westeros before unification",
+            "d": "The continent is divided into rival kingdoms: the North, the Vale, the Iron Islands, the Riverlands, the Westerlands, the Reach, the Stormlands and Dorne. Each has its own kings, wars and shifting alliances."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "The Targaryen Dynasty",
+        "period": "1 – 283 AC",
+        "intro": "For nearly three centuries, the dragonlords rule from the Iron Throne. Glory, civil wars and madness mark their dynasty.",
+        "events": [
+          {
+            "t": "Aegon's Conquest (1 AC)",
+            "d": "Aegon Targaryen and his sisters Visenya and Rhaenys, riding their dragons, subdue six of the seven kingdoms. The Iron Throne is forged from the swords of the conquered, melted by Balerion's breath."
+          },
+          {
+            "t": "Maegor the Cruel and the Red Keep",
+            "d": "Aegon's son, Maegor I, rules through terror and builds Maegor's Holdfast, the core of the Red Keep in King's Landing. His reign remains one of the darkest of the dynasty."
+          },
+          {
+            "t": "The Great Council (101 AC)",
+            "d": "The realm's great lords choose Viserys over his cousin Rhaenys to succeed King Jaehaerys. This precedent will weigh heavily on the next succession."
+          },
+          {
+            "t": "Viserys I, Rhaenyra and Alicent",
+            "d": "Under Viserys's peaceful reign, the court splits between his daughter Rhaenyra, named heir, and the new queen Alicent Hightower. These rivalries foreshadow war."
+          },
+          {
+            "t": "The Dance of the Dragons (129–131 AC)",
+            "d": "When Viserys dies, Rhaenyra and her half-brother Aegon II fight over the throne: the civil war of the Blacks against the Greens, told in House of the Dragon. Many dragons perish."
+          },
+          {
+            "t": "The decline of the dragons",
+            "d": "After the Dance, the dragons die one after another, for lack of care and viable clutches. The last dies around 153 AC, and Targaryen magic wanes."
+          },
+          {
+            "t": "Dunk & Egg and the Blackfyre Rebellion (around 196 AC)",
+            "d": "Daemon Blackfyre, the king's bastard son, rebels against his half-brother, King Daeron II, and loses the battle of the Redgrass Field. In those days, the hedge knight Dunk and his squire Egg roam the roads."
+          },
+          {
+            "t": "Aerys II, the Mad King (262–283 AC)",
+            "d": "Aerys II sinks little by little into paranoia and cruelty, fascinated by wildfire. His reign leads to the revolt of the realm's greatest lords."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Robert's Rebellion",
+        "period": "281 – 289 AC",
+        "intro": "A tournament, an abduction and a king too paranoid: Robert Baratheon's rebellion ends the Targaryen dynasty and upends the balance among the great houses.",
+        "events": [
+          {
+            "t": "The Tourney at Harrenhal (281 AC)",
+            "d": "Prince Rhaegar Targaryen crowns Lyanna Stark queen of love and beauty, much to the dismay of her betrothed, Robert Baratheon. This episode is remembered by all as the spark of the conflict."
+          },
+          {
+            "t": "Lyanna Stark disappears",
+            "d": "Lyanna is abducted by Rhaegar, according to the official version. Her father Rickard and her brother Brandon come to King's Landing to demand justice: King Aerys has them both executed."
+          },
+          {
+            "t": "The banners are raised",
+            "d": "Eddard Stark, Robert Baratheon and Jon Arryn refuse to obey Aerys, who demands their heads, and call their bannermen. The Tullys soon join the rebels."
+          },
+          {
+            "t": "The Battle of the Trident",
+            "d": "At the ford of the Trident, Robert Baratheon faces Prince Rhaegar, heir of the Targaryens, and kills him in single combat. This victory opens the road to King's Landing for the rebels."
+          },
+          {
+            "t": "The Sack of King's Landing",
+            "d": "Tywin Lannister brings his troops into the capital, officially to defend the king. Jaime Lannister kills Aerys to stop him from burning the city, and Rhaegar's children are slaughtered."
+          },
+          {
+            "t": "Robert crowned king",
+            "d": "Robert Baratheon takes the Iron Throne and marries Cersei Lannister to seal the alliance with the wealthy House of Casterly Rock. Ned Stark returns to Winterfell."
+          },
+          {
+            "t": "The exile of Viserys and Daenerys",
+            "d": "The last living Targaryens, the children Viserys and Daenerys, flee to Essos and live from exile to exile. Daenerys was born on Dragonstone during the storm that ravaged the island."
+          },
+          {
+            "t": "The Greyjoy Rebellion (289 AC)",
+            "d": "Balon Greyjoy, king of the Iron Islands, tries to win back his independence. Crushed by Robert, the rebellion costs the lives of his eldest sons and means that Theon, his youngest, grows up as a hostage of the Starks."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "The War of the Five Kings",
+        "period": "298 – 300 AC",
+        "intro": "A king's death sets off the greatest conflict Westeros has known in centuries: five claimants clash amid intrigue, betrayal and battle.",
+        "events": [
+          {
+            "t": "Ned Stark becomes Hand of the King",
+            "d": "When Jon Arryn dies, Robert asks his old friend Ned to become his Hand. In King's Landing, Ned uncovers the secrets of the court, notably the truth about the queen's children."
+          },
+          {
+            "t": "The death of Robert and the execution of Ned",
+            "d": "The king dies after a hunting accident, and Joffrey takes the throne. Ned is arrested for treason and beheaded, plunging the Starks into war."
+          },
+          {
+            "t": "The five kings",
+            "d": "Joffrey, Robb Stark, Renly and Stannis Baratheon, then Balon Greyjoy all proclaim themselves king. The realm tears itself apart through alliances, betrayals and battles."
+          },
+          {
+            "t": "The Battle of the Blackwater",
+            "d": "Stannis besieges King's Landing by sea, but Tyrion Lannister sets the river ablaze with wildfire. The arrival of Tywin and the Tyrells saves the city."
+          },
+          {
+            "t": "The Red Wedding",
+            "d": "At a wedding hosted by Walder Frey, Robb Stark, his mother Catelyn and much of his army are slaughtered. This episode is one of the most famous of the whole saga."
+          },
+          {
+            "t": "Joffrey's wedding and the death of Tywin",
+            "d": "Joffrey is poisoned at his own wedding, and Tyrion is accused of the crime. Tyrion escapes and kills his father Tywin, leaving House Lannister without a real leader."
+          },
+          {
+            "t": "Daenerys in Essos",
+            "d": "Daenerys, now mother of three dragons, frees the slaves of Astapor, Yunkai and Meereen. She learns to rule, but also, at her own expense, the limits of power."
+          },
+          {
+            "t": "The threat from the Wall",
+            "d": "Mance Rayder gathers the wildlings north of the Wall, fleeing the White Walkers. Jon Snow and the Night's Watch defend Castle Black in a decisive battle."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "The Long Night and Beyond",
+        "period": "After the War of the Five Kings",
+        "intro": "While the houses tear each other apart, the true threat marches south. The war against the dead, then the struggle for the Iron Throne, seal the fate of Westeros.",
+        "events": [
+          {
+            "t": "Jon Snow, Lord Commander",
+            "d": "Elected Lord Commander of the Night's Watch, Jon opens the Wall to the wildlings. His brothers stab him for treason, but Melisandre brings him back to life."
+          },
+          {
+            "t": "The Battle of the Bastards",
+            "d": "Jon and Sansa retake Winterfell from Ramsay Bolton in a terrible clash. Jon is proclaimed King in the North by the region's lords."
+          },
+          {
+            "t": "Cersei destroys the Great Sept",
+            "d": "To escape her trial, Cersei blows up the Great Sept of Baelor with wildfire, killing her enemies. King Tommen takes his own life, and Cersei has herself crowned queen."
+          },
+          {
+            "t": "Daenerys arrives in Westeros",
+            "d": "Daenerys lands on Dragonstone with her dragons, her army and her allies. There she meets Jon, with whom she allies against the threat from the North."
+          },
+          {
+            "t": "The Battle of Winterfell",
+            "d": "The living face the Night King's army of the dead. Arya Stark kills the Night King and ends the Long Night."
+          },
+          {
+            "t": "The fall of King's Landing",
+            "d": "Daenerys, driven to the brink of madness by her losses, burns King's Landing with her dragon despite the city's surrender. The city is reduced to ashes."
+          },
+          {
+            "t": "The end of Daenerys",
+            "d": "Jon Snow, torn, stabs Daenerys, and the dragon Drogon carries off her body. Tyrion and the lords of Westeros gather to decide the future of the realm."
+          },
+          {
+            "t": "Bran the Broken and the independent North",
+            "d": "Bran Stark is chosen to rule the Six Kingdoms, while the North becomes independent under Queen Sansa. Jon returns to the Night's Watch, then goes beyond the Wall."
+          }
+        ]
+      }
+    }
+  }
+}

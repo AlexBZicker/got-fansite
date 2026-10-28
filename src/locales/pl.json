@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Polski",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Siedem Koron",
+    "tagline": "Nieoficjalna strona fanów uniwersum Game of Thrones: historia Westeros, rody, postaci i seriale.",
+    "spoiler": "Prezentowane informacje mogą zawierać spoilery.",
+    "nav": {
+      "histoire": "Historia",
+      "maisons": "Rody",
+      "personnages": "Postaci",
+      "series": "Seriale",
+      "livres": "Książki"
+    },
+    "titles": {
+      "histoire": "Historia Westeros",
+      "maisons": "Wielkie Rody",
+      "personnages": "Postaci",
+      "series": "Seriale",
+      "livres": "Książki",
+      "sources": "Źródła"
+    },
+    "all": "Wszystkie",
+    "nightWatch": "Nocna Straż",
+    "redPriestess": "Czerwona kapłanka",
+    "language": "Język",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "disclaimer": "Nieoficjalna strona fanów, niezwiązana z HBO ani z George'em R. R. Martinem. Game of Thrones jest znakiem towarowym jego właścicieli.",
+    "images": "Obrazy (aktorzy, herby, logotypy): Wikipedia / Wikimedia Commons, wolne licencje",
+    "home": "Strona główna",
+    "discover": "Odkryj",
+    "era": "Epoka",
+    "events": "wydarzenia",
+    "prevEra": "Poprzednia epoka",
+    "nextEra": "Następna epoka",
+    "allEras": "Wszystkie epoki",
+    "breadcrumb": "Ścieżka nawigacji",
+    "skipToContent": "Przejdź do treści",
+    "notFoundTitle": "Nie znaleziono strony",
+    "notFoundText": "Ta strona nie istnieje lub została przeniesiona.",
+    "backHome": "Powrót na stronę główną",
+    "ogAlt": "Siedem Koron – fanowska strona o Grze o tron"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · Północ",
+      "words": "„Nadchodzi zima”",
+      "desc": "Szary wilkor na białym tle. Ród honoru i obowiązku."
+    },
+    "lannister": {
+      "seat": "Casterly Rock · Zachodnie Ziemie",
+      "words": "„Słuchajcie mnie, jak ryczę!”",
+      "desc": "Złoty lew na czerwonym tle. Najbogatszy z rodów."
+    },
+    "targaryen": {
+      "seat": "Smocza Skała / Królewska Przystań",
+      "words": "„Ogień i krew”",
+      "desc": "Czerwony trzygłowy smok na czarnym tle. Dynastia władców smoków."
+    },
+    "baratheon": {
+      "seat": "Koniec Burzy / Smocza Skała",
+      "words": "„Nasza jest furia”",
+      "desc": "Czarny koronowany jeleń na złotym tle."
+    },
+    "greyjoy": {
+      "seat": "Pyke · Żelazne Wyspy",
+      "words": "„My nie siejemy”",
+      "desc": "Złoty kraken na czarnym tle. Lud morskich grabieżców."
+    },
+    "martell": {
+      "seat": "Słoneczna Włócznia · Dorne",
+      "words": "„Niezachwiani, niezgięci, niezłamani”",
+      "desc": "Słońce i włócznia. Jedyny ród, którego smoki nigdy nie podbiły."
+    },
+    "tyrell": {
+      "seat": "Wysogród · Reach",
+      "words": "„Rośniemy w siłę”",
+      "desc": "Złota róża na zielonym tle. Płodny i potężny ród."
+    },
+    "tully": {
+      "seat": "Riverrun · Ziemie Rzeczne",
+      "words": "„Rodzina, obowiązek, honor”",
+      "desc": "Skaczący srebrny pstrąg."
+    },
+    "arryn": {
+      "seat": "Orle Gniazdo · Dolina",
+      "words": "„Wysoko jak honor”",
+      "desc": "Sokół i półksiężyc."
+    }
+  },
+  "chars": {
+    "jon-snow": "Bękart z Winterfell, przysięgły brat Nocnej Straży, później Król Północy.",
+    "daenerys-targaryen": "Matka Smoków, wygnana dziedziczka Żelaznego Tronu.",
+    "tyrion-lannister": "Błyskotliwy i cyniczny Lannister, który przeżywa dzięki swojemu rozumowi.",
+    "cersei-lannister": "Bezlitosna królowa, gotowa na wszystko, by chronić swoich bliskich i swoją władzę.",
+    "jaime-lannister": "Królobójca, rycerz, którego honor zostaje wystawiony na ciężką próbę.",
+    "arya-stark": "Młodsza córka Starków, która została zabójczynią, z listą nazwisk do wykreślenia.",
+    "sansa-stark": "Od ofiary dworu do politycznej strateżki Północy.",
+    "ned-stark": "Lord Winterfell i Namiestnik Króla, nieugięty w sprawach honoru.",
+    "bran-stark": "Trójoki Kruk, żywa pamięć świata.",
+    "brienne-de-torth": "Lojalna i nieustraszona rycerka, wierna swojemu słowu.",
+    "theon-greyjoy": "Podopieczny Starków, rozdarty między dwiema lojalnościami.",
+    "petyr-baelish": "„Littlefinger”, mistrz manipulacji.",
+    "stannis-baratheon": "Uparty pretendent do tronu, twardy i surowy.",
+    "rhaenyra-targaryen": "Wyznaczona dziedziczka króla Viserysa I.",
+    "daemon-targaryen": "Książę wojownik, nieprzewidywalny i na swój sposób lojalny.",
+    "alicent-hightower": "Królowa i rywalka Rhaenyry, twarz obozu Zielonych.",
+    "robb-stark": "Najstarszy syn Neda, ogłoszony Królem Północy.",
+    "catelyn-stark": "Żona Neda, matka gotowa na wszystko dla swoich dzieci.",
+    "joffrey-baratheon": "Okrutny i kapryśny młody król.",
+    "robert-baratheon": "Król na Żelaznym Tronie, zwycięzca Buntu.",
+    "tywin-lannister": "Patriarcha Casterly Rock, owładnięty dziedzictwem swojego rodu.",
+    "samwell-tarly": "Zapalony czytelnik i wierny przyjaciel Jona.",
+    "davos-mervault": "Cebulowy Rycerz, lojalny doradca Stannisa.",
+    "melisandre": "Kapłanka Pana Światła.",
+    "sandor-clegane": "Ogar, brutalny wojownik z dyskretnym kodeksem honorowym.",
+    "gregor-clegane": "Góra, krwiożerczy kolos.",
+    "jorah-mormont": "Wygnany rycerz, wierny doradca Daenerys.",
+    "margaery-tyrell": "Zręczna królowa, która potrafi zdobyć lud.",
+    "oberyn-martell": "Czerwona Żmija z Dorne.",
+    "viserys-targaryen": "Pokojowy król, rozdarty między rodziną a królestwem.",
+    "corlys-velaryon": "Morski Wąż, najbogatszy żeglarz Westeros."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17 kwi 2011 – 19 maja 2019 · 8 sezonów, 73 odcinki",
+      "desc": "Adaptacja Pieśni Lodu i Ognia George'a R. R. Martina, stworzona przez Davida Benioffa i D. B. Weissa."
+    },
+    "hotd": {
+      "tag": "HBO · od sierp. 2022",
+      "desc": "Prequel o wojnie domowej Targaryenów, 172 lata przed GoT. Wyemitowano sezony 1 (2022), 2 (2024) i 3 (2026); sezon 4, planowany jako ostatni, jest oczekiwany w 2028 roku."
+    },
+    "aknight": {
+      "tag": "HBO · od stycz. 2026 · 6 odcinków",
+      "desc": "Ser Duncan Wysoki (Peter Claffey) i jego giermek Egg (Dexter Sol Ansell), na podstawie opowiadań o Dunku i Eggu. Zamówiono sezon 2, oczekiwany w 2027 roku."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "Pieśń Lodu i Ognia",
+      "tag": "George R. R. Martin · od 1996",
+      "desc": "Oryginalna saga (A Song of Ice and Fire): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. Dwa tomy wciąż czekają na publikację, bez daty: The Winds of Winter i A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Ogień i krew",
+      "tag": "2018",
+      "desc": "Historia dynastii Targaryenów, podstawa House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Opowiadania · 1998–2017",
+      "desc": "Przygody Sera Duncana Wysokiego i Egga, sto lat przed GoT."
+    },
+    "worldoficeandfire": {
+      "title": "Świat Lodu i Ognia",
+      "tag": "2014",
+      "desc": "Atlas i ilustrowana encyklopedia historii Westeros i Essos."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Siedem Koron – fanowska strona o Game of Thrones: historia, rody",
+      "description": "Nieoficjalna fanowska strona o Game of Thrones: historia Westeros, wielkie rody, 31 postaci, seriale HBO i książki. Dostępna w 20 językach."
+    },
+    "history": {
+      "title": "Historia Westeros – pełna chronologia | Siedem Koron",
+      "description": "Od Wieku Herosów po Długą Noc: 5 epok i 40 wydarzeń, dzięki którym zrozumiesz historię Westeros i Żelaznego Tronu."
+    },
+    "houses": {
+      "title": "Wielkie rody Westeros: Stark, Lannister, Targaryen | Siedem Koron",
+      "description": "Dewizy, siedziby i herby 9 wielkich rodów z Game of Thrones: Starków, Lannisterów, Targaryenów, Baratheonów, Greyjoyów, Martellów, Tyrellów, Tullych i Arrynów."
+    },
+    "characters": {
+      "title": "Postacie z Game of Thrones i House of the Dragon | Siedem Koron",
+      "description": "31 postaci z Game of Thrones i House of the Dragon: ród, aktor lub aktorka i portret, z filtrowaniem według rodu."
+    },
+    "series": {
+      "title": "Seriale — Game of Thrones | Siedem Koron",
+      "description": "Daty emisji, sezony i obsada seriali HBO ze świata Game of Thrones, wraz z nadchodzącymi premierami."
+    },
+    "books": {
+      "title": "Książki: Pieśń Lodu i Ognia, Ogień i krew, Dunk & Egg | Siedem Koron",
+      "description": "Powieści i opowiadania George'a R. R. Martina, na których opiera się Game of Thrones, wraz ze statusem dwóch tomów, które wciąż się nie ukazały."
+    }
+  },
+  "history": {
+    "intro": "Od zarania dziejów po upadek Żelaznego Tronu: pięć epok, by prześledzić historię Westeros, od legendy o Pierwszych Ludziach po wojny, które na nowo ukształtowały królestwo.",
+    "eras": {
+      "origins": {
+        "name": "Dawne czasy",
+        "period": "Przed rokiem 1 p.p.",
+        "intro": "Zanim pojawili się królowie i smoki, Westeros należy do Dzieci Lasu i Pierwszych Ludzi. Andalowie, Rhoynarowie i upadek Valyrii szykują scenę pod Podbój.",
+        "events": [
+          {
+            "t": "Dzieci Lasu i Pierwsi Ludzie",
+            "d": "Pierwsi Ludzie przekraczają Ramię Dorne i ścinają święte czardrzewa Dzieci Lasu. Po wiekach wojny Pakt Wyspy Twarzy pozwala obu ludom żyć obok siebie."
+          },
+          {
+            "t": "Pierwsza Długa Noc",
+            "d": "Nieskończona zima zapada nad światem, a Biali Wędrowcy zalewają kraj z dalekiej Północy. Ostatni Bohater odpiera ich z pomocą Dzieci Lasu, które według serialu stworzyły ich niegdyś, by się bronić."
+          },
+          {
+            "t": "Budowa Muru",
+            "d": "Brandon Budowniczy wznosi Mur z lodu, wysoki na około 210 metrów i długi na 480 kilometrów, by chronić królestwo. Od tamtej pory strzeże go Straż Nocy."
+          },
+          {
+            "t": "Inwazja Andalów",
+            "d": "Uzbrojeni w żelazo i wierni Siedmiu Andalowie przekraczają cieśninę i podbijają niemal całe południe kontynentu. Północ pod rządami królów z rodu Starków stawia im opór i zachowuje dawnych bogów."
+          },
+          {
+            "t": "Nymeria i Rhoynarowie w Dorne",
+            "d": "Wygnana ze swych ziem przez Valyrię księżniczka Nymeria prowadzi rhoynarskie okręty do Dorne i poślubia Morsa Martella. Dorne od tamtej pory zachowuje zupełnie odrębne zwyczaje, takie jak równe prawo dziedziczenia córek i synów."
+          },
+          {
+            "t": "Targaryenowie osiedlają się na Smoczej Skale",
+            "d": "Przewidując katastrofę, Aenar Targaryen opuszcza Valyrię z rodziną i smokami i przenosi się na wyspę Smocza Skała. Ta decyzja ratuje jego ród."
+          },
+          {
+            "t": "Zagłada Valyrii",
+            "d": "Około 114 lat przed Podbojem katastrofa niszczy potężną Valyrię i jej smoczych panów. Targaryenowie są jedną z nielicznych rodzin, które przeżyły."
+          },
+          {
+            "t": "Westeros przed zjednoczeniem",
+            "d": "Kontynent jest podzielony na rywalizujące królestwa: Północ, Dolinę, Żelazne Wyspy, Ziemie Rzeczne, Zachodnie Ziemie, Reach, Krainę Burzy i Dorne. Każde ma własnych królów, wojny i zmienne sojusze."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "Dynastia Targaryenów",
+        "period": "Rok 1 – 283 p.p.",
+        "intro": "Przez blisko trzy stulecia smoczy władcy rządzą z Żelaznego Tronu. Chwała, wojny domowe i szaleństwo znaczą ich dynastię.",
+        "events": [
+          {
+            "t": "Podbój Aegona (rok 1 p.p.)",
+            "d": "Aegon Targaryen i jego siostry Visenya i Rhaenys, dosiadając smoków, podporządkowują sześć z siedmiu królestw. Żelazny Tron zostaje wykuty z mieczy pokonanych, stopionych ogniem Balerona."
+          },
+          {
+            "t": "Maegor Okrutny i Czerwona Twierdza",
+            "d": "Maegor I, syn Aegona, rządzi terrorem i buduje Twierdzę Maegora, jądro Czerwonej Twierdzy w Królewskiej Przystani. Jego panowanie pozostaje jednym z najmroczniejszych w dziejach dynastii."
+          },
+          {
+            "t": "Wielka Rada (rok 101 p.p.)",
+            "d": "Najpotężniejsi lordowie królestwa wybierają Viserysa zamiast jego kuzynki Rhaenys na następcę króla Jaehaerysa. Ten precedens ciężko zaważy na kolejnej sukcesji."
+          },
+          {
+            "t": "Viserys I, Rhaenyra i Alicent",
+            "d": "Za pokojowych rządów Viserysa dwór dzieli się między jego córkę Rhaenyrę, wyznaczoną na dziedziczkę, a nową królową Alicent Hightower. Ta rywalizacja zwiastuje wojnę."
+          },
+          {
+            "t": "Taniec Smoków (129–131 p.p.)",
+            "d": "Po śmierci Viserysa Rhaenyra i jej przyrodni brat Aegon II walczą o tron: to wojna domowa Czarnych z Zielonymi, opowiedziana w House of the Dragon. Ginie w niej wiele smoków."
+          },
+          {
+            "t": "Upadek smoków",
+            "d": "Po Tańcu smoki umierają jeden po drugim z braku opieki i zdolnych do życia lęgów. Ostatni gaśnie około 153 p.p., a magia Targaryenów słabnie."
+          },
+          {
+            "t": "Dunk & Egg i Bunt Blackfyre'ów (ok. 196 p.p.)",
+            "d": "Daemon Blackfyre, bękarci syn króla, buntuje się przeciw przyrodniemu bratu, królowi Daeronowi II, i przegrywa bitwę na Czerwonej Łące. W tym czasie wędrowny rycerz Dunk i jego giermek Egg przemierzają drogi."
+          },
+          {
+            "t": "Aerys II, Szalony Król (262–283 p.p.)",
+            "d": "Aerys II stopniowo pogrąża się w paranoi i okrucieństwie, zafascynowany dzikim ogniem. Jego rządy prowadzą do buntu największych lordów królestwa."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Bunt Roberta",
+        "period": "Rok 281 – 289 p.p.",
+        "intro": "Turniej, porwanie i król zbyt paranoiczny: bunt Roberta Baratheona kładzie kres dynastii Targaryenów i wywraca równowagę wielkich rodów.",
+        "events": [
+          {
+            "t": "Turniej w Harrenhal (rok 281 p.p.)",
+            "d": "Książę Rhaegar Targaryen koronuje Lyannę Stark na królową piękności, ku wielkiemu niezadowoleniu jej narzeczonego Roberta Baratheona. Ten epizod zapisał się w pamięci wszystkich jako iskra konfliktu."
+          },
+          {
+            "t": "Lyanna Stark znika",
+            "d": "Lyanna zostaje według oficjalnej wersji porwana przez Rhaegara. Jej ojciec Rickard i brat Brandon przybywają do Królewskiej Przystani domagać się sprawiedliwości: król Aerys każe stracić ich obu."
+          },
+          {
+            "t": "Chorągwie idą w górę",
+            "d": "Eddard Stark, Robert Baratheon i Jon Arryn odmawiają posłuszeństwa Aerysowi, który żąda ich głów, i wzywają swoich chorążych do broni. Tullych wkrótce dołączają do buntowników."
+          },
+          {
+            "t": "Bitwa nad Trójzębem",
+            "d": "Na brodzie Trójzęba Robert Baratheon staje naprzeciw księcia Rhaegara, dziedzica Targaryenów, i zabija go w pojedynku. To zwycięstwo otwiera buntownikom drogę do Królewskiej Przystani."
+          },
+          {
+            "t": "Splądrowanie Królewskiej Przystani",
+            "d": "Tywin Lannister wprowadza swoje wojska do stolicy, oficjalnie by bronić króla. Jaime Lannister zabija Aerysa, by powstrzymać go przed spaleniem miasta, a dzieci Rhaegara zostają wymordowane."
+          },
+          {
+            "t": "Robert koronowany na króla",
+            "d": "Robert Baratheon zasiada na Żelaznym Tronie i żeni się z Cersei Lannister, by przypieczętować sojusz z bogatym rodem z Casterly Rock. Ned Stark wraca do Winterfell."
+          },
+          {
+            "t": "Wygnanie Viserysa i Daenerys",
+            "d": "Ostatni żyjący Targaryenowie, dzieci Viserys i Daenerys, uciekają do Essos i żyją od wygnania do wygnania. Daenerys przychodzi na świat na Smoczej Skale podczas burzy, która pustoszy wyspę."
+          },
+          {
+            "t": "Bunt Greyjoyów (rok 289 p.p.)",
+            "d": "Balon Greyjoy, król Żelaznych Wysp, próbuje odzyskać niepodległość. Zgnieciony przez Roberta bunt kosztuje życie jego starszych synów, a Theon, najmłodszy, dorasta jako zakładnik u Starków."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "Wojna Pięciu Królów",
+        "period": "Rok 298 – 300 p.p.",
+        "intro": "Śmierć króla wywołuje największy konflikt, jaki Westeros widziało od wieków: pięciu pretendentów walczy ze sobą pośród intryg, zdrad i bitew.",
+        "events": [
+          {
+            "t": "Ned Stark zostaje Namiestnikiem Króla",
+            "d": "Po śmierci Jona Arryna Robert prosi starego przyjaciela Neda, by został jego Namiestnikiem. W Królewskiej Przystani Ned odkrywa sekrety dworu, w tym prawdę o dzieciach królowej."
+          },
+          {
+            "t": "Śmierć Roberta i egzekucja Neda",
+            "d": "Król umiera po wypadku na polowaniu, a na tron wstępuje Joffrey. Ned zostaje aresztowany za zdradę i ścięty, co pogrąża Starków w wojnie."
+          },
+          {
+            "t": "Pięciu królów",
+            "d": "Joffrey, Robb Stark, Renly i Stannis Baratheonowie, a następnie Balon Greyjoy, wszyscy ogłaszają się królami. Królestwo rozrywają sojusze, zdrady i bitwy."
+          },
+          {
+            "t": "Bitwa nad Czarną Wodą",
+            "d": "Stannis oblega Królewską Przystań od strony morza, ale Tyrion Lannister podpala rzekę dzikim ogniem. Przybycie Tywina i Tyrellów ratuje miasto."
+          },
+          {
+            "t": "Czerwone Wesele",
+            "d": "Podczas wesela w zamku Waldera Freya Robb Stark, jego matka Catelyn i znaczna część jego armii zostają wymordowani. Ten epizod należy do najsłynniejszych w całej sadze."
+          },
+          {
+            "t": "Ślub Joffreya i śmierć Tywina",
+            "d": "Joffrey umiera otruty na własnym weselu, a o zbrodnię oskarżony zostaje Tyrion. Tyrion ucieka i zabija swojego ojca Tywina, pozostawiając ród Lannisterów bez prawdziwego przywódcy."
+          },
+          {
+            "t": "Daenerys w Essos",
+            "d": "Daenerys, matka już trzech smoków, wyzwala niewolników z Astaporu, Yunkai i Meereen. Uczy się rządzić, ale też, na własnej skórze, poznaje granice władzy."
+          },
+          {
+            "t": "Zagrożenie przy Murze",
+            "d": "Mance Rayder gromadzi dzikich na północ od Muru, uciekających przed Białymi Wędrowcami. Jon Snow i Straż Nocy bronią Czarnego Zamku w decydującej bitwie."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "Długa Noc i co po niej",
+        "period": "Po Wojnie Pięciu Królów",
+        "intro": "Gdy rody rozrywają się nawzajem, prawdziwe zagrożenie maszeruje na południe. Wojna z umarłymi, a potem walka o Żelazny Tron przypieczętowują los Westeros.",
+        "events": [
+          {
+            "t": "Jon Snow, Lord Dowódca",
+            "d": "Wybrany na Lorda Dowódcę Straży Nocy, Jon otwiera Mur dla dzikich. Jego bracia dźgają go nożami za zdradę, ale Melisandre przywraca go do życia."
+          },
+          {
+            "t": "Bitwa Bękartów",
+            "d": "Jon i Sansa odbijają Winterfell z rąk Ramsaya Boltona w straszliwej walce. Lordowie regionu ogłaszają Jona Królem Północy."
+          },
+          {
+            "t": "Cersei niszczy Wielką Septę",
+            "d": "Aby uniknąć procesu, Cersei wysadza w powietrze Wielką Septę Baelora dzikim ogniem, zabijając swoich wrogów. Król Tommen popełnia samobójstwo, a Cersei każe się koronować na królową."
+          },
+          {
+            "t": "Daenerys przybywa do Westeros",
+            "d": "Daenerys ląduje na Smoczej Skale ze swoimi smokami, armią i sojusznikami. Spotyka tam Jona, z którym sprzymierza się przeciw zagrożeniu z Północy."
+          },
+          {
+            "t": "Bitwa o Winterfell",
+            "d": "Żywi stają naprzeciw armii umarłych Króla Nocy. Arya Stark zabija Króla Nocy i kończy Długą Noc."
+          },
+          {
+            "t": "Upadek Królewskiej Przystani",
+            "d": "Daenerys, doprowadzona stratami na skraj szaleństwa, spala Królewską Przystań swoim smokiem, mimo kapitulacji miasta. Miasto zostaje obrócone w popiół."
+          },
+          {
+            "t": "Koniec Daenerys",
+            "d": "Jon Snow, rozdarty, dźga Daenerys, a smok Drogon unosi jej ciało. Tyrion i lordowie Westeros zbierają się, by zadecydować o przyszłości królestwa."
+          },
+          {
+            "t": "Bran Połamany i niepodległa Północ",
+            "d": "Bran Stark zostaje wybrany na władcę Sześciu Królestw, a Północ zyskuje niepodległość pod rządami królowej Sansy. Jon wraca do Straży Nocy, a potem wyrusza za Mur."
+          }
+        ]
+      }
+    }
+  }
+}

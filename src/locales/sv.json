@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Svenska",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "De Sju Kronorna",
+    "tagline": "Inofficiell fansajt om universumet Game of Thrones: Westeros historia, huset, karaktärer och serier.",
+    "spoiler": "Informationen som visas kan innehålla spoilers.",
+    "nav": {
+      "histoire": "Historia",
+      "maisons": "Husen",
+      "personnages": "Karaktärer",
+      "series": "Serier",
+      "livres": "Böcker"
+    },
+    "titles": {
+      "histoire": "Westeros historia",
+      "maisons": "De Stora Husen",
+      "personnages": "Karaktärer",
+      "series": "Serier",
+      "livres": "Böckerna",
+      "sources": "Källor"
+    },
+    "all": "Alla",
+    "nightWatch": "Nattens väktare",
+    "redPriestess": "Röd prästinna",
+    "language": "Språk",
+    "rights": "Alla rättigheter förbehållna.",
+    "disclaimer": "Inofficiell fansajt, utan koppling till HBO eller George R. R. Martin. Game of Thrones är ett varumärke som tillhör respektive rättighetsinnehavare.",
+    "images": "Bilder (skådespelare, vapensköldar, logotyper): Wikipedia / Wikimedia Commons, fria licenser",
+    "home": "Hem",
+    "discover": "Upptäck",
+    "era": "Era",
+    "events": "händelser",
+    "prevEra": "Föregående era",
+    "nextEra": "Nästa era",
+    "allEras": "Alla eror",
+    "breadcrumb": "Sökväg",
+    "skipToContent": "Hoppa till innehållet",
+    "notFoundTitle": "Sidan hittades inte",
+    "notFoundText": "Den här sidan finns inte eller har flyttats.",
+    "backHome": "Tillbaka till startsidan",
+    "ogAlt": "De Sju Kronorna – fansajt för Game of Thrones"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · Norden",
+      "words": "\"Vintern kommer\"",
+      "desc": "Grå vargvarg på vit botten. Hus av heder och plikt."
+    },
+    "lannister": {
+      "seat": "Casterly Rock · Västlanden",
+      "words": "\"Hör mig ryta\"",
+      "desc": "Guldlejon på röd botten. Det rikaste av husen."
+    },
+    "targaryen": {
+      "seat": "Dragonstone / King's Landing",
+      "words": "\"Eld och blod\"",
+      "desc": "Röd trehövdad drake på svart botten. Dynasti av drakherrar."
+    },
+    "baratheon": {
+      "seat": "Storm's End / Dragonstone",
+      "words": "\"Vreden är vår\"",
+      "desc": "Svart krönt hjort på guldbotten."
+    },
+    "greyjoy": {
+      "seat": "Pyke · Järnöarna",
+      "words": "\"Vi sår inte\"",
+      "desc": "Gyllene kraken på svart botten. Folk av sjörövare."
+    },
+    "martell": {
+      "seat": "Sunspear · Dorne",
+      "words": "\"Oböjda, obrutna, obesegrade\"",
+      "desc": "Sol och spjut. Det enda huset som aldrig erövrats av drakarna."
+    },
+    "tyrell": {
+      "seat": "Highgarden · The Reach",
+      "words": "\"Växande starka\"",
+      "desc": "Gyllene ros på grön botten. Fruktbart och mäktigt hus."
+    },
+    "tully": {
+      "seat": "Riverrun · Flodlanden",
+      "words": "\"Familj, plikt, heder\"",
+      "desc": "Hoppande silverforell."
+    },
+    "arryn": {
+      "seat": "Örnnästet · Dalen",
+      "words": "\"Så högt som hedern\"",
+      "desc": "Falk och månskära."
+    }
+  },
+  "chars": {
+    "jon-snow": "Bastard från Winterfell, svuren broder i Nattens väktare, sedermera Kung i Norden.",
+    "daenerys-targaryen": "Drakarnas moder, exilerad arvtagare till Järntronen.",
+    "tyrion-lannister": "Briljant och cynisk Lannister som överlever tack vare sitt förstånd.",
+    "cersei-lannister": "Skoningslös drottning, redo att göra vad som helst för att skydda sina egna och sin makt.",
+    "jaime-lannister": "Kungamördaren, en riddare vars heder sätts på hårda prov.",
+    "arya-stark": "Yngre Stark-dotter som blivit lönnmördare, med en lista över namn att stryka.",
+    "sansa-stark": "Från hovets offer till Nordens politiska strateg.",
+    "ned-stark": "Herre till Winterfell och Kungens hand, orubblig i hederns namn.",
+    "bran-stark": "Den Trögäda korpen, världens levande minne.",
+    "brienne-de-torth": "Lojal och orädd riddare, trogen sitt ord.",
+    "theon-greyjoy": "Starkarnas myndling, kluven mellan två lojaliteter.",
+    "petyr-baelish": "\"Littlefinger\", mästerlig manipulatör.",
+    "stannis-baratheon": "Envis tronpretendent, hård och sträng.",
+    "rhaenyra-targaryen": "Utsedd arvtagare till kung Viserys I.",
+    "daemon-targaryen": "Krigarprins, oberäknelig och lojal på sitt eget sätt.",
+    "alicent-hightower": "Drottning och Rhaenyras rival, ansiktet utåt för de Grönas läger.",
+    "robb-stark": "Neds äldste son, utropad till Kung i Norden.",
+    "catelyn-stark": "Neds hustru, en mor som gör allt för sina barn.",
+    "joffrey-baratheon": "Grym och nyckfull ung kung.",
+    "robert-baratheon": "Kungen på Järntronen, segrare i upproret.",
+    "tywin-lannister": "Patriark på Casterly Rock, besatt av sitt hus arv.",
+    "samwell-tarly": "Passionerad läsare och Jons trogne vän.",
+    "davos-mervault": "Lökriddaren, Stannis lojale rådgivare.",
+    "melisandre": "Prästinna åt Ljusets herre.",
+    "sandor-clegane": "Hunden, brutal krigare med en diskret hederskodex.",
+    "gregor-clegane": "Berget, blodtörstig koloss.",
+    "jorah-mormont": "Landsförvisad riddare, Daenerys trogne rådgivare.",
+    "margaery-tyrell": "Skicklig drottning som förstår att vinna folket.",
+    "oberyn-martell": "Den Röda ormen från Dorne.",
+    "viserys-targaryen": "Fredlig kung, sliten mellan sin familj och riket.",
+    "corlys-velaryon": "Havsormen, Westeros rikaste sjöfarare."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17 apr. 2011 – 19 maj 2019 · 8 säsonger, 73 avsnitt",
+      "desc": "Filmatisering av Sagan om is och eld av George R. R. Martin, skapad av David Benioff och D. B. Weiss."
+    },
+    "hotd": {
+      "tag": "HBO · sedan aug. 2022",
+      "desc": "Prequel om Targaryen-inbördeskriget, 172 år före GoT. Säsong 1 (2022), 2 (2024) och 3 (2026) har sänts; säsong 4, planerad som den sista, väntas 2028."
+    },
+    "aknight": {
+      "tag": "HBO · sedan jan. 2026 · 6 avsnitt",
+      "desc": "Ser Duncan den Långe (Peter Claffey) och hans väpnare Egg (Dexter Sol Ansell), efter novellerna om Dunk & Egg. Säsong 2 är beställd och väntas 2027."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "Sagan om is och eld",
+      "tag": "George R. R. Martin · sedan 1996",
+      "desc": "Originalsagan (A Song of Ice and Fire): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. Två delar återstår att ges ut, utan datum: The Winds of Winter och A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Eld och blod",
+      "tag": "2018",
+      "desc": "Targaryen-dynastins historia, grunden för House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Noveller · 1998–2017",
+      "desc": "Äventyren med Ser Duncan den Långe och Egg, ett sekel före GoT."
+    },
+    "worldoficeandfire": {
+      "title": "Världen av is och eld",
+      "tag": "2014",
+      "desc": "Atlas och illustrerad uppslagsbok över Westeros och Essos historia."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "De Sju Kronorna – Game of Thrones-fansajt: historia, hus",
+      "description": "Inofficiell Game of Thrones-fansajt: Westeros historia, stora hus, 31 karaktärer, HBO-serier och böcker. Finns på 20 språk."
+    },
+    "history": {
+      "title": "Westeros historia – Komplett tidslinje | De Sju Kronorna",
+      "description": "Från Hjältarnas tidsålder till Den Långa Natten: 5 eror och 40 händelser som förklarar Westeros och Järntronens historia."
+    },
+    "houses": {
+      "title": "Westeros stora hus: Stark, Lannister, Targaryen | De Sju Kronorna",
+      "description": "Valspråk, säten och vapensköldar för de 9 stora husen i Game of Thrones: Stark, Lannister, Targaryen, Baratheon, Greyjoy, Martell, Tyrell, Tully och Arryn."
+    },
+    "characters": {
+      "title": "Karaktärer i Game of Thrones och House of the Dragon | De Sju Kronorna",
+      "description": "31 karaktärer från Game of Thrones och House of the Dragon: hus, skådespelare och porträtt, filtrerbara efter hus."
+    },
+    "series": {
+      "title": "Serier — Game of Thrones | De Sju Kronorna",
+      "description": "Sändningsdatum, säsonger och rollbesättning för HBO-serierna i Game of Thrones-universumet, med kommande premiärer."
+    },
+    "books": {
+      "title": "Böckerna — Game of Thrones | De Sju Kronorna",
+      "description": "George R. R. Martins romaner och noveller som Game of Thrones bygger på, med läget för de två delar som ännu inte utkommit."
+    }
+  },
+  "history": {
+    "intro": "Från tidens gryning till Järntronens fall: fem eror för att följa Westeros historia, från legenden om de Första Människorna till krigen som ritade om kungariket.",
+    "eras": {
+      "origins": {
+        "name": "De äldsta tiderna",
+        "period": "Före år 1 e.E.",
+        "intro": "Före kungarna och drakarna tillhör Westeros Skogens barn och de Första Människorna. Andalerna, rhoynarerna och Valyrias fall bereder scenen för Erövringen.",
+        "events": [
+          {
+            "t": "Skogens barn och de Första Människorna",
+            "d": "De Första Människorna tar sig över Dornes arm och fäller Skogens barns heliga vaktträd. Efter århundraden av krig gör Ansiktenas ö-pakten det möjligt för de båda folken att leva sida vid sida."
+          },
+          {
+            "t": "Den första Långa Natten",
+            "d": "En ändlös vinter faller över världen och de Vita vandrarna väller ner från det höga Norden. Den Siste Hjälten slår tillbaka dem med hjälp av Skogens barn, som enligt serien hade skapat dem för att försvara sig."
+          },
+          {
+            "t": "Muren byggs",
+            "d": "Brandon Byggaren reser Muren av is, ungefär 210 meter hög och 480 kilometer lång, för att skydda riket. Nattens väktare har sedan dess stått vakt där."
+          },
+          {
+            "t": "Andalernas invasion",
+            "d": "Beväpnade med järn och trogna de Sju korsar andalerna sundet och erövrar nästan hela den södra delen av kontinenten. Norden, under Stark-kungarna, gör motstånd och behåller de gamla gudarna."
+          },
+          {
+            "t": "Nymeria och rhoynarerna i Dorne",
+            "d": "Fördriven från sina länder av Valyria leder prinsessan Nymeria sina rhoynarskepp till Dorne och gifter sig med Mors Martell. Dorne har sedan dess bevarat helt egna sedvänjor, som lika arvsrätt för döttrar och söner."
+          },
+          {
+            "t": "Targaryen bosätter sig på Dragonstone",
+            "d": "Aenar Targaryen förutser katastrofen och lämnar Valyria med sin familj och sina drakar för ön Dragonstone. Beslutet räddar hans hus."
+          },
+          {
+            "t": "Valyrias undergång",
+            "d": "Omkring 114 år före Erövringen förintar en katastrof det allsmäktiga Valyria och dess drakherrar. Targaryen är en av de få familjer som överlever."
+          },
+          {
+            "t": "Westeros före enandet",
+            "d": "Kontinenten är uppdelad i rivaliserande kungariken: Norden, Dalen, Järnöarna, Flodlanden, Västlanden, The Reach, Stormlanden och Dorne. Vart och ett har sina egna kungar, krig och skiftande allianser."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "Targaryen-dynastin",
+        "period": "År 1 – 283 e.E.",
+        "intro": "I nästan tre sekler styr drakherrarna från Järntronen. Ära, inbördeskrig och galenskap präglar deras dynasti.",
+        "events": [
+          {
+            "t": "Aegons erövring (år 1 e.E.)",
+            "d": "Aegon Targaryen och hans systrar Visenya och Rhaenys underkuvar sex av de sju kungadömena, ridande på sina drakar. Järntronen smids av de besegrades svärd, smälta av Balerions eld."
+          },
+          {
+            "t": "Maegor den Grymme och Red Keep",
+            "d": "Aegons son Maegor I styr med skräck och bygger Maegors fäste, kärnan i Red Keep i King's Landing. Hans styre är fortfarande ett av dynastins mörkaste."
+          },
+          {
+            "t": "Det Stora rådet (år 101 e.E.)",
+            "d": "Rikets mäktigaste herrar väljer Viserys framför hans kusin Rhaenys som efterträdare till kung Jaehaerys. Prejudikatet kommer att väga tungt vid nästa tronföljd."
+          },
+          {
+            "t": "Viserys I, Rhaenyra och Alicent",
+            "d": "Under Viserys fredliga styre delas hovet mellan hans dotter Rhaenyra, utsedd till arvinge, och den nya drottningen Alicent Hightower. Rivaliteten förebådar krig."
+          },
+          {
+            "t": "Drakarnas dans (129–131 e.E.)",
+            "d": "När Viserys dör gör Rhaenyra och hennes halvbror Aegon II anspråk på tronen: inbördeskriget mellan de Svarta och de Gröna, berättat i House of the Dragon. Många drakar går under."
+          },
+          {
+            "t": "Drakarnas nedgång",
+            "d": "Efter Dansen dör drakarna en efter en, av brist på skötsel och livskraftiga kullar. Den sista dör omkring 153 e.E., och Targaryens magi försvagas."
+          },
+          {
+            "t": "Dunk & Egg och Blackfyre-upproret (omkring 196 e.E.)",
+            "d": "Daemon Blackfyre, kungens bastardson, gör uppror mot sin halvbror kung Daeron II och förlorar slaget på Röda gräsets fält. Vid den tiden vandrar den kringvandrande riddaren Dunk och hans väpnare Egg längs vägarna."
+          },
+          {
+            "t": "Aerys II, den Galne kungen (262–283 e.E.)",
+            "d": "Aerys II sjunker gradvis ner i paranoia och grymhet, fascinerad av vildeld. Hans styre leder till revolt bland rikets mäktigaste herrar."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Roberts uppror",
+        "period": "År 281 – 289 e.E.",
+        "intro": "En turnering, en bortrövning och en alltför paranoid kung: Robert Baratheons uppror gör slut på Targaryen-dynastin och rubbar balansen mellan de stora husen.",
+        "events": [
+          {
+            "t": "Turneringen i Harrenhal (år 281 e.E.)",
+            "d": "Prins Rhaegar Targaryen kröner Lyanna Stark till skönhetens drottning, till stor förtret för hennes trolovade Robert Baratheon. Episoden har gått till historien som konfliktens gnista."
+          },
+          {
+            "t": "Lyanna Stark försvinner",
+            "d": "Lyanna bortrövas enligt den officiella versionen av Rhaegar. Hennes far Rickard och hennes bror Brandon kommer till King's Landing för att kräva rättvisa: kung Aerys låter avrätta dem båda."
+          },
+          {
+            "t": "Fanorna höjs",
+            "d": "Eddard Stark, Robert Baratheon och Jon Arryn vägrar lyda Aerys, som kräver deras huvuden, och kallar sina vasaller till vapen. Tully ansluter sig snart till rebellerna."
+          },
+          {
+            "t": "Slaget vid Trident",
+            "d": "Vid vadet över Trident möter Robert Baratheon prins Rhaegar, Targaryens arvinge, och dödar honom i envig. Segern öppnar vägen till King's Landing för rebellerna."
+          },
+          {
+            "t": "Plundringen av King's Landing",
+            "d": "Tywin Lannister för in sina trupper i huvudstaden, officiellt för att försvara kungen. Jaime Lannister dödar Aerys för att hindra honom från att bränna staden, och Rhaegars barn slaktas."
+          },
+          {
+            "t": "Robert krönt till kung",
+            "d": "Robert Baratheon bestiger Järntronen och gifter sig med Cersei Lannister för att befästa alliansen med det rika huset på Casterly Rock. Ned Stark återvänder till Winterfell."
+          },
+          {
+            "t": "Viserys och Daenerys exil",
+            "d": "De sista levande Targaryen, barnen Viserys och Daenerys, flyr till Essos och lever från exil till exil. Daenerys föds på Dragonstone under stormen som härjar ön."
+          },
+          {
+            "t": "Greyjoy-upproret (år 289 e.E.)",
+            "d": "Balon Greyjoy, kung av Järnöarna, försöker återvinna sitt oberoende. Upproret slås ned av Robert, kostar hans äldsta söner livet och gör att Theon, den yngste, växer upp som gisslan hos Stark."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "Kriget om de Fem Kungarna",
+        "period": "År 298 – 300 e.E.",
+        "intro": "En kungs död utlöser den största konflikten Westeros skådat på århundraden: fem anspråkstagare bekämpar varandra mitt i intriger, svek och slag.",
+        "events": [
+          {
+            "t": "Ned Stark blir kungens hand",
+            "d": "Efter Jon Arryns död ber Robert sin gamle vän Ned att bli hans hand. I King's Landing upptäcker Ned hovets hemligheter, framför allt sanningen om drottningens barn."
+          },
+          {
+            "t": "Roberts död och Neds avrättning",
+            "d": "Kungen dör efter en jaktolycka och Joffrey bestiger tronen. Ned arresteras för förräderi och halshuggs, vilket kastar Stark in i kriget."
+          },
+          {
+            "t": "De fem kungarna",
+            "d": "Joffrey, Robb Stark, Renly och Stannis Baratheon samt Balon Greyjoy utropar sig alla till kungar. Riket slits sönder av allianser, svek och slag."
+          },
+          {
+            "t": "Slaget vid Blackwater",
+            "d": "Stannis belägrar King's Landing från havet, men Tyrion Lannister sätter floden i brand med vildeld. Tywins och Tyrells ankomst räddar staden."
+          },
+          {
+            "t": "Det Röda bröllopet",
+            "d": "Under ett bröllop hos Walder Frey massakreras Robb Stark, hans mor Catelyn och en stor del av hans armé. Episoden är en av de mest berömda i hela sagan."
+          },
+          {
+            "t": "Joffreys bröllop och Tywins död",
+            "d": "Joffrey dör förgiftad på sitt eget bröllop och Tyrion anklagas för brottet. Tyrion flyr och dödar sin far Tywin, vilket lämnar huset Lannister utan någon verklig ledare."
+          },
+          {
+            "t": "Daenerys i Essos",
+            "d": "Daenerys, nu mor till tre drakar, befriar slavarna i Astapor, Yunkai och Meereen. Hon lär sig att styra, men också, på egen bekostnad, maktens gränser."
+          },
+          {
+            "t": "Hotet vid Muren",
+            "d": "Mance Rayder samlar vildingarna norr om Muren, på flykt undan de Vita vandrarna. Jon Snow och Nattens väktare försvarar Castle Black i ett avgörande slag."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "Den Långa Natten och efteråt",
+        "period": "Efter Kriget om de Fem Kungarna",
+        "intro": "Medan husen sliter sönder varandra marscherar det verkliga hotet söderut. Kriget mot de döda och därefter striden om Järntronen beseglar Westeros öde.",
+        "events": [
+          {
+            "t": "Jon Snow, Lord Befälhavare",
+            "d": "Vald till Lord Befälhavare för Nattens väktare öppnar Jon Muren för vildingarna. Hans bröder sticker ner honom för förräderi, men Melisandre återupplivar honom."
+          },
+          {
+            "t": "Bastardernas slag",
+            "d": "Jon och Sansa återerövrar Winterfell från Ramsay Bolton i en fruktansvärd strid. Jon utropas till Nordens kung av regionens herrar."
+          },
+          {
+            "t": "Cersei förstör den Stora septen",
+            "d": "För att undkomma sin rättegång låter Cersei spränga den Stora septen i Baelor med vildeld och dödar sina fiender. Kung Tommen tar sitt liv, och Cersei låter kröna sig till drottning."
+          },
+          {
+            "t": "Daenerys anländer till Westeros",
+            "d": "Daenerys landstiger på Dragonstone med sina drakar, sin armé och sina allierade. Där möter hon Jon, med vilken hon allierar sig mot hotet från Norden."
+          },
+          {
+            "t": "Slaget om Winterfell",
+            "d": "De levande möter Nattkungens armé av döda. Arya Stark dödar Nattkungen och gör slut på den Långa Natten."
+          },
+          {
+            "t": "King's Landings fall",
+            "d": "Daenerys, driven till vansinnets rand av sina förluster, bränner King's Landing med sin drake trots att staden kapitulerat. Staden läggs i aska."
+          },
+          {
+            "t": "Daenerys slut",
+            "d": "Jon Snow, söndersliten, sticker ner Daenerys, och draken Drogon bär bort hennes kropp. Tyrion och Westeros herrar samlas för att avgöra rikets framtid."
+          },
+          {
+            "t": "Bran den Brutne och det oberoende Norden",
+            "d": "Bran Stark utses att styra över de Sex Kungadömena, medan Norden blir oberoende under drottning Sansa. Jon återvänder till Nattens väktare och färdas sedan bortom Muren."
+          }
+        ]
+      }
+    }
+  }
+}

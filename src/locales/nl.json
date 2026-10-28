@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Nederlands",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "De Zeven Kronen",
+    "tagline": "Onofficiële fansite over het universum van Game of Thrones: geschiedenis van Westeros, huizen, personages en series.",
+    "spoiler": "De getoonde informatie kan spoilers bevatten.",
+    "nav": {
+      "histoire": "Geschiedenis",
+      "maisons": "Huizen",
+      "personnages": "Personages",
+      "series": "Series",
+      "livres": "Boeken"
+    },
+    "titles": {
+      "histoire": "De geschiedenis van Westeros",
+      "maisons": "De Grote Huizen",
+      "personnages": "Personages",
+      "series": "Series",
+      "livres": "De boeken",
+      "sources": "Bronnen"
+    },
+    "all": "Alle",
+    "nightWatch": "Nachtwacht",
+    "redPriestess": "Rode priesteres",
+    "language": "Taal",
+    "rights": "Alle rechten voorbehouden.",
+    "disclaimer": "Onofficiële fansite, zonder band met HBO of George R. R. Martin. Game of Thrones is een merk van de rechthebbenden.",
+    "images": "Afbeeldingen (acteurs, wapens, logo's): Wikipedia / Wikimedia Commons, vrije licenties",
+    "home": "Home",
+    "discover": "Ontdekken",
+    "era": "Tijdperk",
+    "events": "gebeurtenissen",
+    "prevEra": "Vorig tijdperk",
+    "nextEra": "Volgend tijdperk",
+    "allEras": "Alle tijdperken",
+    "breadcrumb": "Kruimelpad",
+    "skipToContent": "Naar de inhoud",
+    "notFoundTitle": "Pagina niet gevonden",
+    "notFoundText": "Deze pagina bestaat niet of is verplaatst.",
+    "backHome": "Terug naar home",
+    "ogAlt": "De Zeven Kronen – Game of Thrones-fansite"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · Het Noorden",
+      "words": "\"De winter komt\"",
+      "desc": "Grijze schrikwolf op een witte achtergrond. Huis van eer en plicht."
+    },
+    "lannister": {
+      "seat": "Casterly Rock · De Westlanden",
+      "words": "\"Hoor mij brullen\"",
+      "desc": "Gouden leeuw op een rode achtergrond. Het rijkste van de huizen."
+    },
+    "targaryen": {
+      "seat": "Dragonstone / King's Landing",
+      "words": "\"Vuur en bloed\"",
+      "desc": "Rode drieoofdige draak op een zwarte achtergrond. Dynastie van drakenheren."
+    },
+    "baratheon": {
+      "seat": "Storm's End / Dragonstone",
+      "words": "\"Wij zijn de toorn\"",
+      "desc": "Zwarte gekroonde hert op een gouden achtergrond."
+    },
+    "greyjoy": {
+      "seat": "Pyke · De IJzeren Eilanden",
+      "words": "\"Wij zaaien niet\"",
+      "desc": "Gouden kraken op een zwarte achtergrond. Volk van zeeplunderaars."
+    },
+    "martell": {
+      "seat": "Sunspear · Dorne",
+      "words": "\"Ongebogen, ongebroken, ongetemd\"",
+      "desc": "Zon en speer. Het enige huis dat nooit door de draken is veroverd."
+    },
+    "tyrell": {
+      "seat": "Highgarden · De Reach",
+      "words": "\"Sterk groeien\"",
+      "desc": "Gouden roos op een groene achtergrond. Vruchtbaar en machtig huis."
+    },
+    "tully": {
+      "seat": "Riverrun · De Riverlands",
+      "words": "\"Familie, plicht, eer\"",
+      "desc": "Springende zilveren forel."
+    },
+    "arryn": {
+      "seat": "Het Adelaarsnest · De Vallei",
+      "words": "\"Zo hoog als de eer\"",
+      "desc": "Valk en maansikkel."
+    }
+  },
+  "chars": {
+    "jon-snow": "Bastaard van Winterfell, gezworen broeder van de Nachtwacht, later Koning van het Noorden.",
+    "daenerys-targaryen": "De Moeder van Draken, in ballingschap levende erfgename van de IJzeren Troon.",
+    "tyrion-lannister": "Briljante, cynische Lannister die overleeft dankzij zijn verstand.",
+    "cersei-lannister": "Meedogenloze koningin, tot alles bereid om de haren en haar macht te beschermen.",
+    "jaime-lannister": "De Koningsmoordenaar, een ridder wiens eer zwaar op de proef wordt gesteld.",
+    "arya-stark": "Jongste Stark-dochter die huurmoordenares werd, met een lijst namen om door te strepen.",
+    "sansa-stark": "Van slachtoffer van het hof tot politiek strateeg van het Noorden.",
+    "ned-stark": "Heer van Winterfell en Hand van de Koning, onbuigzaam in zaken van eer.",
+    "bran-stark": "De Driekoppige Raaf, levend geheugen van de wereld.",
+    "brienne-de-torth": "Loyale en felle ridder, trouw aan haar woord.",
+    "theon-greyjoy": "Pupil van de Starks, verscheurd tussen twee loyaliteiten.",
+    "petyr-baelish": "\"Littlefinger\", meester-manipulator.",
+    "stannis-baratheon": "Koppige troonpretendent, hard en streng.",
+    "rhaenyra-targaryen": "Aangewezen erfgename van koning Viserys I.",
+    "daemon-targaryen": "Krijgersprins, onvoorspelbaar en op zijn eigen manier loyaal.",
+    "alicent-hightower": "Koningin en rivale van Rhaenyra, boegbeeld van het kamp van de Groenen.",
+    "robb-stark": "Oudste zoon van Ned, uitgeroepen tot Koning van het Noorden.",
+    "catelyn-stark": "Neds echtgenote, een moeder die alles doet voor haar kinderen.",
+    "joffrey-baratheon": "Wrede en wispelturige jonge koning.",
+    "robert-baratheon": "De koning op de IJzeren Troon, overwinnaar van de Opstand.",
+    "tywin-lannister": "Patriarch van Casterly Rock, geobsedeerd door de nalatenschap van zijn huis.",
+    "samwell-tarly": "Gepassioneerde lezer en trouwe vriend van Jon.",
+    "davos-mervault": "De Uienridder, loyale adviseur van Stannis.",
+    "melisandre": "Priesteres van de Heer van het Licht.",
+    "sandor-clegane": "De Hond, brute krijger met een discrete erecode.",
+    "gregor-clegane": "De Berg, bloeddorstige kolos.",
+    "jorah-mormont": "Verbannen ridder, trouwe adviseur van Daenerys.",
+    "margaery-tyrell": "Slimme koningin die het volk voor zich weet te winnen.",
+    "oberyn-martell": "De Rode Adder van Dorne.",
+    "viserys-targaryen": "Vredelievende koning, verscheurd tussen zijn familie en het rijk.",
+    "corlys-velaryon": "De Zeeslang, rijkste zeevaarder van Westeros."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17 apr. 2011 – 19 mei 2019 · 8 seizoenen, 73 afleveringen",
+      "desc": "Bewerking van Het Lied van IJs en Vuur van George R. R. Martin, gemaakt door David Benioff en D. B. Weiss."
+    },
+    "hotd": {
+      "tag": "HBO · sinds aug. 2022",
+      "desc": "Prequel over de Targaryen-burgeroorlog, 172 jaar vóór GoT. Seizoen 1 (2022), 2 (2024) en 3 (2026) uitgezonden; seizoen 4, bedoeld als het laatste, wordt verwacht in 2028."
+    },
+    "aknight": {
+      "tag": "HBO · sinds jan. 2026 · 6 afleveringen",
+      "desc": "Ser Duncan de Lange (Peter Claffey) en zijn schildknaap Egg (Dexter Sol Ansell), naar de novellen van Dunk & Egg. Seizoen 2 is besteld en wordt verwacht in 2027."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "Het Lied van IJs en Vuur",
+      "tag": "George R. R. Martin · sinds 1996",
+      "desc": "Oorspronkelijke saga (A Song of Ice and Fire): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. Twee delen moeten nog verschijnen, zonder datum: The Winds of Winter en A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Vuur & Bloed",
+      "tag": "2018",
+      "desc": "Geschiedenis van de Targaryen-dynastie, basis van House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Novellen · 1998–2017",
+      "desc": "De avonturen van Ser Duncan de Lange en Egg, een eeuw vóór GoT."
+    },
+    "worldoficeandfire": {
+      "title": "De Wereld van IJs en Vuur",
+      "tag": "2014",
+      "desc": "Atlas en geïllustreerde encyclopedie van de geschiedenis van Westeros en Essos."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "De Zeven Kronen – Game of Thrones-fansite: geschiedenis, huizen",
+      "description": "Onofficiële Game of Thrones-fansite: de geschiedenis van Westeros, grote huizen, 31 personages, HBO-series en boeken. Beschikbaar in 20 talen."
+    },
+    "history": {
+      "title": "Geschiedenis van Westeros – Volledige tijdlijn | De Zeven Kronen",
+      "description": "Van het Tijdperk van de Helden tot de Lange Nacht: 5 tijdperken en 40 gebeurtenissen om de geschiedenis van Westeros en de IJzeren Troon te begrijpen."
+    },
+    "houses": {
+      "title": "De Grote Huizen — Game of Thrones | De Zeven Kronen",
+      "description": "Wapenspreuken, zetels en wapens van de 9 grote huizen van Game of Thrones: Stark, Lannister, Targaryen, Baratheon, Greyjoy, Martell, Tyrell, Tully en Arryn."
+    },
+    "characters": {
+      "title": "Personages — Game of Thrones | De Zeven Kronen",
+      "description": "31 personages uit Game of Thrones en House of the Dragon: huis, acteur of actrice en portret, te filteren op huis."
+    },
+    "series": {
+      "title": "Series — Game of Thrones | De Zeven Kronen",
+      "description": "Uitzenddata, seizoenen en cast van de HBO-series uit het universum van Game of Thrones, met de eerstvolgende releases."
+    },
+    "books": {
+      "title": "De boeken — Game of Thrones | De Zeven Kronen",
+      "description": "De romans en novellen van George R. R. Martin waarop Game of Thrones is gebaseerd, met de stand van de twee nog te verschijnen delen."
+    }
+  },
+  "history": {
+    "intro": "Van de dageraad der tijden tot de val van de IJzeren Troon: vijf tijdperken om de geschiedenis van Westeros te volgen, van de legende van de Eerste Mensen tot de oorlogen die het koninkrijk een nieuw gezicht gaven.",
+    "eras": {
+      "origins": {
+        "name": "De oudste tijden",
+        "period": "Vóór jaar 1 na de Verovering",
+        "intro": "Vóór de koningen en de draken behoort Westeros toe aan de Kinderen van het Woud en de Eerste Mensen. De Andalen, de Rhoynar en de val van Valyria bereiden het toneel voor op de Verovering.",
+        "events": [
+          {
+            "t": "De Kinderen van het Woud en de Eerste Mensen",
+            "d": "De Eerste Mensen steken de Arm van Dorne over en vellen de heilige weirwoodbomen van de Kinderen van het Woud. Na eeuwen van oorlog maakt het Verdrag van het Eiland der Gezichten het samenleven van beide volken mogelijk."
+          },
+          {
+            "t": "De eerste Lange Nacht",
+            "d": "Een eindeloze winter valt over de wereld en de White Walkers trekken uit het hoge Noorden naar het zuiden. De Laatste Held slaat hen terug met hulp van de Kinderen van het Woud, die hen volgens de serie ooit zelf hadden geschapen om zich te verdedigen."
+          },
+          {
+            "t": "De bouw van de Muur",
+            "d": "Brandon de Bouwer richt de Muur van ijs op, ongeveer 210 meter hoog en 480 kilometer lang, om het rijk te beschermen. De Nachtwacht verdedigt hem sindsdien."
+          },
+          {
+            "t": "De invasie van de Andalen",
+            "d": "Gewapend met ijzer en trouw aan de Zeven steken de Andalen de zeestraat over en veroveren bijna het hele zuiden van het continent. Het Noorden, onder de Stark-koningen, biedt weerstand en behoudt de oude goden."
+          },
+          {
+            "t": "Nymeria en de Rhoynar in Dorne",
+            "d": "Door Valyria van haar land verdreven, voert prinses Nymeria haar Rhoynar-schepen naar Dorne en trouwt met Mors Martell. Dorne behoudt sindsdien geheel eigen gebruiken, zoals gelijk erfrecht voor dochters en zonen."
+          },
+          {
+            "t": "De Targaryens vestigen zich op Dragonstone",
+            "d": "Aenar Targaryen voorziet de ramp, verlaat Valyria met zijn familie en zijn draken en vestigt zich op het eiland Dragonstone. Die beslissing redt zijn huis."
+          },
+          {
+            "t": "De Doem van Valyria",
+            "d": "Zo'n 114 jaar vóór de Verovering vernietigt een ramp het almachtige Valyria en zijn drakenheren. De Targaryens zijn een van de weinige families die het overleven."
+          },
+          {
+            "t": "Westeros vóór de eenwording",
+            "d": "Het continent is verdeeld in rivaliserende koninkrijken: het Noorden, de Vallei, de IJzeren Eilanden, de Riverlands, de Westlanden, de Reach, de Stormlands en Dorne. Elk heeft zijn eigen koningen, oorlogen en wisselende bondgenootschappen."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "De dynastie van de Targaryens",
+        "period": "Jaar 1 – 283 na de Verovering",
+        "intro": "Bijna drie eeuwen lang regeren de drakenheren vanaf de IJzeren Troon. Roem, burgeroorlogen en waanzin tekenen hun dynastie.",
+        "events": [
+          {
+            "t": "Aegons Verovering (jaar 1 na de Verovering)",
+            "d": "Aegon Targaryen en zijn zussen Visenya en Rhaenys onderwerpen zes van de zeven koninkrijken, gezeten op hun draken. De IJzeren Troon wordt gesmeed uit de zwaarden van de verslagenen, gesmolten door de adem van Balerion."
+          },
+          {
+            "t": "Maegor de Wrede en de Red Keep",
+            "d": "Maegor I, de zoon van Aegon, regeert met terreur en bouwt Maegors Veste, de kern van de Red Keep in King's Landing. Zijn regering geldt als een van de donkerste van de dynastie."
+          },
+          {
+            "t": "De Grote Raad (jaar 101 na de Verovering)",
+            "d": "De machtigste heren van het rijk kiezen Viserys boven zijn nicht Rhaenys als opvolger van koning Jaehaerys. Dit precedent zal zwaar wegen bij de volgende opvolging."
+          },
+          {
+            "t": "Viserys I, Rhaenyra en Alicent",
+            "d": "Onder de vredige regering van Viserys raakt het hof verdeeld tussen zijn dochter Rhaenyra, de aangewezen erfgename, en de nieuwe koningin Alicent Hightower. Deze rivaliteit kondigt de oorlog aan."
+          },
+          {
+            "t": "De Dans der Draken (129–131 na de Verovering)",
+            "d": "Na de dood van Viserys betwisten Rhaenyra en haar halfbroer Aegon II de troon: de burgeroorlog van de Zwarten tegen de Groenen, verteld in House of the Dragon. Veel draken komen daarbij om."
+          },
+          {
+            "t": "De neergang van de draken",
+            "d": "Na de Dans sterven de draken een voor een, bij gebrek aan verzorging en levensvatbare legsels. De laatste sterft rond 153 na de Verovering, en de magie van de Targaryens taant."
+          },
+          {
+            "t": "Dunk & Egg en de Blackfyre-opstand (ca. 196 na de Verovering)",
+            "d": "Daemon Blackfyre, de bastaardzoon van de koning, komt in opstand tegen zijn halfbroer koning Daeron II en verliest de Slag op het Rode Grasveld. In die tijd trekken de dolende ridder Dunk en zijn schildknaap Egg over de wegen."
+          },
+          {
+            "t": "Aerys II, de Gekke Koning (262–283 na de Verovering)",
+            "d": "Aerys II zakt langzaam weg in paranoia en wreedheid, gefascineerd door wildvuur. Zijn regering leidt tot de opstand van de machtigste heren van het rijk."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Roberts Opstand",
+        "period": "Jaar 281 – 289 na de Verovering",
+        "intro": "Een toernooi, een ontvoering en een al te paranoïde koning: de opstand van Robert Baratheon maakt een einde aan de dynastie van de Targaryens en doet het evenwicht tussen de grote huizen wankelen.",
+        "events": [
+          {
+            "t": "Het toernooi van Harrenhal (jaar 281 na de Verovering)",
+            "d": "Prins Rhaegar Targaryen kroont Lyanna Stark tot koningin van schoonheid, tot groot ongenoegen van haar verloofde Robert Baratheon. Deze episode is bij iedereen blijven hangen als de vonk van het conflict."
+          },
+          {
+            "t": "Lyanna Stark verdwijnt",
+            "d": "Lyanna wordt volgens de officiële versie door Rhaegar ontvoerd. Haar vader Rickard en haar broer Brandon komen in King's Landing gerechtigheid eisen: koning Aerys laat hen beiden executeren."
+          },
+          {
+            "t": "De banieren worden geheven",
+            "d": "Eddard Stark, Robert Baratheon en Jon Arryn weigeren Aerys te gehoorzamen, die hun hoofden eist, en roepen hun vazallen onder de wapens. De Tully's sluiten zich al snel bij de rebellen aan."
+          },
+          {
+            "t": "De Slag aan de Trident",
+            "d": "Bij de doorwaadbare plaats van de Trident neemt Robert Baratheon het op tegen prins Rhaegar, de erfgenaam van de Targaryens, en doodt hem in een tweegevecht. Die overwinning opent voor de rebellen de weg naar King's Landing."
+          },
+          {
+            "t": "De plundering van King's Landing",
+            "d": "Tywin Lannister laat zijn troepen de hoofdstad binnentrekken, officieel om de koning te verdedigen. Jaime Lannister doodt Aerys om te voorkomen dat hij de stad in brand steekt, en de kinderen van Rhaegar worden afgeslacht."
+          },
+          {
+            "t": "Robert tot koning gekroond",
+            "d": "Robert Baratheon bestijgt de IJzeren Troon en trouwt met Cersei Lannister om het bondgenootschap met het rijke huis van Casterly Rock te bezegelen. Ned Stark keert terug naar Winterfell."
+          },
+          {
+            "t": "De ballingschap van Viserys en Daenerys",
+            "d": "De laatste levende Targaryens, de kinderen Viserys en Daenerys, vluchten naar Essos en leven van ballingschap naar ballingschap. Daenerys wordt geboren op Dragonstone tijdens de storm die het eiland teistert."
+          },
+          {
+            "t": "De Greyjoy-opstand (jaar 289 na de Verovering)",
+            "d": "Balon Greyjoy, koning van de IJzeren Eilanden, probeert zijn onafhankelijkheid terug te winnen. De opstand wordt door Robert neergeslagen, kost zijn oudste zonen het leven en zorgt ervoor dat Theon, zijn jongste, als gijzelaar bij de Starks opgroeit."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "De Oorlog van de Vijf Koningen",
+        "period": "Jaar 298 – 300 na de Verovering",
+        "intro": "De dood van een koning ontketent het grootste conflict dat Westeros in eeuwen heeft gekend: vijf pretendenten bevechten elkaar te midden van intriges, verraad en veldslagen.",
+        "events": [
+          {
+            "t": "Ned Stark wordt Hand van de Koning",
+            "d": "Na de dood van Jon Arryn vraagt Robert zijn oude vriend Ned zijn Hand te worden. In King's Landing ontdekt Ned de geheimen van het hof, met name de waarheid over de kinderen van de koningin."
+          },
+          {
+            "t": "De dood van Robert en de executie van Ned",
+            "d": "De koning sterft na een jachtongeluk en Joffrey bestijgt de troon. Ned wordt wegens verraad gearresteerd en onthoofd, waardoor de Starks in oorlog worden gestort."
+          },
+          {
+            "t": "De vijf koningen",
+            "d": "Joffrey, Robb Stark, Renly en Stannis Baratheon en vervolgens Balon Greyjoy roepen zich allen uit tot koning. Het rijk verscheurt zich tussen bondgenootschappen, verraad en veldslagen."
+          },
+          {
+            "t": "De Slag aan de Blackwater",
+            "d": "Stannis belegert King's Landing vanaf zee, maar Tyrion Lannister zet de rivier in vuur en vlam met wildvuur. De komst van Tywin en de Tyrells redt de stad."
+          },
+          {
+            "t": "De Rode Bruiloft",
+            "d": "Tijdens een bruiloft op het kasteel van Walder Frey worden Robb Stark, zijn moeder Catelyn en een groot deel van zijn leger afgeslacht. Deze episode is een van de beroemdste uit de hele saga."
+          },
+          {
+            "t": "Het huwelijk van Joffrey en de dood van Tywin",
+            "d": "Joffrey sterft vergiftigd op zijn eigen bruiloft en Tyrion wordt van de misdaad beschuldigd. Tyrion ontsnapt en doodt zijn vader Tywin, waardoor het huis Lannister zonder echte leider achterblijft."
+          },
+          {
+            "t": "Daenerys in Essos",
+            "d": "Daenerys, inmiddels moeder van drie draken, bevrijdt de slaven van Astapor, Yunkai en Meereen. Ze leert regeren, maar ook, ten koste van zichzelf, de grenzen van de macht."
+          },
+          {
+            "t": "De dreiging bij de Muur",
+            "d": "Mance Rayder verzamelt de wildlingen ten noorden van de Muur, op de vlucht voor de White Walkers. Jon Snow en de Nachtwacht verdedigen Castle Black in een beslissende veldslag."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "De Lange Nacht en wat erna komt",
+        "period": "Na de Oorlog van de Vijf Koningen",
+        "intro": "Terwijl de huizen elkaar verscheuren, trekt de ware dreiging naar het zuiden. De oorlog tegen de doden en daarna de strijd om de IJzeren Troon bezegelen het lot van Westeros.",
+        "events": [
+          {
+            "t": "Jon Snow, Lord Commandant",
+            "d": "Jon wordt gekozen tot Lord Commandant van de Nachtwacht en opent de Muur voor de wildlingen. Zijn broeders steken hem neer wegens verraad, maar Melisandre brengt hem terug tot leven."
+          },
+          {
+            "t": "De Slag der Bastaarden",
+            "d": "Jon en Sansa heroveren Winterfell op Ramsay Bolton in een verschrikkelijk gevecht. Jon wordt door de heren van de streek uitgeroepen tot Koning in het Noorden."
+          },
+          {
+            "t": "Cersei vernietigt de Grote Sept",
+            "d": "Om aan haar proces te ontkomen, laat Cersei de Grote Sept van Baelor met wildvuur ontploffen, waarbij haar vijanden omkomen. Koning Tommen pleegt zelfmoord en Cersei laat zich tot koningin kronen."
+          },
+          {
+            "t": "Daenerys komt aan in Westeros",
+            "d": "Daenerys landt op Dragonstone met haar draken, haar leger en haar bondgenoten. Daar ontmoet ze Jon, met wie ze zich verbindt tegen de dreiging uit het Noorden."
+          },
+          {
+            "t": "De Slag om Winterfell",
+            "d": "De levenden nemen het op tegen het leger van de doden van de Nachtkoning. Arya Stark doodt de Nachtkoning en maakt een einde aan de Lange Nacht."
+          },
+          {
+            "t": "De val van King's Landing",
+            "d": "Daenerys, door haar verliezen tot de rand van waanzin gedreven, verbrandt King's Landing met haar draak, ondanks de overgave van de stad. De stad wordt tot as herleid."
+          },
+          {
+            "t": "Het einde van Daenerys",
+            "d": "Jon Snow, innerlijk verscheurd, steekt Daenerys neer, en de draak Drogon draagt haar lichaam weg. Tyrion en de heren van Westeros komen samen om over de toekomst van het rijk te beslissen."
+          },
+          {
+            "t": "Bran de Gebroken en het onafhankelijke Noorden",
+            "d": "Bran Stark wordt gekozen om over de Zes Koninkrijken te regeren, terwijl het Noorden onder koningin Sansa onafhankelijk wordt. Jon keert terug naar de Nachtwacht en trekt daarna verder voorbij de Muur."
+          }
+        ]
+      }
+    }
+  }
+}

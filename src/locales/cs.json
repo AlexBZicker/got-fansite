@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Čeština",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Sedm korun",
+    "tagline": "Neoficiální fanouškovský web o světě Game of Thrones: historie Westerosu, rody, postavy a seriály.",
+    "spoiler": "Uvedené informace mohou obsahovat spoilery.",
+    "nav": {
+      "histoire": "Historie",
+      "maisons": "Rody",
+      "personnages": "Postavy",
+      "series": "Seriály",
+      "livres": "Knihy"
+    },
+    "titles": {
+      "histoire": "Historie Westerosu",
+      "maisons": "Velké rody",
+      "personnages": "Postavy",
+      "series": "Seriály",
+      "livres": "Knihy",
+      "sources": "Zdroje"
+    },
+    "all": "Vše",
+    "nightWatch": "Noční hlídka",
+    "redPriestess": "Rudá kněžka",
+    "language": "Jazyk",
+    "rights": "Všechna práva vyhrazena.",
+    "disclaimer": "Neoficiální fanouškovský web, nijak nespojený s HBO ani s George R. R. Martinem. Game of Thrones je ochranná známka jejích majitelů.",
+    "images": "Obrázky (herci, erby, loga): Wikipedie / Wikimedia Commons, svobodné licence",
+    "home": "Domů",
+    "discover": "Objevit",
+    "era": "Éra",
+    "events": "událostí",
+    "prevEra": "Předchozí éra",
+    "nextEra": "Další éra",
+    "allEras": "Všechny éry",
+    "breadcrumb": "Drobečková navigace",
+    "skipToContent": "Přejít na obsah",
+    "notFoundTitle": "Stránka nenalezena",
+    "notFoundText": "Tato stránka neexistuje, nebo byla přesunuta.",
+    "backHome": "Zpět na úvodní stránku",
+    "ogAlt": "Sedm korun — fanouškovský web Game of Thrones"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Zimohrad · Sever",
+      "words": "„Zima se blíží“",
+      "desc": "Šedý vlkodlak na bílém poli. Rod cti a povinnosti."
+    },
+    "lannister": {
+      "seat": "Casterlova skála · Západozemí",
+      "words": "„Slyšte mě řvát“",
+      "desc": "Zlatý lev na rudém poli. Nejbohatší z rodů."
+    },
+    "targaryen": {
+      "seat": "Dračí kámen / Králův přístav",
+      "words": "„Oheň a krev“",
+      "desc": "Rudý tříhlavý drak na černém poli. Dynastie pánů draků."
+    },
+    "baratheon": {
+      "seat": "Bouřlivý konec / Dračí kámen",
+      "words": "„Naše je zuřivost“",
+      "desc": "Černý korunovaný jelen na zlatém poli."
+    },
+    "greyjoy": {
+      "seat": "Pyke · Železné ostrovy",
+      "words": "„My neseme“",
+      "desc": "Zlatý kraken na černém poli. Národ mořských nájezdníků."
+    },
+    "martell": {
+      "seat": "Sluneční kopí · Dorne",
+      "words": "„Nepokořeni, neskloněni, nezlomeni“",
+      "desc": "Slunce a kopí. Jediný rod, který draci nikdy nedobyli."
+    },
+    "tyrell": {
+      "seat": "Vysoká zahrada · Jih",
+      "words": "„Rosteme silní“",
+      "desc": "Zlatá růže na zeleném poli. Plodný a mocný rod."
+    },
+    "tully": {
+      "seat": "Řekotočí · Říční země",
+      "words": "„Rodina, povinnost, čest“",
+      "desc": "Stříbrný skákající pstruh."
+    },
+    "arryn": {
+      "seat": "Orlí hnízdo · Údolí",
+      "words": "„Vysoko jako čest“",
+      "desc": "Sokol a půlměsíc."
+    }
+  },
+  "chars": {
+    "jon-snow": "Levoboček ze Zimohradu, přísežný bratr Noční hlídky a později Král severu.",
+    "daenerys-targaryen": "Matka draků, vyhnaná dědička Železného trůnu.",
+    "tyrion-lannister": "Brilantní a cynický Lannister, který přežívá díky svému důvtipu.",
+    "cersei-lannister": "Nelítostná královna, která pro ochranu svých blízkých i své moci udělá cokoli.",
+    "jaime-lannister": "Královrah, rytíř, jehož čest je vystavena tvrdé zkoušce.",
+    "arya-stark": "Nejmladší Starková, která se stala vražedkyní, se seznamem jmen k vyškrtnutí.",
+    "sansa-stark": "Z oběti královského dvora politickou stratégkou Severu.",
+    "ned-stark": "Pán Zimohradu a Králova ruka, nepoddajný v otázkách cti.",
+    "bran-stark": "Tříoký havran, živá paměť světa.",
+    "brienne-de-torth": "Věrná a divoká rytířka, která dodrží každé slovo.",
+    "theon-greyjoy": "Starkův chovanec rozpolcený mezi dvěma věrnostmi.",
+    "petyr-baelish": "„Malíček“, mistr manipulace.",
+    "stannis-baratheon": "Zarputilý uchazeč o trůn, tvrdý a nekompromisní.",
+    "rhaenyra-targaryen": "Určená dědička krále Viserye I.",
+    "daemon-targaryen": "Válečnický princ, nevyzpytatelný a svým způsobem věrný.",
+    "alicent-hightower": "Královna a Rhaenyrina rivalka, představitelka zelené strany.",
+    "robb-stark": "Nedův nejstarší syn, prohlášený Králem severu.",
+    "catelyn-stark": "Nedova manželka, matka ochotná pro své děti na všechno.",
+    "joffrey-baratheon": "Krutý a vrtošivý mladý král.",
+    "robert-baratheon": "Král Železného trůnu, vítěz povstání.",
+    "tywin-lannister": "Patriarcha Casterovy skály, posedlý odkazem svého rodu.",
+    "samwell-tarly": "Vášnivý čtenář a věrný přítel Jona.",
+    "davos-mervault": "Cibulový rytíř, věrný rádce Stannise.",
+    "melisandre": "Kněžka Pána světla.",
+    "sandor-clegane": "Pes, brutální válečník s nenápadným kodexem cti.",
+    "gregor-clegane": "Hora, krvežíznivý obr.",
+    "jorah-mormont": "Vyhnaný rytíř, věrný rádce Daenerys.",
+    "margaery-tyrell": "Obratná královna, která umí získat lid.",
+    "oberyn-martell": "Rudá zmije z Dorne.",
+    "viserys-targaryen": "Mírumilovný král rozpolcený mezi rodinou a královstvím.",
+    "corlys-velaryon": "Mořský had, nejbohatší mořeplavec Westerosu."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17. dub. 2011 – 19. kvě. 2019 · 8 sezón, 73 epizod",
+      "desc": "Adaptace knihy A Song of Ice and Fire od George R. R. Martina, kterou vytvořili David Benioff a D. B. Weiss."
+    },
+    "hotd": {
+      "tag": "HBO · od srpna 2022",
+      "desc": "Prequel o targaryenské občanské válce, 172 let před GoT. Odvysílány sezóny 1 (2022), 2 (2024) a 3 (2026); čtvrtá, plánovaná jako poslední, se očekává v roce 2028."
+    },
+    "aknight": {
+      "tag": "HBO · od led. 2026 · 6 epizod",
+      "desc": "Ser Duncan Vysoký (Peter Claffey) a jeho zbrojnoš Egg (Dexter Sol Ansell) podle povídek o Dunkovi a Eggovi. Druhá sezóna objednána, očekává se v roce 2027."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "Píseň ledu a ohně",
+      "tag": "George R. R. Martin · od 1996",
+      "desc": "Původní sága: A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. Dva díly stále nevyšly, bez data: The Winds of Winter a A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Fire & Blood",
+      "tag": "2018",
+      "desc": "Dějiny dynastie Targaryenů, předloha seriálu House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Povídky · 1998–2017",
+      "desc": "Dobrodružství sera Duncana Vysokého a Egga, století před GoT."
+    },
+    "worldoficeandfire": {
+      "title": "Svět ledu a ohně",
+      "tag": "2014",
+      "desc": "Ilustrovaný atlas a encyklopedie dějin Westerosu a Essosu."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Sedm korun — fanweb Game of Thrones: historie, rody, postavy",
+      "description": "Neoficiální fanouškovský web o Game of Thrones: historie Westerosu, velké rody, 31 postav, seriály HBO a knihy. K dispozici ve 20 jazycích."
+    },
+    "history": {
+      "title": "Historie Westerosu — kompletní chronologie | Sedm korun",
+      "description": "Od Věku hrdinů po Dlouhou noc: 5 er a 40 událostí, které vám přiblíží dějiny Westerosu a Železného trůnu."
+    },
+    "houses": {
+      "title": "Velké rody Westerosu: Starkové, Lannisterové… | Sedm korun",
+      "description": "Hesla, sídla a erby 9 velkých rodů Game of Thrones: Starkové, Lannisterové, Targaryenové, Baratheonové, Greyjoyové, Martellové, Tyrellové, Tullyové a Arrynové."
+    },
+    "characters": {
+      "title": "Postavy ze Game of Thrones a House of the Dragon | Sedm korun",
+      "description": "31 postav ze Game of Thrones a House of the Dragon: rod, představitel či představitelka a portrét, s filtrem podle rodů."
+    },
+    "series": {
+      "title": "Seriály ze světa Game of Thrones | Sedm korun",
+      "description": "Termíny vysílání, sezóny a obsazení seriálů HBO ze světa Game of Thrones, včetně nadcházejících premiér."
+    },
+    "books": {
+      "title": "Knihy: Píseň ledu a ohně, Fire & Blood, Dunk & Egg | Sedm korun",
+      "description": "Romány a povídky George R. R. Martina, z nichž vzešla Game of Thrones, a stav dvou dílů, které ještě nevyšly."
+    }
+  },
+  "history": {
+    "intro": "Od úsvitu věků po pád Železného trůnu: pět er, na nichž můžete sledovat dějiny Westerosu, od legendy o Prvních lidech po války, které změnily tvář království.",
+    "eras": {
+      "origins": {
+        "name": "Dávná minulost",
+        "period": "Před rokem 1 po d. A.",
+        "intro": "Před králi a draky patří Westeros Dětem lesa a Prvním lidem. Andalové, Rhoynarové a pád Valyrie připravují půdu pro Dobytí.",
+        "events": [
+          {
+            "t": "Děti lesa a První lidé",
+            "d": "První lidé překročí Dornskou paži a kácejí posvátné srdce-stromy Dětí lesa. Po staletích války umožní Smlouva na Ostrově tváří oběma národům žít vedle sebe."
+          },
+          {
+            "t": "První Dlouhá noc",
+            "d": "Na svět dopadne nekonečná zima a Bílí chodci se přivalí z dalekého Severu. Poslední hrdina je zažene s pomocí Dětí lesa, které je podle seriálu stvořily, aby se mohly bránit."
+          },
+          {
+            "t": "Stavba Zdi",
+            "d": "Brandon Stavitel vztyčí Ledovou zeď, vysokou zhruba 210 metrů a dlouhou 480 kilometrů, aby ochránil království. Od té doby ji brání Noční hlídka."
+          },
+          {
+            "t": "Vpád Andalů",
+            "d": "Andalové, vyzbrojení železem a věrní Sedmi, překročí průliv a podmaní si téměř celý jih kontinentu. Sever pod vládou králů Starků jim vzdoruje a uchová si staré bohy."
+          },
+          {
+            "t": "Nymeria a Rhoynarové v Dorne",
+            "d": "Princezna Nymeria, vyhnaná Valyrií ze své země, připlaví rhoynarské lodě do Dorne a provdá se za Morse Martella. Dorne si od té doby uchovává zcela zvláštní zvyky, například stejné dědické právo dcer i synů."
+          },
+          {
+            "t": "Targaryenové se usadí na Dračím kameni",
+            "d": "Aenar Targaryen předvídá katastrofu, opustí Valyrii s rodinou a draky a usadí se na ostrově Dračí kámen. Toto rozhodnutí zachrání jeho rod."
+          },
+          {
+            "t": "Zkáza Valyrie",
+            "d": "Zhruba 114 let před Dobytím zničí katastrofa všemocnou Valyrii a její pány draků. Targaryenové patří k několika málo rodinám, které přežijí."
+          },
+          {
+            "t": "Westeros před sjednocením",
+            "d": "Kontinent je rozdělen na znepřátelená království: Sever, Údolí, Železné ostrovy, Říční země, Západozemí, Jih, Bouřlivé země a Dorne. Každé má své krále, války a proměnlivá spojenectví."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "Dynastie Targaryenů",
+        "period": "Roky 1 – 283 po d. A.",
+        "intro": "Téměř tři století vládnou páni draků ze Železného trůnu. Sláva, občanské války i šílenství provázejí jejich dynastii.",
+        "events": [
+          {
+            "t": "Aegonovo dobytí (rok 1 po d. A.)",
+            "d": "Aegon Targaryen a jeho sestry Visenya a Rhaenys podmaní na dracích šest ze sedmi království. Železný trůn je vykován z mečů poražených, roztavených dechem Balerionu."
+          },
+          {
+            "t": "Maegor Krutý a Rudá pevnost",
+            "d": "Aegonův syn Maegor I. vládne terorem a staví Maegorovu pevnost, jádro Rudé pevnosti v Králově přístavu. Jeho vláda zůstává jednou z nejtemnějších v dějinách dynastie."
+          },
+          {
+            "t": "Velká rada (rok 101 po d. A.)",
+            "d": "Velcí páni království zvolí Viserya, nikoli jeho sestřenici Rhaenys, za nástupce krále Jaehaerya. Tento precedens bude těžce doléhat na další nástupnictví."
+          },
+          {
+            "t": "Viserys I., Rhaenyra a Alicent",
+            "d": "Za mírové vlády Viserya se dvůr rozdělí mezi jeho dceru Rhaenyru, určenou za dědičku, a novou královnu Alicent Hightowerovou. Toto soupeření předznamenává válku."
+          },
+          {
+            "t": "Tanec draků (129–131 po d. A.)",
+            "d": "Po Viseryho smrti se o trůn přou Rhaenyra a její nevlastní bratr Aegon II.: vypukne občanská válka Černých proti Zeleným, kterou vypráví House of the Dragon. Mnoho draků v ní zahyne."
+          },
+          {
+            "t": "Úpadek draků",
+            "d": "Po Tanci draci jeden po druhém hynou pro nedostatek péče a životaschopných snůšek. Poslední zhasne kolem roku 153 po d. A. a targaryenská magie slábne."
+          },
+          {
+            "t": "Dunk & Egg a Blackfyrovo povstání (kolem roku 196 po d. A.)",
+            "d": "Daemon Blackfyre, králův levoboček, se vzbouří proti svému nevlastnímu bratrovi králi Daeronu II. a prohraje bitvu na Poli rudé trávy. V té době putují po cestách potulný rytíř Dunk a jeho zbrojnoš Egg."
+          },
+          {
+            "t": "Aerys II., Šílený král (262–283 po d. A.)",
+            "d": "Aerys II. postupně propadá paranoie a krutosti, fascinován divokým ohněm. Jeho vláda vede k povstání nejmocnějších pánů království."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Robertovo povstání",
+        "period": "Roky 281 – 289 po d. A.",
+        "intro": "Turnaj, únos a příliš paranoidní král: povstání Roberta Baratheona ukončí dynastii Targaryenů a otřese rovnováhou velkých rodů.",
+        "events": [
+          {
+            "t": "Turnaj v Harrenhalu (rok 281 po d. A.)",
+            "d": "Princ Rhaegar Targaryen korunuje Lyannu Stark královnou krásy, k velké nelibosti jejího snoubence Roberta Baratheona. Tato událost se všem vryla do paměti jako jiskra, která zažehla konflikt."
+          },
+          {
+            "t": "Zmizení Lyanny Stark",
+            "d": "Lyannu podle oficiální verze unese Rhaegar. Její otec Rickard a bratr Brandon přijedou do Králova přístavu žádat spravedlnost a král Aerys oba popraví."
+          },
+          {
+            "t": "Prapory se zvedají",
+            "d": "Eddard Stark, Robert Baratheon a Jon Arryn odmítnou poslechnout Aerysa, který požaduje jejich hlavy, a svolají své vazaly. K povstalcům se brzy přidají Tullyové."
+          },
+          {
+            "t": "Bitva na Trojzubci",
+            "d": "U brodu přes Trojzubec se Robert Baratheon utká v souboji muže proti muži s princem Rhaegarem, dědicem Targaryenů, a zabije ho. Toto vítězství otevře povstalcům cestu do Králova přístavu."
+          },
+          {
+            "t": "Vyplenění Králova přístavu",
+            "d": "Tywin Lannister zavede svá vojska do hlavního města, oficiálně na obranu krále. Jaime Lannister zabije Aerysa, aby zabránil vypálení města, a děti Rhaegara jsou povražděny."
+          },
+          {
+            "t": "Robert korunován králem",
+            "d": "Robert Baratheon usedne na Železný trůn a ožení se s Cersei Lannister, aby zpečetil spojenectví s bohatým rodem z Casterovy skály. Ned Stark se vrací do Zimohradu."
+          },
+          {
+            "t": "Exil Viserya a Daenerys",
+            "d": "Poslední žijící Targaryenové, děti Viserys a Daenerys, prchají do Essosu a putují z exilu do exilu. Daenerys se narodila na Dračím kameni během bouře, která ostrov sužovala."
+          },
+          {
+            "t": "Greyjoyovo povstání (rok 289 po d. A.)",
+            "d": "Balon Greyjoy, král Železných ostrovů, se pokusí získat zpět nezávislost. Robert povstání potlačí, připraví o život jeho nejstarší syny a Theon, nejmladší, vyroste jako rukojmí u Starků."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "Válka pěti králů",
+        "period": "Roky 298 – 300 po d. A.",
+        "intro": "Smrt krále rozpoutá největší konflikt, jaký Westeros za staletí zažil: pět uchazečů se střetne uprostřed intrik, zrad a bitev.",
+        "events": [
+          {
+            "t": "Ned Stark se stává královou rukou",
+            "d": "Po smrti Jona Arryna požádá Robert svého starého přítele Neda, aby se stal jeho pravou rukou. V Králově přístavu Ned odhalí tajemství dvora, zejména pravdu o královniných dětech."
+          },
+          {
+            "t": "Robertova smrt a Nedova poprava",
+            "d": "Král zemře po lovecké nehodě a na trůn usedne Joffrey. Neda zatknou pro zradu a stanou ho, čímž vrhnou Starky do války."
+          },
+          {
+            "t": "Pět králů",
+            "d": "Joffrey, Robb Stark, Renly a Stannis Baratheonovi a poté Balon Greyjoy se prohlásí za krále. Království se trhá mezi spojenectvími, zradami a bitvami."
+          },
+          {
+            "t": "Bitva na Černovodě",
+            "d": "Stannis oblehne Králův přístav z moře, ale Tyrion Lannister zapálí řeku divokým ohněm. Příchod Tywina a Tyrellů město zachrání."
+          },
+          {
+            "t": "Rudá svatba",
+            "d": "Na svatbě u Waldera Freye je povražděn Robb Stark, jeho matka Catelyn a velká část jeho armády. Tato událost patří k nejznámějším z celé ságy."
+          },
+          {
+            "t": "Joffreyho svatba a Tywinova smrt",
+            "d": "Joffrey zemře otráven na vlastní svatbě a z činu je obviněn Tyrion. Tyrion uprchne a zabije svého otce Tywina, čímž nechá rod Lannisterů bez skutečné hlavy."
+          },
+          {
+            "t": "Daenerys v Essosu",
+            "d": "Daenerys, nyní matka tří draků, osvobodí otroky v Astaporu, Yunkaiu a Meereenu. Učí se vládnout, ale také na vlastní kůži poznává meze moci."
+          },
+          {
+            "t": "Hrozba za Zdí",
+            "d": "Mance Rayder shromažďuje divoké za Zdí, kde prchají před Bílými chodci. Jon Snow a Noční hlídka brání Černý hrad v rozhodující bitvě."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "Dlouhá noc a co po ní",
+        "period": "Po Válce pěti králů",
+        "intro": "Zatímco se rody navzájem trhají, skutečná hrozba míří na jih. Válka s mrtvými a poté boj o Železný trůn zpečetí osud Westerosu.",
+        "events": [
+          {
+            "t": "Jon Snow, lord velitel",
+            "d": "Jon je zvolen lordem velitelem Noční hlídky a otevře Zeď divokým. Bratři ho pro zradu probodnou, ale Melisandre ho přivede zpět k životu."
+          },
+          {
+            "t": "Bitva nemanželských synů",
+            "d": "Jon a Sansa dobijí Zimohrad zpět od Ramsayho Boltona v děsivém střetu. Severští páni prohlásí Jona králem na Severu."
+          },
+          {
+            "t": "Cersei ničí Velký sept",
+            "d": "Aby unikla soudu, Cersei vyhodí do povětří Baelorův velký sept divokým ohněm a pobije své nepřátele. Král Tommen spáchá sebevraždu a Cersei se nechá korunovat královnou."
+          },
+          {
+            "t": "Daenerys přijíždí do Westerosu",
+            "d": "Daenerys přistane na Dračím kameni se svými draky, armádou a spojenci. Tam se setká s Jonem, s nímž se spojí proti hrozbě ze Severu."
+          },
+          {
+            "t": "Bitva o Zimohrad",
+            "d": "Živí se střetnou s armádou mrtvých Krále noci. Arya Stark zabije Krále noci a ukončí Dlouhou noc."
+          },
+          {
+            "t": "Pád Králova přístavu",
+            "d": "Daenerys, svými ztrátami dohnaná na pokraj šílenství, vypálí Králův přístav svým drakem navzdory kapitulaci města. Město se promění v popel."
+          },
+          {
+            "t": "Konec Daenerys",
+            "d": "Jon Snow, rozpolcený, probodne Daenerys a drak Drogon odnese její tělo. Tyrion a páni Westerosu se sejdou, aby rozhodli o budoucnosti království."
+          },
+          {
+            "t": "Bran Zlomený a nezávislý Sever",
+            "d": "Bran Stark je zvolen vládcem Šesti království, zatímco Sever se stane nezávislým pod vládou královny Sansy. Jon se vrací k Noční hlídce a poté za Zeď."
+          }
+        ]
+      }
+    }
+  }
+}

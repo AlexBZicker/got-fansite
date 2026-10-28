@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Türkçe",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Yedi Taç",
+    "tagline": "Game of Thrones evreninin resmî olmayan hayran sitesi: Westeros tarihi, haneler, karakterler ve diziler.",
+    "spoiler": "Sunulan bilgiler spoiler içerebilir.",
+    "nav": {
+      "histoire": "Tarih",
+      "maisons": "Haneler",
+      "personnages": "Karakterler",
+      "series": "Diziler",
+      "livres": "Kitaplar"
+    },
+    "titles": {
+      "histoire": "Westeros'un Tarihi",
+      "maisons": "Büyük Haneler",
+      "personnages": "Karakterler",
+      "series": "Diziler",
+      "livres": "Kitaplar",
+      "sources": "Kaynaklar"
+    },
+    "all": "Tümü",
+    "nightWatch": "Gece Nöbetçileri",
+    "redPriestess": "Kızıl Rahibe",
+    "language": "Dil",
+    "rights": "Tüm hakları saklıdır.",
+    "disclaimer": "HBO veya George R. R. Martin ile bağlantısı olmayan, resmî olmayan bir hayran sitesidir. Game of Thrones, hak sahiplerinin tescilli markasıdır.",
+    "images": "Görseller (oyuncular, armalar, logolar): Vikipedi / Wikimedia Commons, özgür lisanslar",
+    "home": "Ana Sayfa",
+    "discover": "Keşfet",
+    "era": "Çağ",
+    "events": "olay",
+    "prevEra": "Önceki çağ",
+    "nextEra": "Sonraki çağ",
+    "allEras": "Tüm çağlar",
+    "breadcrumb": "Gezinti yolu",
+    "skipToContent": "İçeriğe geç",
+    "notFoundTitle": "Sayfa bulunamadı",
+    "notFoundText": "Bu sayfa mevcut değil veya taşınmış.",
+    "backHome": "Ana sayfaya dön",
+    "ogAlt": "Yedi Taç — Game of Thrones hayran sitesi"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · Kuzey",
+      "words": "“Kış geliyor”",
+      "desc": "Beyaz zemin üzerinde gri bir kurt. Onur ve görev haneliği."
+    },
+    "lannister": {
+      "seat": "Casterly Kayası · Batı Toprakları",
+      "words": "“Kükrememe kulak ver”",
+      "desc": "Kırmızı zemin üzerinde altın bir aslan. Hanelerin en zengini."
+    },
+    "targaryen": {
+      "seat": "Ejderha Kayası / Kral'ın Limanı",
+      "words": "“Ateş ve Kan”",
+      "desc": "Siyah zemin üzerinde üç başlı kırmızı ejderha. Ejderha lordlarının hanedanı."
+    },
+    "baratheon": {
+      "seat": "Fırtına Burnu / Ejderha Kayası",
+      "words": "“Öfke bizimdir”",
+      "desc": "Altın zemin üzerinde taçlı siyah bir geyik."
+    },
+    "greyjoy": {
+      "seat": "Pyke · Demir Adalar",
+      "words": "“Biz ekmeyiz”",
+      "desc": "Siyah zemin üzerinde altın bir kraken. Denizci akıncıların halkı."
+    },
+    "martell": {
+      "seat": "Güneş Mızrağı · Dorne",
+      "words": "“Boyun eğmez, bükülmez, kırılmaz”",
+      "desc": "Güneş ve mızrak. Ejderhalar tarafından hiç fethedilmemiş tek hane."
+    },
+    "tyrell": {
+      "seat": "Highgarden · Menzil",
+      "words": "“Güçlenerek büyürüz”",
+      "desc": "Yeşil zemin üzerinde altın bir gül. Bereketli ve güçlü bir hane."
+    },
+    "tully": {
+      "seat": "Riverrun · Nehir Toprakları",
+      "words": "“Aile, Görev, Onur”",
+      "desc": "Sıçrayan gümüş bir alabalık."
+    },
+    "arryn": {
+      "seat": "Kartal Yuvası · Vadi",
+      "words": "“Onur kadar yüksek”",
+      "desc": "Şahin ve hilal."
+    }
+  },
+  "chars": {
+    "jon-snow": "Winterfell'in piçi, Gece Nöbetçileri'nin yeminli kardeşi, sonra Kuzey Kralı.",
+    "daenerys-targaryen": "Ejderhaların Annesi, Demir Taht'ın sürgündeki varisi.",
+    "tyrion-lannister": "Zekâsıyla hayatta kalan parlak ve alaycı bir Lannister.",
+    "cersei-lannister": "Sevdiklerini ve iktidarını korumak için her şeyi göze alan acımasız kraliçe.",
+    "jaime-lannister": "Onuru ağır sınava çekilen şövalye, Kralkatili.",
+    "arya-stark": "Silinecek isimlerden oluşan bir listeyle suikastçıya dönüşen küçük Stark kızı.",
+    "sansa-stark": "Saray kurbanından Kuzey'in siyasi stratejistine.",
+    "ned-stark": "Winterfell Lordu ve Kral'ın Eli, onur konusunda katı.",
+    "bran-stark": "Üç Gözlü Karga, dünyanın yaşayan hafızası.",
+    "brienne-de-torth": "Sözüne sadık, vefalı ve yılmaz bir şövalye.",
+    "theon-greyjoy": "İki bağlılık arasında yırtılan Stark'ın himaye çocuğu.",
+    "petyr-baelish": "“Küçükparmak”, usta manipülatör.",
+    "stannis-baratheon": "İnatçı, sert ve katı bir taht iddiacısı.",
+    "rhaenyra-targaryen": "Kral I. Viserys'in belirlenmiş varisi.",
+    "daemon-targaryen": "Savaşçı prens; öngörülemez ve kendince sadık.",
+    "alicent-hightower": "Kraliçe ve Rhaenyra'nın rakibi, Yeşiller kanadının simgesi.",
+    "robb-stark": "Ned'in en büyük oğlu, Kuzey Kralı ilan edildi.",
+    "catelyn-stark": "Ned'in eşi, çocukları için her şeyi yapabilecek bir anne.",
+    "joffrey-baratheon": "Zalim ve kaprisli genç kral.",
+    "robert-baratheon": "Demir Taht'ın kralı, İsyan'ın galibi.",
+    "tywin-lannister": "Hanesinin mirasına takıntılı Casterly Kayası patriği.",
+    "samwell-tarly": "Tutkulu bir okur ve Jon'un sadık dostu.",
+    "davos-mervault": "Soğan Şövalye, Stannis'in sadık danışmanı.",
+    "melisandre": "Işığın Efendisi'nin rahibesi.",
+    "sandor-clegane": "Av Köpeği, ketum bir onur koduna sahip acımasız savaşçı.",
+    "gregor-clegane": "Dağ, kana susamış bir dev.",
+    "jorah-mormont": "Sürgündeki şövalye, Daenerys'in sadık danışmanı.",
+    "margaery-tyrell": "Halkı kazanmayı bilen becerikli kraliçe.",
+    "oberyn-martell": "Dorne'un Kızıl Engerek'i.",
+    "viserys-targaryen": "Ailesi ile krallık arasında kalan barışçı kral.",
+    "corlys-velaryon": "Deniz Yılanı, Westeros'un en zengin denizcisi."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17 Nis 2011 – 19 May 2019 · 8 sezon, 73 bölüm",
+      "desc": "George R. R. Martin'in A Song of Ice and Fire serisinden uyarlama; yaratıcıları David Benioff ve D. B. Weiss."
+    },
+    "hotd": {
+      "tag": "HBO · Ağustos 2022'den beri",
+      "desc": "GoT'tan 172 yıl önce geçen Targaryen iç savaşını anlatan ön hikâye. 1. (2022), 2. (2024) ve 3. (2026) sezonlar yayımlandı; son olması planlanan 4. sezon 2028'de bekleniyor."
+    },
+    "aknight": {
+      "tag": "HBO · Oca 2026'dan beri · 6 bölüm",
+      "desc": "Dunk & Egg hikâyelerinden uyarlanan Ser Duncan the Tall (Peter Claffey) ve silahtarı Egg (Dexter Sol Ansell). 2. sezon onaylandı, 2027'de bekleniyor."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "Buz ve Ateşin Şarkısı",
+      "tag": "George R. R. Martin · 1996'dan beri",
+      "desc": "Orijinal seri: A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. İki cilt henüz çıkmadı, tarih belirsiz: The Winds of Winter ve A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Fire & Blood",
+      "tag": "2018",
+      "desc": "Targaryen hanedanının tarihi, House of the Dragon'ın kaynağı."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Öyküler · 1998–2017",
+      "desc": "Ser Duncan the Tall ile Egg'in GoT'tan bir asır önceki maceraları."
+    },
+    "worldoficeandfire": {
+      "title": "Buz ve Ateşin Dünyası",
+      "tag": "2014",
+      "desc": "Westeros ve Essos tarihinin resimli atlası ve ansiklopedisi."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Yedi Taç — Game of Thrones hayran sitesi: tarih, haneler, karakterler",
+      "description": "Game of Thrones'un resmî olmayan hayran sitesi: Westeros tarihi, büyük haneler, 31 karakter, HBO dizileri ve kitaplar. 20 dilde."
+    },
+    "history": {
+      "title": "Westeros Tarihi — Eksiksiz Kronoloji | Yedi Taç",
+      "description": "Kahramanlar Çağı'ndan Uzun Gece'ye: Westeros ve Demir Taht tarihini anlamak için 5 çağ ve 40 olay."
+    },
+    "houses": {
+      "title": "Westeros'un Büyük Haneleri: Stark, Lannister, Targaryen… | Yedi Taç",
+      "description": "Game of Thrones'un 9 büyük hanesinin sözleri, yurtları ve armaları: Stark, Lannister, Targaryen, Baratheon, Greyjoy, Martell, Tyrell, Tully ve Arryn."
+    },
+    "characters": {
+      "title": "Game of Thrones ve House of the Dragon Karakterleri | Yedi Taç",
+      "description": "Game of Thrones ve House of the Dragon'dan 31 karakter: hane, oyuncu ve portre; hanelere göre filtrelenebilir."
+    },
+    "series": {
+      "title": "Game of Thrones Evreninin Dizileri | Yedi Taç",
+      "description": "Game of Thrones evrenindeki HBO dizilerinin yayın tarihleri, sezonları ve oyuncu kadrosu; yaklaşan yapımlarla birlikte."
+    },
+    "books": {
+      "title": "Kitaplar: Buz ve Ateşin Şarkısı, Fire & Blood, Dunk & Egg | Yedi Taç",
+      "description": "Game of Thrones'a kaynaklık eden George R. R. Martin romanları ve öyküleri; henüz çıkmamış iki cildin durumu."
+    }
+  },
+  "history": {
+    "intro": "Zamanın şafağından Demir Taht'ın çöküşüne: İlk İnsanların efsanesinden krallığın yüzünü değiştiren savaşlara, Westeros tarihini izleyen beş çağ.",
+    "eras": {
+      "origins": {
+        "name": "Kadim Zamanlar",
+        "period": "Fetih'ten önce",
+        "intro": "Krallardan ve ejderhalardan önce Westeros, Ormanın Çocukları ile İlk İnsanlara aittir. Andallar, Rhoynarlar ve Valyria'nın çöküşü Fetih'in zeminini hazırlar.",
+        "events": [
+          {
+            "t": "Ormanın Çocukları ve İlk İnsanlar",
+            "d": "İlk İnsanlar Dorne Kolu'nu geçer ve Ormanın Çocukları'nın kutsal kalp ağaçlarını keser. Yüzyıllar süren savaşın ardından Yüzler Adası Anlaşması iki halkın birlikte yaşamasını sağlar."
+          },
+          {
+            "t": "İlk Uzun Gece",
+            "d": "Dünyanın üzerine bitmek bilmeyen bir kış çöker ve Beyaz Yürüyenler uzak Kuzey'den akın eder. Son Kahraman, dizideki anlatıma göre onları kendilerini savunmak için yaratmış olan Ormanın Çocukları'nın yardımıyla onları geri püskürtür."
+          },
+          {
+            "t": "Sur'un inşası",
+            "d": "İnşaatçı Brandon, krallığı korumak için yaklaşık 210 metre yüksekliğinde ve 480 kilometre uzunluğunda Buz Duvarı'nı yükseltir. Gece Nöbetçileri o günden beri onu savunur."
+          },
+          {
+            "t": "Andalların istilası",
+            "d": "Demirle silahlanmış ve Yedi'ye sadık Andallar boğazı geçer ve kıtanın neredeyse tüm güneyini fethederler. Stark kralları önderliğindeki Kuzey direnir ve eski tanrıları korur."
+          },
+          {
+            "t": "Nymeria ve Rhoynarlar Dorne'da",
+            "d": "Valyria tarafından topraklarından sürülen Prenses Nymeria, Rhoynar gemilerini Dorne'a sürer ve Mors Martell ile evlenir. Dorne o günden beri kız ve erkek çocuklar arasında eşit miras gibi tamamen kendine özgü gelenekleri korur."
+          },
+          {
+            "t": "Targaryenler Ejderha Kayası'na yerleşir",
+            "d": "Felaketi öngören Aenar Targaryen, ailesi ve ejderhalarıyla Valyria'dan ayrılıp Ejderha Kayası adasına yerleşir. Bu karar hanesini kurtaracaktır."
+          },
+          {
+            "t": "Valyria'nın Kıyameti",
+            "d": "Fetih'ten yaklaşık 114 yıl önce bir felaket, her şeye gücü yeten Valyria'yı ve ejderha lordlarını yok eder. Targaryenler hayatta kalan az sayıdaki aileden biridir."
+          },
+          {
+            "t": "Birleşmeden önce Westeros",
+            "d": "Kıta birbirine rakip krallıklara bölünmüştür: Kuzey, Vadi, Demir Adalar, Nehir Toprakları, Batı, Menzil, Fırtına Toprakları ve Dorne. Her birinin kendi kralları, savaşları ve değişken ittifakları vardır."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "Targaryen Hanedanı",
+        "period": "Fetih'ten sonra 1 – 283. yıllar",
+        "intro": "Yaklaşık üç yüzyıl boyunca ejderha lordları Demir Taht'tan hüküm sürer. Şan, iç savaşlar ve delilik hanedanlarının seyrine damgasını vurur.",
+        "events": [
+          {
+            "t": "Aegon'un Fethi (Fetih'ten sonra 1. yıl)",
+            "d": "Aegon Targaryen ve kız kardeşleri Visenya ile Rhaenys, ejderhalarının sırtında yedi krallıktan altısını boyun eğdirir. Demir Taht, yenilenlerin kılıçlarından, Balerion'un alevleriyle eritilerek dövülür."
+          },
+          {
+            "t": "Zalim Maegor ve Kızıl Kale",
+            "d": "Aegon'un oğlu I. Maegor terörle hüküm sürer ve Kral'ın Limanı'ndaki Kızıl Kale'nin çekirdeği olan Maegor'un Kalesi'ni inşa eder. Saltanatı hanedanın en karanlık dönemlerinden biri olarak kalır."
+          },
+          {
+            "t": "Büyük Konsey (Fetih'ten sonra 101. yıl)",
+            "d": "Krallığın büyük lordları, Kral Jaehaerys'in halefi olarak kuzeni Rhaenys yerine Viserys'i seçer. Bu emsal sonraki veraset üzerinde ağır bir yük oluşturacaktır."
+          },
+          {
+            "t": "I. Viserys, Rhaenyra ve Alicent",
+            "d": "Viserys'in barışçıl saltanatında saray, varis ilan edilen kızı Rhaenyra ile yeni kraliçe Alicent Hightower arasında bölünür. Bu rekabet savaşı müjdeler."
+          },
+          {
+            "t": "Ejderhaların Dansı (Fetih'ten sonra 129–131. yıllar)",
+            "d": "Viserys'in ölümünde Rhaenyra ile üvey kardeşi II. Aegon tahtı paylaşamaz: House of the Dragon'da anlatılan Siyahlar ile Yeşiller arasındaki iç savaş başlar. Pek çok ejderha bu savaşta ölür."
+          },
+          {
+            "t": "Ejderhaların çöküşü",
+            "d": "Dans'tan sonra ejderhalar, bakımsızlık ve yaşayabilir yumurta eksikliği yüzünden birer birer ölür. Sonuncusu Fetih'ten sonra yaklaşık 153'te ölür ve Targaryen büyüsü zayıflar."
+          },
+          {
+            "t": "Dunk & Egg ve Blackfyre İsyanı (Fetih'ten sonra yaklaşık 196. yıl)",
+            "d": "Kralın piç oğlu Daemon Blackfyre, üvey kardeşi Kral II. Daeron'a isyan eder ve Kızıl Ot Tarlası Savaşı'nı kaybeder. O dönemde gezgin şövalye Dunk ile silahtarı Egg yollarda dolaşır."
+          },
+          {
+            "t": "II. Aerys, Çılgın Kral (Fetih'ten sonra 262–283. yıllar)",
+            "d": "II. Aerys, vahşi ateşe duyduğu hayranlıkla giderek paranoyaya ve zulme gömülür. Saltanatı, krallığın en büyük lordlarının isyanına yol açar."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Robert'ın İsyanı",
+        "period": "Fetih'ten sonra 281 – 289. yıllar",
+        "intro": "Bir turnuva, bir kaçırma ve fazlasıyla paranoyak bir kral: Robert Baratheon'un isyanı Targaryen hanedanına son verir ve büyük hanelerin dengesini altüst eder.",
+        "events": [
+          {
+            "t": "Harrenhal Turnuvası (Fetih'ten sonra 281. yıl)",
+            "d": "Prens Rhaegar Targaryen, nişanlısı Robert Baratheon'un büyük hoşnutsuzluğuna rağmen Lyanna Stark'ı güzellik kraliçesi ilan eder. Bu olay çatışmanın kıvılcımı olarak herkesin hafızasında kalmıştır."
+          },
+          {
+            "t": "Lyanna Stark'ın kayboluşu",
+            "d": "Lyanna, resmî anlatıya göre Rhaegar tarafından kaçırılır. Babası Rickard ve kardeşi Brandon adalet istemek için Kral'ın Limanı'na gelir; Kral Aerys ikisini de idam ettirir."
+          },
+          {
+            "t": "Sancaklar kaldırılır",
+            "d": "Eddard Stark, Robert Baratheon ve Jon Arryn, kendi başlarını isteyen Aerys'e itaat etmeyi reddeder ve sancaktarlarını toplar. Tully'ler de kısa süre sonra isyancılara katılır."
+          },
+          {
+            "t": "Trident Savaşı",
+            "d": "Trident Geçidi'nde Robert Baratheon, Targaryen varisi Prens Rhaegar ile teke tek dövüşür ve onu öldürür. Bu zafer isyancılara Kral'ın Limanı'nın yolunu açar."
+          },
+          {
+            "t": "Kral'ın Limanı'nın yağmalanması",
+            "d": "Tywin Lannister, resmen kralı savunmak için ordusunu başkente sokar. Jaime Lannister, şehri yakmasına engel olmak için Aerys'i öldürür ve Rhaegar'ın çocukları katledilir."
+          },
+          {
+            "t": "Robert'ın taç giymesi",
+            "d": "Robert Baratheon Demir Taht'a çıkar ve zengin Casterly Kayası hanesiyle ittifakı mühürlemek için Cersei Lannister ile evlenir. Ned Stark Winterfell'e döner."
+          },
+          {
+            "t": "Viserys ve Daenerys'in sürgünü",
+            "d": "Hayatta kalan son Targaryenler, çocuklar Viserys ve Daenerys, Essos'a kaçar ve sürgünden sürgüne yaşar. Daenerys, adayı kasıp kavuran fırtına sırasında Ejderha Kayası'nda doğmuştur."
+          },
+          {
+            "t": "Greyjoy İsyanı (Fetih'ten sonra 289. yıl)",
+            "d": "Demir Adalar Kralı Balon Greyjoy bağımsızlığını geri almaya çalışır. Robert'ın ezdiği isyan, büyük oğullarının hayatına mal olur ve en küçük oğlu Theon'un Stark'larda rehin olarak büyümesine yol açar."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "Beş Kral Savaşı",
+        "period": "Fetih'ten sonra 298 – 300. yıllar",
+        "intro": "Bir kralın ölümü Westeros'un yüzyıllardır gördüğü en büyük çatışmayı başlatır: beş hak iddia eden, entrikalar, ihanetler ve savaşlar arasında çarpışır.",
+        "events": [
+          {
+            "t": "Ned Stark Kral'ın Eli olur",
+            "d": "Jon Arryn'ın ölümünden sonra Robert, eski dostu Ned'den Eli olmasını ister. Kral'ın Limanı'nda Ned sarayın sırlarını, özellikle de kraliçenin çocuklarıyla ilgili gerçeği keşfeder."
+          },
+          {
+            "t": "Robert'ın ölümü ve Ned'in idamı",
+            "d": "Kral bir av kazasında ölür ve Joffrey tahta çıkar. Ned vatana ihanetten tutuklanıp başı kesilir; bu olay Stark'ları savaşın içine iter."
+          },
+          {
+            "t": "Beş kral",
+            "d": "Joffrey, Robb Stark, Renly ve Stannis Baratheon, ardından Balon Greyjoy kendilerini kral ilan eder. Krallık ittifaklar, ihanetler ve savaşlar arasında parçalanır."
+          },
+          {
+            "t": "Karasu Savaşı",
+            "d": "Stannis Kral'ın Limanı'nı denizden kuşatır, ancak Tyrion Lannister nehri vahşi ateşle tutuşturur. Tywin ile Tyrell'lerin gelişi şehri kurtarır."
+          },
+          {
+            "t": "Kızıl Düğün",
+            "d": "Walder Frey'in evindeki bir düğünde Robb Stark, annesi Catelyn ve ordusunun büyük bölümü katledilir. Bu olay, tüm destanın en ünlü olaylarından biridir."
+          },
+          {
+            "t": "Joffrey'nin düğünü ve Tywin'in ölümü",
+            "d": "Joffrey kendi düğününde zehirlenerek ölür ve suçlama Tyrion'a yöneltilir. Tyrion kaçar ve babası Tywin'i öldürür; bu, Lannister hanesini gerçek bir lidersiz bırakır."
+          },
+          {
+            "t": "Daenerys Essos'ta",
+            "d": "Artık üç ejderhanın annesi olan Daenerys, Astapor, Yunkai ve Meereen'in kölelerini özgürleştirir. Yönetmeyi öğrenir, ama aynı zamanda bedelini ödeyerek iktidarın sınırlarını da öğrenir."
+          },
+          {
+            "t": "Sur'dan gelen tehdit",
+            "d": "Mance Rayder, Beyaz Yürüyenler'den kaçan Vahşileri Sur'un kuzeyinde toplar. Jon Snow ve Gece Nöbetçileri, belirleyici bir savaşta Kara Kale'yi savunur."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "Uzun Gece ve Sonrası",
+        "period": "Beş Kral Savaşı'ndan sonra",
+        "intro": "Haneler birbirini parçalarken gerçek tehdit güneye doğru yürür. Ölülerle savaş, ardından Demir Taht için verilen mücadele Westeros'un kaderini mühürler.",
+        "events": [
+          {
+            "t": "Jon Snow, Lord Komutan",
+            "d": "Gece Nöbetçileri'nin Lord Komutanı seçilen Jon, Sur'u Vahşiler'e açar. Kardeşleri ihanet gerekçesiyle onu hançerler, ama Melisandre onu hayata döndürür."
+          },
+          {
+            "t": "Piçlerin Savaşı",
+            "d": "Jon ve Sansa, korkunç bir çatışmada Winterfell'i Ramsay Bolton'dan geri alır. Jon, bölgenin lordları tarafından Kuzey Kralı ilan edilir."
+          },
+          {
+            "t": "Cersei Büyük Sept'i yok eder",
+            "d": "Yargılanmaktan kaçmak için Cersei, Baelor'un Büyük Septi'ni vahşi ateşle havaya uçurur ve düşmanlarını öldürür. Kral Tommen intihar eder ve Cersei kendini kraliçe ilan ettirir."
+          },
+          {
+            "t": "Daenerys Westeros'a gelir",
+            "d": "Daenerys, ejderhaları, ordusu ve müttefikleriyle Ejderha Kayası'na çıkar. Orada Jon ile tanışır ve Kuzey'den gelen tehdide karşı onunla ittifak kurar."
+          },
+          {
+            "t": "Winterfell Savaşı",
+            "d": "Yaşayanlar, Gece Kralı'nın ölüler ordusuyla çarpışır. Arya Stark Gece Kralı'nı öldürür ve Uzun Gece'ye son verir."
+          },
+          {
+            "t": "Kral'ın Limanı'nın çöküşü",
+            "d": "Kayıplarının etkisiyle çılgınlığın eşiğine itilen Daenerys, şehrin teslim olmasına rağmen ejderhasıyla Kral'ın Limanı'nı yakar. Şehir küle döner."
+          },
+          {
+            "t": "Daenerys'in sonu",
+            "d": "İçi parçalanan Jon Snow, Daenerys'i hançerler ve ejderha Drogon cesedini alıp götürür. Tyrion ve Westeros lordları, krallığın geleceğine karar vermek üzere toplanır."
+          },
+          {
+            "t": "Kırık Bran ve bağımsız Kuzey",
+            "d": "Bran Stark Altı Krallık'ı yönetmek üzere seçilir, Kuzey ise Kraliçe Sansa yönetiminde bağımsız olur. Jon Gece Nöbetçileri'ne, ardından Sur'un ötesine döner."
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "name": "Tiếng Việt",
+    "dir": "ltr"
+  },
+  "ui": {
+    "siteTitle": "Bảy Vương Miện",
+    "tagline": "Trang fan không chính thức về vũ trụ Game of Thrones: lịch sử Westeros, các gia tộc, nhân vật và phim.",
+    "spoiler": "Thông tin trình bày có thể chứa tiết lộ nội dung (spoiler).",
+    "nav": {
+      "histoire": "Lịch sử",
+      "maisons": "Gia tộc",
+      "personnages": "Nhân vật",
+      "series": "Phim",
+      "livres": "Sách"
+    },
+    "titles": {
+      "histoire": "Lịch sử Westeros",
+      "maisons": "Các Đại Gia Tộc",
+      "personnages": "Nhân vật",
+      "series": "Phim",
+      "livres": "Các cuốn sách",
+      "sources": "Nguồn"
+    },
+    "all": "Tất cả",
+    "nightWatch": "Đội Tuần Đêm",
+    "redPriestess": "Nữ tư tế Đỏ",
+    "language": "Ngôn ngữ",
+    "rights": "Bảo lưu mọi quyền.",
+    "disclaimer": "Trang fan không chính thức, không liên quan đến HBO hay George R. R. Martin. Game of Thrones là nhãn hiệu của các chủ sở hữu quyền.",
+    "images": "Hình ảnh (diễn viên, huy hiệu, logo): Wikipedia / Wikimedia Commons, giấy phép tự do",
+    "home": "Trang chủ",
+    "discover": "Khám phá",
+    "era": "Thời kỳ",
+    "events": "sự kiện",
+    "prevEra": "Thời kỳ trước",
+    "nextEra": "Thời kỳ sau",
+    "allEras": "Tất cả thời kỳ",
+    "breadcrumb": "Đường dẫn",
+    "skipToContent": "Chuyển đến nội dung",
+    "notFoundTitle": "Không tìm thấy trang",
+    "notFoundText": "Trang này không tồn tại hoặc đã được di chuyển.",
+    "backHome": "Về trang chủ",
+    "ogAlt": "Bảy Vương Miện — trang fan Game of Thrones"
+  },
+  "houses": {
+    "stark": {
+      "seat": "Winterfell · Phương Bắc",
+      "words": "«Mùa đông đang đến»",
+      "desc": "Sói xám khổng lồ trên nền trắng. Gia tộc của danh dự và bổn phận."
+    },
+    "lannister": {
+      "seat": "Casterly Rock · Vùng Tây Địa",
+      "words": "«Hãy nghe ta gầm»",
+      "desc": "Sư tử vàng trên nền đỏ. Gia tộc giàu có nhất."
+    },
+    "targaryen": {
+      "seat": "Dragonstone / King's Landing",
+      "words": "«Lửa và Máu»",
+      "desc": "Rồng đỏ ba đầu trên nền đen. Triều đại của các Chúa Rồng."
+    },
+    "baratheon": {
+      "seat": "Storm's End / Dragonstone",
+      "words": "«Cơn thịnh nộ là của ta»",
+      "desc": "Hươu đen đội vương miện trên nền vàng."
+    },
+    "greyjoy": {
+      "seat": "Pyke · Quần đảo Sắt",
+      "words": "«Chúng ta không gieo trồng»",
+      "desc": "Thủy quái kraken vàng trên nền đen. Một dân tộc cướp biển."
+    },
+    "martell": {
+      "seat": "Sunspear · Dorne",
+      "words": "«Không khuất phục, không cúi đầu, không gãy đổ»",
+      "desc": "Mặt trời và ngọn giáo. Gia tộc duy nhất chưa từng bị rồng chinh phục."
+    },
+    "tyrell": {
+      "seat": "Highgarden · The Reach",
+      "words": "«Lớn mạnh và cường thịnh»",
+      "desc": "Hoa hồng vàng trên nền xanh. Gia tộc phì nhiêu và quyền lực."
+    },
+    "tully": {
+      "seat": "Riverrun · Vùng Sông Nước",
+      "words": "«Gia đình, Bổn phận, Danh dự»",
+      "desc": "Cá hồi bạc nhảy vọt."
+    },
+    "arryn": {
+      "seat": "Eyrie · The Vale",
+      "words": "«Cao như danh dự»",
+      "desc": "Chim ưng và trăng lưỡi liềm."
+    }
+  },
+  "chars": {
+    "jon-snow": "Đứa con hoang của Winterfell, huynh đệ tuyên thệ của Đội Tuần Đêm, rồi trở thành Vua phương Bắc.",
+    "daenerys-targaryen": "Mẹ của Rồng, người thừa kế lưu vong của Ngai Sắt.",
+    "tyrion-lannister": "Một Lannister thông minh và hoài nghi, sống sót nhờ trí tuệ.",
+    "cersei-lannister": "Nữ hoàng tàn nhẫn, sẵn sàng làm mọi thứ để bảo vệ người thân và quyền lực.",
+    "jaime-lannister": "Kẻ Giết Vua, hiệp sĩ có danh dự bị thử thách khắc nghiệt.",
+    "arya-stark": "Cô con gái út nhà Stark trở thành sát thủ, với một danh sách những cái tên cần xóa.",
+    "sansa-stark": "Từ nạn nhân của triều đình thành nhà chiến lược chính trị của phương Bắc.",
+    "ned-stark": "Lãnh chúa Winterfell và Cánh Tay Phải của Nhà Vua, nghiêm khắc về danh dự.",
+    "bran-stark": "Con Quạ Ba Mắt, ký ức sống của thế giới.",
+    "brienne-de-torth": "Nữ hiệp sĩ trung thành và quả cảm, luôn giữ lời.",
+    "theon-greyjoy": "Con nuôi nhà Stark bị giằng xé giữa hai lòng trung thành.",
+    "petyr-baelish": "«Littlefinger», bậc thầy thao túng.",
+    "stannis-baratheon": "Kẻ đòi ngai vàng bướng bỉnh, cứng rắn và khắc nghiệt.",
+    "rhaenyra-targaryen": "Người thừa kế được chỉ định của vua Viserys I.",
+    "daemon-targaryen": "Hoàng tử chiến binh, khó lường và trung thành theo cách riêng.",
+    "alicent-hightower": "Hoàng hậu và đối thủ của Rhaenyra, gương mặt của phe Xanh.",
+    "robb-stark": "Con trai cả của Ned, được tôn làm Vua phương Bắc.",
+    "catelyn-stark": "Vợ của Ned, người mẹ sẵn sàng làm tất cả vì các con.",
+    "joffrey-baratheon": "Vị vua trẻ tàn ác và thất thường.",
+    "robert-baratheon": "Vị vua của Ngai Sắt, người chiến thắng trong cuộc nổi loạn.",
+    "tywin-lannister": "Gia trưởng của Casterly Rock, ám ảnh với di sản gia tộc.",
+    "samwell-tarly": "Người ham đọc sách và là bạn trung thành của Jon.",
+    "davos-mervault": "Hiệp sĩ Hành, cố vấn trung thành của Stannis.",
+    "melisandre": "Nữ tư tế của Chúa Ánh Sáng.",
+    "sandor-clegane": "Con Chó Săn, chiến binh tàn bạo với một quy tắc danh dự kín đáo.",
+    "gregor-clegane": "Ngọn Núi, gã khổng lồ khát máu.",
+    "jorah-mormont": "Hiệp sĩ lưu vong, cố vấn trung thành của Daenerys.",
+    "margaery-tyrell": "Nữ hoàng khéo léo, biết cách chinh phục dân chúng.",
+    "oberyn-martell": "Độc Xà Đỏ của Dorne.",
+    "viserys-targaryen": "Vị vua yêu hòa bình, bị giằng xé giữa gia đình và vương quốc.",
+    "corlys-velaryon": "Rắn Biển, nhà hàng hải giàu nhất Westeros."
+  },
+  "series": {
+    "got": {
+      "tag": "HBO · 17 thg 4, 2011 – 19 thg 5, 2019 · 8 mùa, 73 tập",
+      "desc": "Chuyển thể từ A Song of Ice and Fire của George R. R. Martin, do David Benioff và D. B. Weiss sáng tạo."
+    },
+    "hotd": {
+      "tag": "HBO · từ tháng 8, 2022",
+      "desc": "Phần tiền truyện về cuộc nội chiến Targaryen, 172 năm trước GoT. Mùa 1 (2022), 2 (2024) và 3 (2026) đã phát sóng; mùa 4, dự kiến là mùa cuối, được mong đợi vào năm 2028."
+    },
+    "aknight": {
+      "tag": "HBO · từ tháng 1, 2026 · 6 tập",
+      "desc": "Ser Duncan the Tall (Peter Claffey) và người giúp việc Egg (Dexter Sol Ansell), dựa trên các truyện ngắn Dunk & Egg. Mùa 2 đã được đặt hàng, dự kiến năm 2027."
+    }
+  },
+  "books": {
+    "asoiaf": {
+      "title": "A Song of Ice and Fire",
+      "tag": "George R. R. Martin · từ 1996",
+      "desc": "Bộ truyện gốc (Le Trône de Fer trong tiếng Pháp): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons. Còn hai tập chưa ra mắt, chưa rõ ngày: The Winds of Winter và A Dream of Spring."
+    },
+    "fireblood": {
+      "title": "Fire & Blood",
+      "tag": "2018",
+      "desc": "Lịch sử triều đại Targaryen, nền tảng của House of the Dragon."
+    },
+    "dunkegg": {
+      "title": "Dunk & Egg",
+      "tag": "Truyện ngắn · 1998–2017",
+      "desc": "Những cuộc phiêu lưu của Ser Duncan the Tall và Egg, một thế kỷ trước GoT."
+    },
+    "worldoficeandfire": {
+      "title": "The World of Ice & Fire",
+      "tag": "2014",
+      "desc": "Tập bản đồ và bách khoa toàn thư minh họa về lịch sử Westeros và Essos."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Bảy Vương Miện — Trang fan Game of Thrones: lịch sử, gia tộc, nhân vật",
+      "description": "Trang fan không chính thức về Game of Thrones: lịch sử Westeros, các đại gia tộc, 31 nhân vật, phim HBO và sách. Có sẵn trong 20 ngôn ngữ."
+    },
+    "history": {
+      "title": "Lịch sử Westeros — Dòng thời gian đầy đủ | Bảy Vương Miện",
+      "description": "Từ Thời đại Anh hùng đến Đêm Dài: 5 thời kỳ và 40 sự kiện giúp bạn hiểu lịch sử Westeros và Ngai Sắt."
+    },
+    "houses": {
+      "title": "Các Đại Gia Tộc — Game of Thrones | Bảy Vương Miện",
+      "description": "Châm ngôn, thành trì và huy hiệu của 9 đại gia tộc Game of Thrones: Stark, Lannister, Targaryen, Baratheon, Greyjoy, Martell, Tyrell, Tully và Arryn."
+    },
+    "characters": {
+      "title": "Nhân vật Game of Thrones và House of the Dragon | Bảy Vương Miện",
+      "description": "31 nhân vật của Game of Thrones và House of the Dragon: gia tộc, diễn viên và chân dung, có thể lọc theo gia tộc."
+    },
+    "series": {
+      "title": "Phim — Game of Thrones | Bảy Vương Miện",
+      "description": "Ngày phát sóng, các mùa và dàn diễn viên của loạt phim HBO trong vũ trụ Game of Thrones, kèm các phần sắp ra mắt."
+    },
+    "books": {
+      "title": "Các cuốn sách — Game of Thrones | Bảy Vương Miện",
+      "description": "Các tiểu thuyết và truyện ngắn của George R. R. Martin làm nên Game of Thrones, cùng tình trạng hai tập chưa ra mắt."
+    }
+  },
+  "history": {
+    "intro": "Từ buổi bình minh của thời gian đến sự sụp đổ của Ngai Sắt: năm thời kỳ để theo dõi lịch sử Westeros, từ truyền thuyết về Người Đầu Tiên đến những cuộc chiến đã vẽ lại vương quốc.",
+    "eras": {
+      "origins": {
+        "name": "Thời cổ đại",
+        "period": "Trước năm 1 AC",
+        "intro": "Trước các vị vua và loài rồng, Westeros thuộc về Con của Rừng và Người Đầu Tiên. Người Andal, người Rhoynar và sự sụp đổ của Valyria dọn đường cho Cuộc Chinh Phục.",
+        "events": [
+          {
+            "t": "Con của Rừng và Người Đầu Tiên",
+            "d": "Người Đầu Tiên vượt Cánh Tay Dorne và đốn hạ những cây barral thiêng của Con của Rừng. Sau nhiều thế kỷ chiến tranh, Hiệp ước Đảo Gương Mặt cho phép hai dân tộc sống chung."
+          },
+          {
+            "t": "Đêm Dài đầu tiên",
+            "d": "Một mùa đông bất tận giáng xuống thế giới và các Bóng Trắng tràn xuống từ Cực Bắc. Anh Hùng Cuối Cùng đẩy lùi chúng với sự giúp đỡ của Con của Rừng, những người, theo bộ phim, đã tạo ra chúng để tự vệ."
+          },
+          {
+            "t": "Xây dựng Bức Tường",
+            "d": "Brandon Người Xây Dựng dựng nên Bức Tường Băng, cao khoảng 210 mét và dài 480 kilômét, để bảo vệ vương quốc. Từ đó, Đội Tuần Đêm đảm nhiệm việc phòng thủ."
+          },
+          {
+            "t": "Cuộc xâm lược của người Andal",
+            "d": "Trang bị sắt thép và tôn thờ Thất Thần, người Andal vượt eo biển và chinh phục gần như toàn bộ miền nam lục địa. Phương Bắc, dưới các vị vua nhà Stark, kháng cự và giữ lại các vị thần cổ."
+          },
+          {
+            "t": "Nymeria và người Rhoynar ở Dorne",
+            "d": "Bị Valyria đuổi khỏi quê hương, công chúa Nymeria dẫn những con tàu Rhoynar đến Dorne và kết hôn với Mors Martell. Từ đó Dorne giữ những phong tục rất riêng, như quyền thừa kế bình đẳng giữa con gái và con trai."
+          },
+          {
+            "t": "Nhà Targaryen định cư ở Dragonstone",
+            "d": "Lường trước thảm họa, Aenar Targaryen rời Valyria cùng gia đình và những con rồng đến đảo Dragonstone. Quyết định này sẽ cứu lấy gia tộc của ông."
+          },
+          {
+            "t": "Đại họa Valyria",
+            "d": "Khoảng 114 năm trước Cuộc Chinh Phục, một thảm họa hủy diệt Valyria quyền năng cùng các Chúa Rồng của nó. Nhà Targaryen là một trong số ít gia đình sống sót."
+          },
+          {
+            "t": "Westeros trước khi thống nhất",
+            "d": "Lục địa bị chia thành các vương quốc đối địch: Phương Bắc, the Vale, Quần đảo Sắt, Vùng Sông Nước, Tây Địa, the Reach, Vùng Bão Tố và Dorne. Mỗi nơi có vua, chiến tranh và những liên minh thay đổi của riêng mình."
+          }
+        ]
+      },
+      "targaryen": {
+        "name": "Triều đại Targaryen",
+        "period": "Năm 1 – 283 AC",
+        "intro": "Trong gần ba thế kỷ, các Chúa Rồng trị vì từ Ngai Sắt. Vinh quang, nội chiến và sự điên loạn đánh dấu triều đại của họ.",
+        "events": [
+          {
+            "t": "Cuộc chinh phục của Aegon (năm 1 AC)",
+            "d": "Aegon Targaryen cùng hai chị em Visenya và Rhaenys, cưỡi rồng, khuất phục sáu trong bảy vương quốc. Ngai Sắt được rèn từ gươm của những kẻ bại trận, nung chảy bởi hơi thở của Balerion."
+          },
+          {
+            "t": "Maegor Tàn Ác và Red Keep",
+            "d": "Con trai Aegon, Maegor I, cai trị bằng khủng bố và xây Pháo đài Maegor, hạt nhân của Red Keep ở King's Landing. Triều đại của ông vẫn là một trong những giai đoạn đen tối nhất của vương triều."
+          },
+          {
+            "t": "Đại Hội Đồng (năm 101 AC)",
+            "d": "Các lãnh chúa lớn của vương quốc chọn Viserys thay vì người chị họ Rhaenys để kế vị vua Jaehaerys. Tiền lệ này sẽ đè nặng lên cuộc kế vị sau đó."
+          },
+          {
+            "t": "Viserys I, Rhaenyra và Alicent",
+            "d": "Dưới triều đại hòa bình của Viserys, triều đình chia rẽ giữa con gái ông là Rhaenyra, người thừa kế được chỉ định, và tân hoàng hậu Alicent Hightower. Những mối kình địch này báo hiệu chiến tranh."
+          },
+          {
+            "t": "Vũ điệu của Rồng (129–131 AC)",
+            "d": "Khi Viserys qua đời, Rhaenyra và người em cùng cha khác mẹ Aegon II tranh giành ngai vàng: đó là cuộc nội chiến giữa phe Đen và phe Xanh, được kể trong House of the Dragon. Nhiều con rồng đã bỏ mạng."
+          },
+          {
+            "t": "Sự suy tàn của loài rồng",
+            "d": "Sau Vũ điệu, những con rồng lần lượt chết đi vì thiếu chăm sóc và không còn trứng nở được. Con cuối cùng chết khoảng năm 153 AC, và phép thuật Targaryen suy yếu."
+          },
+          {
+            "t": "Dunk & Egg và Cuộc nổi loạn Blackfyre (khoảng 196 AC)",
+            "d": "Daemon Blackfyre, con trai ngoài giá thú của nhà vua, nổi dậy chống lại người em cùng cha khác mẹ là vua Daeron II và thua trận Redgrass Field. Vào thời ấy, hiệp sĩ lang thang Dunk và người hầu Egg rong ruổi trên các nẻo đường."
+          },
+          {
+            "t": "Aerys II, Vua Điên (262–283 AC)",
+            "d": "Aerys II dần chìm vào hoang tưởng và tàn bạo, bị mê hoặc bởi lửa hoang. Triều đại của ông dẫn đến cuộc nổi dậy của những lãnh chúa quyền lực nhất vương quốc."
+          }
+        ]
+      },
+      "rebellion": {
+        "name": "Cuộc nổi loạn của Robert",
+        "period": "Năm 281 – 289 AC",
+        "intro": "Một giải đấu, một vụ bắt cóc và một vị vua quá hoang tưởng: cuộc nổi loạn của Robert Baratheon chấm dứt triều đại Targaryen và đảo lộn cán cân các đại gia tộc.",
+        "events": [
+          {
+            "t": "Giải đấu Harrenhal (năm 281 AC)",
+            "d": "Hoàng tử Rhaegar Targaryen trao vương miện nữ hoàng sắc đẹp cho Lyanna Stark, trước sự phẫn nộ của vị hôn phu Robert Baratheon. Sự kiện này được nhớ mãi như tia lửa của cuộc xung đột."
+          },
+          {
+            "t": "Lyanna Stark biến mất",
+            "d": "Lyanna bị bắt cóc, theo phiên bản chính thức, bởi Rhaegar. Cha cô là Rickard và anh trai Brandon đến King's Landing đòi công lý: vua Aerys cho hành quyết cả hai."
+          },
+          {
+            "t": "Cờ hiệu được giương lên",
+            "d": "Eddard Stark, Robert Baratheon và Jon Arryn từ chối tuân lệnh Aerys, kẻ đòi lấy đầu họ, và triệu tập các chư hầu. Nhà Tully chẳng bao lâu gia nhập phe nổi dậy."
+          },
+          {
+            "t": "Trận Trident",
+            "d": "Tại bến cạn Trident, Robert Baratheon giao chiến và giết chết hoàng tử Rhaegar, người thừa kế nhà Targaryen, trong một trận đấu tay đôi. Chiến thắng này mở cho phe nổi dậy con đường tiến vào King's Landing."
+          },
+          {
+            "t": "Cuộc cướp phá King's Landing",
+            "d": "Tywin Lannister đưa quân vào kinh thành, nhân danh bảo vệ nhà vua. Jaime Lannister giết Aerys để ngăn ông thiêu rụi thành phố, và các con của Rhaegar bị tàn sát."
+          },
+          {
+            "t": "Robert đăng quang",
+            "d": "Robert Baratheon lên Ngai Sắt và cưới Cersei Lannister để củng cố liên minh với gia tộc giàu có ở Casterly Rock. Ned Stark trở về Winterfell."
+          },
+          {
+            "t": "Cuộc lưu vong của Viserys và Daenerys",
+            "d": "Hai người Targaryen cuối cùng còn sống, hai đứa trẻ Viserys và Daenerys, chạy sang Essos và sống hết nơi lưu vong này đến nơi lưu vong khác. Daenerys chào đời ở Dragonstone giữa cơn bão tàn phá hòn đảo."
+          },
+          {
+            "t": "Cuộc nổi loạn Greyjoy (năm 289 AC)",
+            "d": "Balon Greyjoy, vua Quần đảo Sắt, tìm cách giành lại độc lập. Bị Robert nghiền nát, cuộc nổi loạn cướp đi mạng sống các con trai cả của ông và khiến Theon, đứa con út, lớn lên làm con tin ở nhà Stark."
+          }
+        ]
+      },
+      "five-kings": {
+        "name": "Cuộc chiến Năm Vua",
+        "period": "Năm 298 – 300 AC",
+        "intro": "Cái chết của một vị vua châm ngòi cho cuộc xung đột lớn nhất mà Westeros từng biết trong nhiều thế kỷ: năm kẻ đòi ngôi đối đầu giữa mưu đồ, phản bội và chiến trận.",
+        "events": [
+          {
+            "t": "Ned Stark trở thành Cánh Tay Phải của Nhà Vua",
+            "d": "Khi Jon Arryn qua đời, Robert nhờ người bạn cũ Ned làm Cánh Tay Phải của mình. Ở King's Landing, Ned khám phá những bí mật chốn cung đình, đặc biệt là sự thật về các con của hoàng hậu."
+          },
+          {
+            "t": "Cái chết của Robert và vụ hành quyết Ned",
+            "d": "Nhà vua chết sau một tai nạn đi săn, và Joffrey lên ngôi. Ned bị bắt vì tội phản quốc và bị chém đầu, đẩy nhà Stark vào chiến tranh."
+          },
+          {
+            "t": "Năm vị vua",
+            "d": "Joffrey, Robb Stark, Renly và Stannis Baratheon, rồi Balon Greyjoy, đều xưng vương. Vương quốc bị xé nát giữa liên minh, phản bội và chiến trận."
+          },
+          {
+            "t": "Trận Blackwater",
+            "d": "Stannis bao vây King's Landing từ biển, nhưng Tyrion Lannister châm lửa hoang lên dòng sông. Sự xuất hiện của Tywin và nhà Tyrell cứu được thành phố."
+          },
+          {
+            "t": "Đám cưới Đỏ",
+            "d": "Trong một lễ cưới ở nhà Walder Frey, Robb Stark, mẹ ông là Catelyn và phần lớn quân đội của ông bị tàn sát. Sự kiện này là một trong những cảnh nổi tiếng nhất của cả bộ truyện."
+          },
+          {
+            "t": "Đám cưới của Joffrey và cái chết của Tywin",
+            "d": "Joffrey chết vì trúng độc trong chính đám cưới của mình, và Tyrion bị buộc tội. Tyrion trốn thoát và giết cha mình là Tywin, để lại nhà Lannister không có người đứng đầu thực sự."
+          },
+          {
+            "t": "Daenerys ở Essos",
+            "d": "Daenerys, nay là mẹ của ba con rồng, giải phóng nô lệ ở Astapor, Yunkai và Meereen. Cô học cách cai trị, và cũng học được, bằng cái giá của chính mình, những giới hạn của quyền lực."
+          },
+          {
+            "t": "Mối đe dọa từ Bức Tường",
+            "d": "Mance Rayder tập hợp người Hoang Dã ở phía bắc Bức Tường, chạy trốn khỏi các Bóng Trắng. Jon Snow và Đội Tuần Đêm bảo vệ Castle Black trong một trận chiến quyết định."
+          }
+        ]
+      },
+      "long-night": {
+        "name": "Đêm Dài và hậu quả",
+        "period": "Sau Cuộc chiến Năm Vua",
+        "intro": "Trong khi các gia tộc xâu xé nhau, mối đe dọa thực sự tiến xuống phía nam. Cuộc chiến chống lại người chết, rồi cuộc tranh giành Ngai Sắt, định đoạt số phận Westeros.",
+        "events": [
+          {
+            "t": "Jon Snow, Lord Commander",
+            "d": "Được bầu làm Lord Commander của Đội Tuần Đêm, Jon mở Bức Tường cho người Hoang Dã. Các huynh đệ đâm ông vì tội phản bội, nhưng Melisandre đưa ông trở lại cõi sống."
+          },
+          {
+            "t": "Trận chiến của Những Đứa Con Hoang",
+            "d": "Jon và Sansa chiếm lại Winterfell từ tay Ramsay Bolton trong một cuộc giao tranh khủng khiếp. Jon được các lãnh chúa trong vùng tôn làm Vua phương Bắc."
+          },
+          {
+            "t": "Cersei phá hủy Đại Thánh Đường",
+            "d": "Để thoát khỏi phiên xét xử, Cersei cho nổ tung Đại Thánh Đường Baelor bằng lửa hoang, giết chết kẻ thù. Vua Tommen tự vẫn, và Cersei tự đội vương miện hoàng hậu."
+          },
+          {
+            "t": "Daenerys đến Westeros",
+            "d": "Daenerys đổ bộ lên Dragonstone cùng những con rồng, đội quân và đồng minh. Tại đó cô gặp Jon, người cùng cô liên minh chống lại mối đe dọa từ phương Bắc."
+          },
+          {
+            "t": "Trận chiến Winterfell",
+            "d": "Người sống đối đầu với đội quân xác chết của Vua Đêm. Arya Stark giết Vua Đêm và chấm dứt Đêm Dài."
+          },
+          {
+            "t": "Sự sụp đổ của King's Landing",
+            "d": "Daenerys, bị những mất mát đẩy đến bờ vực điên loạn, thiêu rụi King's Landing bằng con rồng của mình dù thành phố đã đầu hàng. Kinh thành hóa thành tro tàn."
+          },
+          {
+            "t": "Cái kết của Daenerys",
+            "d": "Jon Snow, lòng đau như cắt, đâm Daenerys, và con rồng Drogon mang thi thể cô đi. Tyrion cùng các lãnh chúa Westeros họp lại để quyết định tương lai vương quốc."
+          },
+          {
+            "t": "Bran Tàn Phế và phương Bắc độc lập",
+            "d": "Bran Stark được chọn cai trị Sáu Vương Quốc, trong khi phương Bắc trở nên độc lập dưới quyền nữ vương Sansa. Jon trở về Đội Tuần Đêm, rồi đi tiếp qua bên kia Bức Tường."
+          }
+        ]
+      }
+    }
+  }
+}
